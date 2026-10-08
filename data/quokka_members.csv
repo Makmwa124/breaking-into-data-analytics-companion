@@ -1,0 +1,3001 @@
+member_id,join_date,home_club,plan,monthly_fee,contract,age_band,visits_last_90d,attends_classes,tenure_months,cancelled
+Q10000,2023-02-21,Prospect,Standard,59,No contract,25-34,13,1,3,1
+Q10001,2023-11-25,Prospect,Standard,59,12-month,25-34,10,0,25,0
+Q10002,2025-08-21,Mawson Lakes,Standard,59,No contract,18-24,12,0,1,1
+Q10003,2023-08-22,Unley,Standard,59,12-month,25-34,15,1,28,0
+Q10004,2024-01-11,Prospect,Casual,39,No contract,35-44,16,0,23,0
+Q10005,2024-08-22,Unley,Standard,59,12-month,35-44,18,1,16,0
+Q10006,2024-07-20,Unley,Standard,59,12-month,18-24,12,0,16,1
+Q10007,2024-07-06,Unley,Casual,39,No contract,25-34,7,0,17,0
+Q10008,2023-06-17,Prospect,Standard,59,12-month,55+,22,1,30,0
+Q10009,2023-06-13,Unley,Premium,89,No contract,18-24,26,0,30,0
+Q10010,2023-12-15,Norwood,Casual,39,No contract,55+,12,1,24,0
+Q10011,2023-01-02,Unley,Premium,89,12-month,45-54,25,1,35,0
+Q10012,2024-12-30,Mawson Lakes,Standard,59,12-month,18-24,10,0,4,1
+Q10013,2025-04-02,Unley,Standard,59,12-month,35-44,14,0,8,0
+Q10014,2024-04-05,Mawson Lakes,Standard,59,No contract,45-54,17,0,20,0
+Q10015,2025-08-27,Prospect,Standard,59,No contract,25-34,11,0,4,0
+Q10016,2024-11-20,Norwood,Standard,59,12-month,45-54,16,0,13,0
+Q10017,2024-09-22,Mawson Lakes,Casual,39,No contract,25-34,12,0,15,0
+Q10018,2023-06-27,Prospect,Standard,59,12-month,35-44,7,1,25,1
+Q10019,2024-09-28,Norwood,Standard,59,12-month,25-34,17,0,15,0
+Q10020,2023-06-12,Prospect,Casual,39,No contract,25-34,12,0,25,1
+Q10021,2024-01-12,Norwood,Standard,59,12-month,45-54,13,1,23,0
+Q10022,2023-02-17,Prospect,Standard,59,No contract,18-24,13,0,22,1
+Q10023,2024-08-18,Unley,Standard,59,12-month,25-34,18,0,16,0
+Q10024,2023-04-29,Unley,Casual,39,No contract,55+,11,0,15,1
+Q10025,2024-10-02,Unley,Standard,59,No contract,25-34,12,1,7,1
+Q10026,2023-03-25,Unley,Premium,89,12-month,45-54,26,1,33,0
+Q10027,2023-11-23,Norwood,Standard,59,No contract,18-24,16,1,25,0
+Q10028,2023-10-23,Unley,Premium,89,12-month,45-54,27,1,26,0
+Q10029,2024-10-06,Mawson Lakes,Premium,89,No contract,55+,22,1,14,0
+Q10030,2023-09-20,Mawson Lakes,Standard,59,12-month,25-34,26,0,27,0
+Q10031,2025-03-14,Norwood,Premium,89,12-month,25-34,29,1,2,1
+Q10032,2023-10-15,Unley,Premium,89,12-month,25-34,26,0,26,0
+Q10033,2025-01-11,Mawson Lakes,Premium,89,No contract,55+,28,1,11,0
+Q10034,2024-04-11,Norwood,Standard,59,12-month,25-34,15,0,20,0
+Q10035,2025-01-30,Unley,Standard,59,12-month,45-54,20,0,4,1
+Q10036,2024-05-14,Prospect,Standard,59,No contract,25-34,18,0,19,0
+Q10037,2023-09-11,Norwood,Premium,89,No contract,18-24,25,1,27,0
+Q10038,2023-01-23,Norwood,Casual,39,No contract,18-24,7,0,4,1
+Q10039,2024-12-18,Unley,Premium,89,12-month,35-44,23,1,12,0
+Q10040,2025-06-23,Prospect,Standard,59,12-month,25-34,14,0,6,0
+Q10041,2024-10-07,Unley,Standard,59,12-month,45-54,15,0,14,0
+Q10042,2023-01-28,Norwood,Premium,89,No contract,35-44,18,1,24,1
+Q10043,2024-10-19,Unley,Casual,39,No contract,45-54,5,1,9,1
+Q10044,2025-07-01,Norwood,Standard,59,12-month,18-24,13,1,6,0
+Q10045,2023-04-09,Unley,Standard,59,12-month,25-34,15,1,32,0
+Q10046,2023-02-28,Prospect,Casual,39,No contract,35-44,3,0,15,1
+Q10047,2024-06-24,Prospect,Premium,89,No contract,18-24,33,1,18,0
+Q10048,2025-04-16,Norwood,Standard,59,No contract,25-34,14,0,6,1
+Q10049,2024-06-19,Mawson Lakes,Premium,89,No contract,25-34,22,1,18,0
+Q10050,2025-06-22,Prospect,Casual,39,No contract,25-34,10,0,6,0
+Q10051,2023-11-28,Norwood,Standard,59,12-month,18-24,10,1,22,1
+Q10052,2024-07-10,Prospect,Standard,59,12-month,25-34,18,0,17,0
+Q10053,2025-09-11,Prospect,Standard,59,12-month,35-44,9,0,3,0
+Q10054,2024-08-26,Prospect,Standard,59,12-month,25-34,17,1,16,0
+Q10055,2024-09-22,Unley,Premium,89,12-month,35-44,36,0,15,0
+Q10056,2023-01-02,Norwood,Casual,39,No contract,25-34,6,0,7,1
+Q10057,2025-05-30,Norwood,Casual,39,No contract,55+,9,1,6,1
+Q10058,2023-12-20,Prospect,Casual,39,No contract,18-24,13,1,24,0
+Q10059,2024-05-08,Norwood,Standard,59,No contract,25-34,13,0,19,0
+Q10060,2024-05-11,Prospect,Standard,59,No contract,35-44,19,1,18,1
+Q10061,2023-04-11,Mawson Lakes,Standard,59,No contract,18-24,13,1,32,0
+Q10062,2023-02-11,Norwood,Standard,59,No contract,35-44,13,0,34,0
+Q10063,2025-07-15,Prospect,Casual,39,No contract,45-54,8,0,5,0
+Q10064,2025-07-02,Norwood,Standard,59,No contract,18-24,25,1,5,0
+Q10065,2024-01-23,Norwood,Standard,59,No contract,55+,9,1,23,0
+Q10066,2023-04-17,Norwood,Standard,59,No contract,25-34,12,0,32,0
+Q10067,2025-04-24,Unley,Standard,59,No contract,45-54,22,0,6,1
+Q10068,2024-01-09,Prospect,Standard,59,No contract,25-34,13,1,23,0
+Q10069,2023-01-20,Prospect,Casual,39,No contract,25-34,5,0,15,1
+Q10070,2023-08-28,Unley,Standard,59,12-month,35-44,17,1,28,0
+Q10071,2025-02-24,Norwood,Standard,59,No contract,25-34,18,1,2,1
+Q10072,2023-02-03,Norwood,Standard,59,12-month,25-34,17,1,34,0
+Q10073,2025-03-15,Prospect,Standard,59,12-month,25-34,14,0,9,0
+Q10074,2023-10-29,Norwood,Premium,89,No contract,25-34,23,0,26,0
+Q10075,2024-12-20,Norwood,Casual,39,No contract,35-44,10,0,9,1
+Q10076,2024-05-14,Unley,Standard,59,No contract,25-34,16,0,19,0
+Q10077,2023-04-14,Unley,Premium,89,No contract,45-54,18,1,32,0
+Q10078,2024-11-08,Mawson Lakes,Casual,39,No contract,55+,5,0,13,0
+Q10079,2023-02-22,Mawson Lakes,Premium,89,12-month,35-44,27,1,34,0
+Q10080,2024-01-22,Mawson Lakes,Casual,39,No contract,18-24,4,0,16,1
+Q10081,2025-01-16,Norwood,Standard,59,12-month,18-24,14,0,6,1
+Q10082,2023-01-25,Norwood,Standard,59,No contract,25-34,18,1,35,0
+Q10083,2025-05-16,Prospect,Standard,59,12-month,55+,17,0,7,0
+Q10084,2024-09-28,Unley,Premium,89,No contract,55+,21,0,8,1
+Q10085,2023-06-06,Unley,Premium,89,No contract,35-44,21,1,30,0
+Q10086,2024-08-09,Prospect,Standard,59,12-month,18-24,19,0,16,0
+Q10087,2024-08-10,Mawson Lakes,Standard,59,No contract,55+,10,0,16,0
+Q10088,2024-03-05,Norwood,Premium,89,No contract,55+,12,0,21,0
+Q10089,2024-03-29,Unley,Casual,39,No contract,45-54,11,0,21,0
+Q10090,2024-10-26,Mawson Lakes,Casual,39,No contract,25-34,7,0,2,1
+Q10091,2024-09-16,Norwood,Standard,59,No contract,55+,19,0,15,0
+Q10092,2025-08-14,Norwood,Standard,59,No contract,18-24,12,0,4,0
+Q10093,2025-04-03,Prospect,Standard,59,No contract,25-34,12,0,8,0
+Q10094,2023-03-14,Unley,Standard,59,12-month,35-44,13,1,9,1
+Q10095,2024-12-25,Unley,Standard,59,12-month,25-34,11,0,3,1
+Q10096,2025-04-07,Norwood,Premium,89,No contract,25-34,28,1,8,0
+Q10097,2023-05-31,Prospect,Premium,89,No contract,35-44,22,0,31,0
+Q10098,2023-06-03,Mawson Lakes,Standard,59,12-month,35-44,17,0,30,0
+Q10099,2025-06-22,Mawson Lakes,Standard,59,12-month,18-24,12,0,6,0
+Q10100,2024-03-10,Mawson Lakes,Premium,89,No contract,35-44,15,0,21,0
+Q10101,2024-05-27,Prospect,Standard,59,12-month,18-24,17,0,19,0
+Q10102,2024-09-28,Unley,Standard,59,No contract,35-44,14,0,15,0
+Q10103,2024-12-31,Prospect,Standard,59,12-month,25-34,14,0,2,1
+Q10104,2023-03-18,Prospect,Premium,89,12-month,45-54,21,1,33,0
+Q10105,2024-03-18,Norwood,Standard,59,12-month,45-54,18,1,21,0
+Q10106,2023-01-12,Prospect,Premium,89,No contract,18-24,16,0,35,0
+Q10107,2023-02-14,Prospect,Standard,59,No contract,25-34,15,0,34,0
+Q10108,2023-05-29,Norwood,Casual,39,No contract,45-54,7,1,31,0
+Q10109,2024-12-08,Norwood,Standard,59,12-month,25-34,13,0,12,0
+Q10110,2024-07-29,Unley,Standard,59,12-month,18-24,16,1,17,0
+Q10111,2024-08-17,Norwood,Casual,39,No contract,18-24,14,1,16,0
+Q10112,2024-06-07,Mawson Lakes,Standard,59,No contract,45-54,14,0,16,1
+Q10113,2023-11-15,Norwood,Casual,39,No contract,35-44,9,1,25,0
+Q10114,2025-07-03,Prospect,Standard,59,No contract,45-54,18,1,5,0
+Q10115,2025-05-16,Unley,Premium,89,12-month,25-34,14,1,7,0
+Q10116,2024-04-08,Mawson Lakes,Standard,59,12-month,25-34,11,0,20,0
+Q10117,2023-01-25,Unley,Casual,39,No contract,25-34,13,1,35,0
+Q10118,2024-07-19,Mawson Lakes,Standard,59,12-month,25-34,12,0,17,0
+Q10119,2023-11-15,Norwood,Premium,89,12-month,45-54,29,1,25,0
+Q10120,2023-09-29,Unley,Premium,89,12-month,45-54,19,1,27,0
+Q10121,2025-03-31,Unley,Standard,59,12-month,55+,11,0,9,0
+Q10122,2024-08-04,Unley,Premium,89,No contract,18-24,20,1,16,0
+Q10123,2025-01-08,Mawson Lakes,Standard,59,No contract,55+,20,0,11,0
+Q10124,2024-06-12,Prospect,Casual,39,No contract,35-44,4,0,2,1
+Q10125,2025-07-24,Prospect,Standard,59,No contract,25-34,12,0,5,0
+Q10126,2025-02-16,Norwood,Premium,89,No contract,45-54,24,0,10,0
+Q10127,2025-06-19,Prospect,Premium,89,No contract,45-54,17,1,6,0
+Q10128,2024-11-29,Unley,Standard,59,No contract,18-24,9,0,13,0
+Q10129,2024-10-21,Norwood,Standard,59,12-month,25-34,16,0,14,0
+Q10130,2023-05-01,Norwood,Standard,59,No contract,18-24,18,0,10,1
+Q10131,2023-04-14,Norwood,Casual,39,No contract,35-44,4,0,26,1
+Q10132,2025-07-23,Norwood,Standard,59,No contract,45-54,23,0,4,1
+Q10133,2023-08-24,Prospect,Premium,89,12-month,18-24,23,0,28,0
+Q10134,2025-04-14,Mawson Lakes,Casual,39,No contract,45-54,10,0,8,0
+Q10135,2025-04-13,Unley,Standard,59,12-month,18-24,14,0,4,1
+Q10136,2024-08-06,Norwood,Standard,59,12-month,25-34,10,0,6,1
+Q10137,2025-01-28,Norwood,Standard,59,12-month,45-54,14,1,11,0
+Q10138,2024-10-31,Prospect,Casual,39,No contract,45-54,6,0,13,0
+Q10139,2024-05-28,Mawson Lakes,Standard,59,No contract,25-34,16,0,19,0
+Q10140,2023-03-30,Mawson Lakes,Standard,59,No contract,45-54,12,0,33,0
+Q10141,2023-09-06,Prospect,Premium,89,No contract,25-34,29,0,27,0
+Q10142,2023-09-09,Mawson Lakes,Premium,89,12-month,25-34,19,1,27,0
+Q10143,2023-03-21,Norwood,Casual,39,No contract,45-54,9,0,33,0
+Q10144,2025-08-16,Prospect,Premium,89,12-month,18-24,19,0,2,1
+Q10145,2023-09-15,Mawson Lakes,Premium,89,12-month,45-54,19,1,27,0
+Q10146,2023-09-16,Unley,Premium,89,No contract,35-44,25,0,27,0
+Q10147,2024-01-01,Mawson Lakes,Casual,39,No contract,45-54,3,0,5,1
+Q10148,2024-06-17,Mawson Lakes,Premium,89,No contract,55+,28,1,18,0
+Q10149,2024-02-12,Norwood,Standard,59,No contract,35-44,11,0,22,0
+Q10150,2025-05-17,Unley,Casual,39,No contract,55+,8,1,1,1
+Q10151,2024-04-22,Norwood,Standard,59,12-month,25-34,12,1,20,0
+Q10152,2023-07-23,Norwood,Standard,59,12-month,45-54,12,0,28,1
+Q10153,2024-01-28,Mawson Lakes,Standard,59,12-month,55+,12,0,23,0
+Q10154,2025-09-02,Unley,Casual,39,No contract,25-34,6,0,1,1
+Q10155,2025-01-06,Prospect,Standard,59,No contract,25-34,13,1,1,1
+Q10156,2023-01-25,Norwood,Premium,89,12-month,25-34,18,1,35,0
+Q10157,2023-10-16,Prospect,Casual,39,No contract,18-24,5,0,22,1
+Q10158,2025-02-17,Unley,Casual,39,No contract,25-34,9,0,4,1
+Q10159,2025-05-25,Mawson Lakes,Casual,39,No contract,25-34,4,0,6,1
+Q10160,2023-06-27,Norwood,Standard,59,No contract,45-54,20,1,10,1
+Q10161,2024-10-04,Unley,Standard,59,12-month,35-44,8,0,5,1
+Q10162,2023-08-17,Unley,Casual,39,No contract,18-24,7,0,28,0
+Q10163,2023-06-18,Unley,Standard,59,No contract,45-54,20,0,15,1
+Q10164,2023-01-25,Prospect,Premium,89,No contract,35-44,15,1,35,0
+Q10165,2023-04-14,Norwood,Premium,89,12-month,55+,16,1,32,0
+Q10166,2024-01-12,Norwood,Premium,89,12-month,35-44,16,0,23,0
+Q10167,2025-01-30,Unley,Standard,59,No contract,18-24,18,0,11,0
+Q10168,2023-11-04,Unley,Standard,59,12-month,55+,12,0,25,0
+Q10169,2024-05-09,Norwood,Standard,59,12-month,35-44,15,0,19,0
+Q10170,2023-11-10,Norwood,Premium,89,No contract,25-34,25,1,25,0
+Q10171,2025-08-23,Unley,Casual,39,No contract,25-34,10,0,4,0
+Q10172,2024-08-05,Unley,Standard,59,No contract,25-34,11,0,16,0
+Q10173,2023-01-22,Unley,Premium,89,12-month,18-24,22,1,35,0
+Q10174,2023-12-12,Norwood,Standard,59,No contract,35-44,17,0,24,0
+Q10175,2023-12-10,Norwood,Casual,39,No contract,35-44,6,1,9,1
+Q10176,2024-01-04,Prospect,Standard,59,12-month,55+,11,0,23,0
+Q10177,2025-02-05,Unley,Casual,39,No contract,35-44,11,0,5,1
+Q10178,2023-07-17,Norwood,Premium,89,12-month,35-44,17,1,29,0
+Q10179,2024-11-16,Norwood,Standard,59,No contract,45-54,16,0,13,0
+Q10180,2023-05-07,Prospect,Standard,59,No contract,25-34,22,0,31,0
+Q10181,2024-03-26,Unley,Standard,59,12-month,25-34,15,0,21,0
+Q10182,2025-01-26,Norwood,Casual,39,No contract,35-44,6,0,3,1
+Q10183,2025-02-09,Unley,Standard,59,12-month,55+,13,0,10,0
+Q10184,2023-07-25,Prospect,Standard,59,12-month,18-24,7,0,3,1
+Q10185,2024-07-08,Mawson Lakes,Standard,59,No contract,25-34,16,0,9,1
+Q10186,2023-12-12,Prospect,Premium,89,No contract,18-24,22,0,24,0
+Q10187,2025-09-04,Prospect,Premium,89,12-month,25-34,18,1,3,0
+Q10188,2023-01-20,Prospect,Premium,89,No contract,25-34,15,1,35,0
+Q10189,2024-02-12,Norwood,Standard,59,No contract,25-34,19,0,22,0
+Q10190,2024-09-08,Norwood,Standard,59,No contract,35-44,8,0,15,0
+Q10191,2023-11-20,Prospect,Standard,59,No contract,55+,14,1,11,1
+Q10192,2023-06-22,Prospect,Standard,59,No contract,35-44,18,0,30,0
+Q10193,2024-04-15,Mawson Lakes,Premium,89,12-month,35-44,24,1,20,0
+Q10194,2025-07-25,Norwood,Standard,59,12-month,18-24,23,0,5,0
+Q10195,2025-01-29,Unley,Casual,39,No contract,45-54,10,1,11,0
+Q10196,2024-07-25,Unley,Standard,59,12-month,25-34,15,0,17,0
+Q10197,2025-04-18,Unley,Standard,59,12-month,55+,10,0,8,0
+Q10198,2023-07-31,Unley,Standard,59,No contract,35-44,16,0,29,0
+Q10199,2023-07-20,Norwood,Casual,39,No contract,45-54,7,0,29,0
+Q10200,2024-07-02,Norwood,Standard,59,No contract,35-44,12,1,17,0
+Q10201,2024-08-16,Unley,Standard,59,No contract,45-54,14,1,16,0
+Q10202,2023-07-12,Norwood,Standard,59,12-month,35-44,16,0,29,0
+Q10203,2024-08-08,Prospect,Casual,39,No contract,55+,6,0,3,1
+Q10204,2025-04-15,Prospect,Standard,59,No contract,25-34,12,1,5,1
+Q10205,2023-07-21,Unley,Casual,39,No contract,25-34,4,0,8,1
+Q10206,2023-05-26,Unley,Standard,59,12-month,25-34,15,0,31,0
+Q10207,2024-01-11,Prospect,Premium,89,12-month,25-34,27,1,23,0
+Q10208,2024-12-14,Prospect,Standard,59,No contract,18-24,13,0,12,0
+Q10209,2023-10-13,Norwood,Standard,59,12-month,35-44,18,0,26,0
+Q10210,2023-03-03,Unley,Casual,39,No contract,18-24,7,1,8,1
+Q10211,2025-05-06,Mawson Lakes,Premium,89,12-month,25-34,21,0,7,0
+Q10212,2023-10-19,Unley,Premium,89,12-month,25-34,19,0,26,0
+Q10213,2023-10-01,Unley,Premium,89,No contract,18-24,31,1,27,0
+Q10214,2024-06-29,Mawson Lakes,Casual,39,No contract,25-34,5,1,7,1
+Q10215,2024-02-08,Norwood,Standard,59,No contract,55+,8,0,22,0
+Q10216,2024-07-22,Unley,Casual,39,No contract,25-34,5,0,14,1
+Q10217,2023-07-07,Prospect,Standard,59,No contract,45-54,9,0,20,1
+Q10218,2025-06-17,Prospect,Standard,59,12-month,25-34,13,1,6,0
+Q10219,2024-11-17,Mawson Lakes,Standard,59,12-month,25-34,10,0,13,0
+Q10220,2023-04-20,Norwood,Standard,59,12-month,35-44,16,1,32,0
+Q10221,2025-05-21,Unley,Standard,59,12-month,25-34,11,0,7,0
+Q10222,2024-12-30,Norwood,Standard,59,No contract,55+,13,1,12,0
+Q10223,2024-09-17,Norwood,Premium,89,12-month,25-34,15,1,15,0
+Q10224,2025-04-19,Norwood,Casual,39,No contract,25-34,12,1,8,0
+Q10225,2024-12-12,Unley,Standard,59,12-month,18-24,12,0,12,0
+Q10226,2023-05-06,Unley,Casual,39,No contract,25-34,12,0,31,0
+Q10227,2024-09-28,Unley,Casual,39,No contract,25-34,9,0,11,1
+Q10228,2023-05-18,Mawson Lakes,Standard,59,12-month,45-54,12,0,31,0
+Q10229,2024-04-19,Norwood,Standard,59,No contract,35-44,13,0,20,0
+Q10230,2024-11-03,Prospect,Premium,89,No contract,25-34,24,0,13,0
+Q10231,2024-06-01,Norwood,Standard,59,No contract,35-44,12,1,18,0
+Q10232,2024-09-02,Prospect,Casual,39,No contract,18-24,7,0,11,1
+Q10233,2024-10-18,Norwood,Casual,39,No contract,18-24,9,0,14,0
+Q10234,2025-06-03,Norwood,Premium,89,No contract,45-54,15,1,6,0
+Q10235,2025-04-06,Mawson Lakes,Premium,89,12-month,25-34,19,0,8,0
+Q10236,2025-01-14,Prospect,Standard,59,12-month,35-44,13,1,11,0
+Q10237,2023-03-17,Prospect,Premium,89,12-month,55+,18,1,33,0
+Q10238,2023-06-29,Norwood,Casual,39,No contract,25-34,7,0,11,1
+Q10239,2024-08-12,Unley,Standard,59,No contract,25-34,9,1,16,0
+Q10240,2023-09-05,Norwood,Casual,39,No contract,55+,8,1,17,1
+Q10241,2023-09-24,Norwood,Standard,59,12-month,18-24,15,0,27,0
+Q10242,2024-10-24,Prospect,Standard,59,12-month,35-44,11,0,12,1
+Q10243,2023-10-11,Norwood,Premium,89,No contract,25-34,23,1,26,0
+Q10244,2024-02-04,Unley,Standard,59,12-month,45-54,16,0,22,0
+Q10245,2024-07-09,Unley,Standard,59,12-month,45-54,14,0,17,0
+Q10246,2023-06-04,Prospect,Standard,59,12-month,35-44,22,0,30,0
+Q10247,2024-02-20,Unley,Standard,59,12-month,45-54,11,1,22,0
+Q10248,2023-11-05,Norwood,Standard,59,No contract,45-54,16,0,11,1
+Q10249,2025-02-04,Unley,Premium,89,12-month,45-54,21,1,10,0
+Q10250,2024-02-28,Prospect,Casual,39,No contract,45-54,12,0,22,0
+Q10251,2024-04-29,Prospect,Premium,89,12-month,25-34,23,1,20,0
+Q10252,2023-01-01,Unley,Casual,39,No contract,18-24,8,0,35,0
+Q10253,2023-11-23,Norwood,Casual,39,No contract,55+,7,0,25,0
+Q10254,2024-09-01,Prospect,Standard,59,No contract,45-54,20,0,15,0
+Q10255,2023-07-31,Mawson Lakes,Casual,39,No contract,25-34,3,1,29,0
+Q10256,2024-01-25,Unley,Casual,39,No contract,25-34,7,0,23,0
+Q10257,2023-11-12,Unley,Standard,59,12-month,18-24,9,0,25,0
+Q10258,2023-02-28,Unley,Premium,89,12-month,25-34,33,1,34,0
+Q10259,2023-08-18,Norwood,Standard,59,12-month,18-24,10,1,28,0
+Q10260,2024-12-23,Unley,Standard,59,No contract,18-24,12,1,12,0
+Q10261,2023-08-19,Norwood,Premium,89,No contract,55+,22,0,28,0
+Q10262,2025-07-19,Mawson Lakes,Standard,59,No contract,25-34,11,0,1,1
+Q10263,2025-05-04,Norwood,Casual,39,No contract,25-34,8,0,3,1
+Q10264,2023-05-01,Norwood,Standard,59,12-month,35-44,8,1,27,1
+Q10265,2023-04-29,Prospect,Premium,89,No contract,18-24,15,1,32,0
+Q10266,2024-04-03,Mawson Lakes,Standard,59,No contract,18-24,11,0,19,1
+Q10267,2024-08-10,Mawson Lakes,Standard,59,12-month,25-34,16,1,16,0
+Q10268,2025-02-24,Mawson Lakes,Premium,89,12-month,55+,18,1,10,0
+Q10269,2025-06-30,Mawson Lakes,Standard,59,No contract,25-34,17,1,6,0
+Q10270,2023-07-24,Prospect,Standard,59,No contract,35-44,17,0,29,0
+Q10271,2023-05-13,Prospect,Standard,59,No contract,18-24,21,1,31,0
+Q10272,2023-05-31,Mawson Lakes,Casual,39,No contract,25-34,10,1,31,0
+Q10273,2023-12-10,Prospect,Premium,89,No contract,35-44,14,1,24,0
+Q10274,2025-06-26,Norwood,Standard,59,No contract,18-24,16,0,3,1
+Q10275,2024-08-30,Mawson Lakes,Casual,39,No contract,35-44,7,0,2,1
+Q10276,2024-11-29,Unley,Standard,59,12-month,45-54,14,0,13,0
+Q10277,2023-10-11,Mawson Lakes,Casual,39,No contract,18-24,5,0,26,0
+Q10278,2023-10-23,Unley,Standard,59,12-month,35-44,18,1,26,0
+Q10279,2024-09-15,Norwood,Premium,89,12-month,45-54,22,0,15,0
+Q10280,2024-05-25,Unley,Standard,59,No contract,45-54,20,0,19,0
+Q10281,2023-08-06,Unley,Standard,59,No contract,18-24,14,0,28,0
+Q10282,2024-11-21,Mawson Lakes,Premium,89,No contract,45-54,25,0,13,0
+Q10283,2023-10-10,Unley,Standard,59,12-month,25-34,9,1,26,0
+Q10284,2023-08-05,Mawson Lakes,Standard,59,No contract,18-24,20,0,25,1
+Q10285,2025-02-27,Norwood,Casual,39,No contract,55+,8,0,9,1
+Q10286,2024-07-09,Unley,Standard,59,12-month,45-54,13,0,17,0
+Q10287,2025-03-21,Mawson Lakes,Casual,39,No contract,45-54,7,0,5,1
+Q10288,2024-02-26,Norwood,Standard,59,12-month,45-54,14,0,22,0
+Q10289,2023-01-17,Unley,Casual,39,No contract,35-44,7,1,35,0
+Q10290,2024-07-06,Mawson Lakes,Casual,39,No contract,18-24,8,0,12,1
+Q10291,2024-12-10,Norwood,Standard,59,12-month,55+,15,0,12,0
+Q10292,2024-10-14,Unley,Premium,89,No contract,35-44,17,1,14,0
+Q10293,2023-11-30,Prospect,Standard,59,12-month,55+,15,0,23,1
+Q10294,2023-04-22,Norwood,Casual,39,No contract,55+,13,0,32,0
+Q10295,2025-03-28,Unley,Premium,89,12-month,55+,13,1,9,0
+Q10296,2023-02-16,Unley,Standard,59,12-month,45-54,9,0,34,0
+Q10297,2024-10-19,Norwood,Standard,59,12-month,45-54,13,0,14,0
+Q10298,2024-11-12,Norwood,Standard,59,No contract,25-34,16,0,13,0
+Q10299,2024-10-29,Prospect,Premium,89,No contract,25-34,29,1,14,0
+Q10300,2024-06-12,Norwood,Standard,59,12-month,25-34,21,1,18,0
+Q10301,2024-02-29,Mawson Lakes,Standard,59,12-month,18-24,18,0,22,0
+Q10302,2023-03-20,Unley,Casual,39,No contract,25-34,7,1,32,1
+Q10303,2023-06-16,Mawson Lakes,Casual,39,No contract,35-44,6,0,7,1
+Q10304,2024-10-25,Mawson Lakes,Premium,89,12-month,45-54,17,0,14,0
+Q10305,2024-01-13,Norwood,Premium,89,No contract,45-54,21,1,23,0
+Q10306,2023-01-02,Unley,Standard,59,No contract,35-44,15,0,33,1
+Q10307,2024-02-14,Unley,Casual,39,No contract,18-24,9,1,19,1
+Q10308,2024-10-17,Prospect,Standard,59,12-month,35-44,12,0,14,0
+Q10309,2024-12-01,Prospect,Casual,39,No contract,18-24,8,1,12,0
+Q10310,2023-05-16,Norwood,Standard,59,12-month,35-44,14,1,31,0
+Q10311,2023-05-28,Mawson Lakes,Casual,39,No contract,25-34,8,0,31,0
+Q10312,2023-01-28,Norwood,Standard,59,No contract,55+,19,0,35,0
+Q10313,2023-01-23,Prospect,Premium,89,12-month,25-34,28,1,35,0
+Q10314,2024-09-19,Unley,Standard,59,12-month,35-44,16,0,15,0
+Q10315,2024-05-28,Prospect,Casual,39,No contract,18-24,5,0,11,1
+Q10316,2025-04-21,Prospect,Premium,89,No contract,25-34,28,0,6,1
+Q10317,2024-05-07,Prospect,Premium,89,12-month,35-44,24,1,19,0
+Q10318,2025-07-29,Prospect,Casual,39,No contract,45-54,5,0,4,1
+Q10319,2024-09-11,Unley,Premium,89,No contract,55+,17,0,12,1
+Q10320,2024-11-08,Norwood,Casual,39,No contract,35-44,4,0,9,1
+Q10321,2023-06-24,Norwood,Standard,59,No contract,35-44,10,0,9,1
+Q10322,2024-10-13,Prospect,Premium,89,12-month,18-24,24,1,1,1
+Q10323,2023-11-04,Unley,Standard,59,No contract,25-34,16,0,25,0
+Q10324,2024-03-04,Norwood,Premium,89,12-month,45-54,20,1,21,0
+Q10325,2024-09-08,Mawson Lakes,Standard,59,No contract,25-34,13,1,15,0
+Q10326,2023-10-01,Mawson Lakes,Standard,59,12-month,45-54,18,1,27,0
+Q10327,2024-09-20,Prospect,Premium,89,No contract,18-24,15,0,12,1
+Q10328,2024-05-21,Norwood,Standard,59,12-month,18-24,15,1,19,0
+Q10329,2023-11-25,Prospect,Premium,89,No contract,18-24,27,1,25,0
+Q10330,2024-11-02,Norwood,Premium,89,No contract,25-34,24,0,13,0
+Q10331,2023-08-26,Norwood,Standard,59,No contract,18-24,15,0,19,1
+Q10332,2024-01-28,Prospect,Standard,59,No contract,35-44,19,0,20,1
+Q10333,2024-04-27,Mawson Lakes,Premium,89,12-month,25-34,27,0,20,0
+Q10334,2024-09-29,Prospect,Premium,89,No contract,35-44,26,1,6,1
+Q10335,2025-07-30,Norwood,Standard,59,12-month,45-54,12,0,1,1
+Q10336,2024-09-23,Norwood,Casual,39,No contract,18-24,10,0,2,1
+Q10337,2024-10-12,Unley,Premium,89,No contract,45-54,22,0,14,0
+Q10338,2025-06-20,Prospect,Casual,39,No contract,18-24,12,1,5,1
+Q10339,2025-08-22,Prospect,Standard,59,12-month,35-44,11,1,4,0
+Q10340,2024-04-15,Norwood,Premium,89,12-month,45-54,14,0,20,0
+Q10341,2023-01-16,Unley,Casual,39,No contract,35-44,4,1,4,1
+Q10342,2023-12-17,Unley,Standard,59,No contract,35-44,16,0,24,0
+Q10343,2023-06-18,Unley,Standard,59,No contract,25-34,14,1,26,1
+Q10344,2024-04-06,Mawson Lakes,Casual,39,No contract,45-54,12,0,20,0
+Q10345,2025-06-29,Norwood,Standard,59,12-month,55+,16,1,6,0
+Q10346,2025-05-19,Norwood,Standard,59,12-month,25-34,10,0,7,0
+Q10347,2025-05-28,Norwood,Premium,89,12-month,18-24,15,1,7,0
+Q10348,2025-07-22,Mawson Lakes,Standard,59,12-month,55+,22,0,5,0
+Q10349,2023-01-22,Norwood,Casual,39,No contract,25-34,7,1,10,1
+Q10350,2025-05-20,Norwood,Casual,39,No contract,25-34,7,1,5,1
+Q10351,2023-05-04,Norwood,Premium,89,12-month,35-44,25,0,31,0
+Q10352,2024-02-08,Norwood,Standard,59,No contract,45-54,23,0,22,0
+Q10353,2025-01-02,Unley,Casual,39,No contract,45-54,5,0,11,0
+Q10354,2023-01-09,Unley,Standard,59,12-month,45-54,9,0,35,0
+Q10355,2023-12-01,Unley,Casual,39,No contract,25-34,13,1,25,0
+Q10356,2023-01-28,Norwood,Premium,89,12-month,55+,22,1,35,0
+Q10357,2023-12-24,Unley,Premium,89,No contract,25-34,28,0,14,1
+Q10358,2023-06-06,Unley,Casual,39,No contract,18-24,9,1,5,1
+Q10359,2023-08-15,Prospect,Standard,59,No contract,55+,17,1,28,0
+Q10360,2023-02-12,Norwood,Standard,59,12-month,35-44,24,1,34,0
+Q10361,2024-12-13,Norwood,Standard,59,No contract,45-54,8,1,12,0
+Q10362,2025-09-20,Prospect,Premium,89,No contract,45-54,22,0,3,0
+Q10363,2023-05-08,Prospect,Standard,59,12-month,45-54,13,1,31,0
+Q10364,2025-02-16,Unley,Standard,59,No contract,25-34,13,0,8,1
+Q10365,2023-07-01,Norwood,Premium,89,12-month,35-44,28,1,30,0
+Q10366,2023-04-14,Unley,Premium,89,12-month,35-44,23,0,32,0
+Q10367,2023-10-21,Prospect,Premium,89,No contract,45-54,22,1,26,0
+Q10368,2024-09-10,Unley,Standard,59,12-month,45-54,15,0,15,0
+Q10369,2024-12-25,Norwood,Standard,59,No contract,18-24,19,1,12,0
+Q10370,2023-07-17,Prospect,Standard,59,12-month,35-44,15,0,29,0
+Q10371,2025-06-29,Unley,Casual,39,No contract,18-24,5,1,3,1
+Q10372,2023-11-13,Unley,Premium,89,No contract,25-34,19,1,25,0
+Q10373,2024-01-14,Prospect,Casual,39,No contract,35-44,6,1,6,1
+Q10374,2023-04-02,Prospect,Premium,89,No contract,35-44,13,1,32,0
+Q10375,2023-12-27,Mawson Lakes,Standard,59,12-month,25-34,20,0,24,0
+Q10376,2024-07-31,Norwood,Casual,39,No contract,18-24,11,0,2,1
+Q10377,2023-09-24,Prospect,Premium,89,12-month,45-54,19,1,27,0
+Q10378,2023-09-24,Unley,Premium,89,12-month,25-34,16,1,27,0
+Q10379,2023-10-03,Prospect,Casual,39,No contract,55+,1,1,5,1
+Q10380,2023-02-21,Mawson Lakes,Premium,89,No contract,35-44,19,1,34,0
+Q10381,2024-12-19,Unley,Standard,59,12-month,55+,20,1,12,0
+Q10382,2023-11-23,Prospect,Standard,59,12-month,25-34,15,0,25,0
+Q10383,2023-02-04,Prospect,Premium,89,12-month,35-44,23,1,34,0
+Q10384,2023-08-25,Prospect,Standard,59,No contract,25-34,6,0,8,1
+Q10385,2023-06-22,Mawson Lakes,Standard,59,No contract,45-54,11,1,10,1
+Q10386,2023-01-12,Prospect,Premium,89,12-month,35-44,18,1,35,0
+Q10387,2023-06-07,Prospect,Standard,59,12-month,55+,12,1,30,0
+Q10388,2023-02-03,Unley,Premium,89,12-month,25-34,21,0,34,0
+Q10389,2023-10-14,Prospect,Premium,89,12-month,45-54,23,1,26,0
+Q10390,2025-08-02,Prospect,Standard,59,No contract,25-34,14,0,4,0
+Q10391,2025-07-24,Prospect,Casual,39,No contract,35-44,8,1,5,0
+Q10392,2024-12-13,Prospect,Standard,59,12-month,25-34,12,1,7,1
+Q10393,2023-09-11,Mawson Lakes,Casual,39,No contract,25-34,5,0,27,0
+Q10394,2024-12-12,Unley,Casual,39,No contract,25-34,7,0,7,1
+Q10395,2024-11-06,Mawson Lakes,Premium,89,12-month,25-34,24,0,13,0
+Q10396,2023-01-19,Mawson Lakes,Casual,39,No contract,25-34,7,1,35,0
+Q10397,2024-07-21,Unley,Casual,39,No contract,25-34,12,0,12,1
+Q10398,2024-04-13,Prospect,Premium,89,12-month,25-34,26,0,20,0
+Q10399,2024-11-16,Norwood,Premium,89,12-month,35-44,18,1,13,0
+Q10400,2024-05-01,Norwood,Standard,59,12-month,25-34,14,1,20,0
+Q10401,2024-11-12,Prospect,Standard,59,12-month,45-54,17,1,13,0
+Q10402,2023-04-23,Unley,Casual,39,No contract,55+,7,0,32,0
+Q10403,2024-06-09,Unley,Standard,59,12-month,25-34,6,0,18,0
+Q10404,2024-02-29,Norwood,Premium,89,12-month,35-44,26,0,18,1
+Q10405,2023-07-01,Unley,Casual,39,No contract,45-54,3,1,7,1
+Q10406,2025-03-11,Norwood,Standard,59,No contract,35-44,6,0,9,0
+Q10407,2024-04-23,Norwood,Standard,59,12-month,35-44,22,0,20,0
+Q10408,2024-04-21,Prospect,Standard,59,No contract,18-24,16,0,8,1
+Q10409,2023-08-16,Unley,Premium,89,No contract,55+,20,1,28,0
+Q10410,2024-09-29,Unley,Standard,59,No contract,18-24,17,0,15,0
+Q10411,2025-06-12,Prospect,Premium,89,No contract,35-44,13,0,1,1
+Q10412,2023-03-16,Mawson Lakes,Casual,39,No contract,25-34,9,0,30,1
+Q10413,2023-08-05,Prospect,Casual,39,No contract,35-44,11,1,3,1
+Q10414,2024-08-23,Norwood,Casual,39,No contract,45-54,7,1,15,1
+Q10415,2025-09-07,Mawson Lakes,Casual,39,No contract,18-24,6,0,1,1
+Q10416,2023-09-28,Unley,Casual,39,No contract,25-34,9,1,27,0
+Q10417,2024-12-14,Norwood,Standard,59,12-month,25-34,19,0,12,0
+Q10418,2023-03-03,Unley,Casual,39,No contract,45-54,11,0,15,1
+Q10419,2023-06-10,Unley,Casual,39,No contract,25-34,5,0,26,1
+Q10420,2023-11-21,Norwood,Standard,59,12-month,25-34,21,0,25,0
+Q10421,2024-06-23,Norwood,Casual,39,No contract,45-54,9,0,5,1
+Q10422,2023-01-27,Unley,Standard,59,No contract,25-34,16,0,22,1
+Q10423,2023-06-03,Unley,Premium,89,No contract,35-44,25,0,30,0
+Q10424,2024-03-01,Mawson Lakes,Standard,59,12-month,45-54,19,1,22,0
+Q10425,2025-02-06,Prospect,Standard,59,12-month,18-24,9,0,8,1
+Q10426,2024-03-05,Prospect,Standard,59,12-month,25-34,10,1,21,0
+Q10427,2023-12-16,Prospect,Standard,59,No contract,45-54,11,0,24,0
+Q10428,2025-02-10,Unley,Casual,39,No contract,18-24,7,1,10,0
+Q10429,2023-03-16,Prospect,Standard,59,No contract,55+,9,0,33,0
+Q10430,2024-10-13,Prospect,Standard,59,12-month,45-54,16,0,9,1
+Q10431,2024-05-14,Unley,Premium,89,12-month,35-44,19,1,19,0
+Q10432,2023-05-04,Prospect,Standard,59,No contract,35-44,16,1,31,0
+Q10433,2023-03-16,Prospect,Casual,39,No contract,45-54,10,0,13,1
+Q10434,2024-02-06,Norwood,Standard,59,12-month,25-34,10,0,22,0
+Q10435,2024-01-18,Prospect,Standard,59,No contract,25-34,12,0,23,0
+Q10436,2024-10-25,Norwood,Premium,89,12-month,35-44,17,1,14,0
+Q10437,2023-06-17,Prospect,Standard,59,No contract,45-54,10,0,12,1
+Q10438,2023-03-08,Norwood,Standard,59,12-month,25-34,12,0,33,0
+Q10439,2025-02-13,Mawson Lakes,Standard,59,12-month,55+,10,0,10,0
+Q10440,2024-06-15,Prospect,Standard,59,No contract,18-24,16,0,10,1
+Q10441,2023-10-27,Prospect,Standard,59,No contract,18-24,16,0,26,0
+Q10442,2024-12-18,Norwood,Casual,39,No contract,25-34,6,0,12,0
+Q10443,2024-05-05,Norwood,Casual,39,No contract,25-34,6,0,6,1
+Q10444,2023-05-09,Norwood,Standard,59,12-month,35-44,19,0,31,0
+Q10445,2023-02-15,Unley,Casual,39,No contract,55+,11,0,6,1
+Q10446,2024-12-03,Unley,Premium,89,12-month,35-44,19,0,12,0
+Q10447,2023-05-13,Prospect,Standard,59,12-month,35-44,11,0,24,1
+Q10448,2023-07-22,Mawson Lakes,Casual,39,No contract,18-24,10,0,29,0
+Q10449,2025-09-10,Prospect,Standard,59,12-month,35-44,18,1,3,0
+Q10450,2024-02-26,Unley,Standard,59,12-month,35-44,9,1,22,0
+Q10451,2023-12-30,Unley,Standard,59,No contract,18-24,18,0,6,1
+Q10452,2023-12-27,Mawson Lakes,Casual,39,No contract,35-44,8,0,7,1
+Q10453,2025-09-04,Unley,Premium,89,12-month,18-24,18,0,3,0
+Q10454,2024-08-09,Prospect,Standard,59,12-month,35-44,17,1,16,0
+Q10455,2025-09-22,Mawson Lakes,Standard,59,12-month,45-54,13,0,2,1
+Q10456,2024-05-07,Unley,Standard,59,12-month,35-44,6,0,19,0
+Q10457,2025-04-06,Prospect,Standard,59,12-month,25-34,23,1,8,0
+Q10458,2023-08-16,Unley,Premium,89,12-month,25-34,30,0,28,0
+Q10459,2024-09-06,Prospect,Casual,39,No contract,45-54,5,0,6,1
+Q10460,2024-05-12,Mawson Lakes,Standard,59,No contract,25-34,15,0,19,0
+Q10461,2024-06-15,Norwood,Standard,59,12-month,45-54,15,0,8,1
+Q10462,2024-09-22,Unley,Casual,39,No contract,45-54,8,0,3,1
+Q10463,2023-02-17,Mawson Lakes,Casual,39,No contract,35-44,9,1,9,1
+Q10464,2023-07-20,Mawson Lakes,Standard,59,12-month,45-54,23,0,29,0
+Q10465,2024-05-30,Prospect,Standard,59,12-month,25-34,13,0,8,1
+Q10466,2024-04-10,Prospect,Standard,59,No contract,35-44,14,1,20,0
+Q10467,2024-02-21,Prospect,Standard,59,No contract,55+,12,0,22,0
+Q10468,2023-11-26,Norwood,Premium,89,No contract,45-54,21,0,25,0
+Q10469,2023-09-30,Prospect,Standard,59,No contract,55+,10,0,10,1
+Q10470,2023-01-23,Unley,Premium,89,No contract,25-34,19,0,19,1
+Q10471,2025-07-01,Unley,Standard,59,12-month,18-24,17,0,6,0
+Q10472,2024-10-18,Unley,Standard,59,12-month,35-44,13,1,14,0
+Q10473,2025-07-01,Prospect,Premium,89,12-month,25-34,10,1,6,0
+Q10474,2023-08-22,Norwood,Casual,39,No contract,25-34,11,0,3,1
+Q10475,2025-07-19,Norwood,Casual,39,No contract,35-44,7,0,1,1
+Q10476,2024-10-31,Prospect,Premium,89,12-month,18-24,28,1,13,0
+Q10477,2023-07-31,Mawson Lakes,Premium,89,No contract,35-44,20,1,29,0
+Q10478,2025-05-31,Unley,Standard,59,12-month,25-34,14,0,7,0
+Q10479,2024-09-20,Norwood,Standard,59,No contract,18-24,17,0,15,0
+Q10480,2023-08-05,Prospect,Casual,39,No contract,35-44,8,0,28,0
+Q10481,2025-08-25,Norwood,Standard,59,No contract,18-24,12,1,4,0
+Q10482,2025-09-11,Mawson Lakes,Standard,59,12-month,45-54,19,1,3,0
+Q10483,2025-02-01,Prospect,Standard,59,12-month,35-44,11,0,10,0
+Q10484,2025-03-21,Norwood,Standard,59,12-month,35-44,11,1,9,0
+Q10485,2023-09-29,Mawson Lakes,Standard,59,No contract,18-24,12,0,27,0
+Q10486,2024-02-28,Norwood,Premium,89,12-month,35-44,17,1,22,0
+Q10487,2023-11-27,Mawson Lakes,Standard,59,12-month,45-54,11,0,25,0
+Q10488,2023-04-17,Norwood,Premium,89,No contract,25-34,24,1,7,1
+Q10489,2023-02-09,Norwood,Standard,59,No contract,55+,16,1,13,1
+Q10490,2024-05-21,Unley,Premium,89,12-month,18-24,22,1,19,0
+Q10491,2024-03-01,Norwood,Standard,59,12-month,45-54,19,0,22,0
+Q10492,2024-05-28,Mawson Lakes,Casual,39,No contract,25-34,4,0,19,0
+Q10493,2025-09-25,Prospect,Casual,39,No contract,55+,10,0,1,1
+Q10494,2024-02-23,Norwood,Casual,39,No contract,55+,6,0,21,1
+Q10495,2024-06-14,Norwood,Casual,39,No contract,55+,12,0,18,0
+Q10496,2024-09-18,Norwood,Casual,39,No contract,25-34,8,0,15,0
+Q10497,2024-12-16,Unley,Casual,39,No contract,35-44,6,0,12,0
+Q10498,2023-07-26,Prospect,Standard,59,No contract,25-34,22,0,27,1
+Q10499,2023-01-20,Norwood,Premium,89,12-month,45-54,24,1,35,0
+Q10500,2025-05-03,Prospect,Standard,59,12-month,35-44,13,0,1,1
+Q10501,2024-11-23,Norwood,Standard,59,12-month,25-34,14,1,9,1
+Q10502,2024-04-10,Norwood,Premium,89,12-month,45-54,19,1,20,0
+Q10503,2025-02-15,Unley,Premium,89,No contract,25-34,28,1,10,0
+Q10504,2025-01-28,Norwood,Standard,59,12-month,25-34,10,0,11,0
+Q10505,2024-09-06,Norwood,Casual,39,No contract,45-54,9,0,5,1
+Q10506,2025-04-03,Unley,Premium,89,No contract,18-24,14,1,8,0
+Q10507,2025-05-16,Unley,Premium,89,No contract,45-54,29,0,7,0
+Q10508,2023-10-24,Mawson Lakes,Standard,59,No contract,55+,8,0,8,1
+Q10509,2024-10-04,Unley,Standard,59,12-month,18-24,11,0,14,0
+Q10510,2024-02-23,Norwood,Premium,89,No contract,25-34,12,1,22,0
+Q10511,2025-05-21,Unley,Casual,39,No contract,35-44,10,0,7,0
+Q10512,2024-09-29,Unley,Standard,59,12-month,45-54,8,1,15,0
+Q10513,2024-04-26,Prospect,Casual,39,No contract,18-24,10,0,20,0
+Q10514,2023-10-04,Prospect,Casual,39,No contract,18-24,14,1,17,1
+Q10515,2024-06-07,Norwood,Premium,89,No contract,35-44,20,1,18,0
+Q10516,2023-06-04,Norwood,Standard,59,12-month,25-34,15,1,30,0
+Q10517,2025-01-31,Prospect,Standard,59,No contract,35-44,16,1,10,0
+Q10518,2024-09-17,Norwood,Casual,39,No contract,25-34,11,1,15,0
+Q10519,2023-04-30,Unley,Premium,89,12-month,25-34,29,1,32,0
+Q10520,2024-01-28,Unley,Standard,59,12-month,45-54,18,1,23,0
+Q10521,2025-04-16,Prospect,Standard,59,No contract,18-24,18,0,1,1
+Q10522,2024-12-26,Mawson Lakes,Premium,89,12-month,55+,27,0,6,1
+Q10523,2025-05-11,Unley,Standard,59,No contract,35-44,18,1,7,0
+Q10524,2024-04-30,Prospect,Casual,39,No contract,35-44,7,0,19,1
+Q10525,2024-01-19,Prospect,Casual,39,No contract,25-34,11,0,10,1
+Q10526,2024-04-18,Unley,Casual,39,No contract,35-44,6,0,16,1
+Q10527,2025-04-19,Norwood,Premium,89,12-month,25-34,18,0,8,0
+Q10528,2024-04-16,Norwood,Standard,59,No contract,25-34,7,0,10,1
+Q10529,2024-05-28,Unley,Premium,89,No contract,25-34,24,1,13,1
+Q10530,2023-11-15,Prospect,Casual,39,No contract,35-44,8,1,25,0
+Q10531,2024-10-04,Unley,Standard,59,12-month,25-34,17,0,2,1
+Q10532,2023-11-03,Mawson Lakes,Premium,89,12-month,18-24,22,1,25,0
+Q10533,2025-02-24,Norwood,Standard,59,12-month,35-44,16,0,10,0
+Q10534,2025-01-16,Unley,Premium,89,12-month,35-44,16,1,11,0
+Q10535,2024-11-06,Unley,Premium,89,No contract,55+,21,1,13,0
+Q10536,2024-06-17,Norwood,Casual,39,No contract,35-44,6,0,14,1
+Q10537,2025-03-20,Unley,Casual,39,No contract,45-54,10,1,9,0
+Q10538,2023-12-16,Prospect,Standard,59,12-month,18-24,15,0,24,0
+Q10539,2023-11-14,Unley,Premium,89,No contract,35-44,32,1,25,0
+Q10540,2023-12-25,Unley,Casual,39,No contract,45-54,7,0,24,0
+Q10541,2024-03-07,Unley,Premium,89,No contract,35-44,19,1,21,0
+Q10542,2024-07-31,Unley,Standard,59,12-month,25-34,13,1,17,0
+Q10543,2025-04-02,Mawson Lakes,Premium,89,No contract,18-24,28,0,8,0
+Q10544,2024-02-12,Norwood,Casual,39,No contract,35-44,7,1,22,0
+Q10545,2023-04-13,Unley,Casual,39,No contract,35-44,9,0,32,0
+Q10546,2023-06-16,Norwood,Premium,89,12-month,25-34,18,1,10,1
+Q10547,2023-08-10,Norwood,Standard,59,12-month,35-44,13,0,28,0
+Q10548,2024-05-14,Unley,Premium,89,No contract,45-54,16,1,19,0
+Q10549,2024-04-24,Mawson Lakes,Casual,39,No contract,25-34,13,0,20,0
+Q10550,2023-01-13,Mawson Lakes,Standard,59,12-month,45-54,16,0,35,0
+Q10551,2025-04-22,Norwood,Premium,89,12-month,25-34,22,0,8,0
+Q10552,2024-05-26,Mawson Lakes,Standard,59,12-month,45-54,15,0,19,0
+Q10553,2025-08-13,Unley,Standard,59,12-month,55+,15,0,4,0
+Q10554,2023-05-21,Norwood,Premium,89,12-month,25-34,14,1,31,0
+Q10555,2025-02-05,Prospect,Casual,39,No contract,18-24,11,1,10,0
+Q10556,2025-06-12,Mawson Lakes,Casual,39,No contract,45-54,10,0,2,1
+Q10557,2023-09-07,Prospect,Standard,59,No contract,45-54,11,1,27,0
+Q10558,2023-04-05,Norwood,Standard,59,12-month,25-34,15,0,32,0
+Q10559,2025-09-12,Norwood,Casual,39,No contract,25-34,8,1,2,1
+Q10560,2025-08-27,Norwood,Standard,59,No contract,25-34,22,0,3,1
+Q10561,2024-04-08,Norwood,Standard,59,No contract,35-44,21,0,20,0
+Q10562,2024-09-05,Unley,Standard,59,No contract,18-24,8,0,10,1
+Q10563,2025-01-23,Prospect,Casual,39,No contract,25-34,9,0,9,1
+Q10564,2025-03-24,Unley,Casual,39,No contract,25-34,12,0,9,0
+Q10565,2025-03-11,Unley,Casual,39,No contract,25-34,11,0,4,1
+Q10566,2025-02-14,Norwood,Casual,39,No contract,25-34,5,1,10,0
+Q10567,2024-05-28,Mawson Lakes,Casual,39,No contract,55+,13,0,19,0
+Q10568,2025-08-29,Unley,Casual,39,No contract,45-54,12,0,1,1
+Q10569,2025-07-30,Norwood,Casual,39,No contract,18-24,6,0,5,0
+Q10570,2024-04-21,Unley,Premium,89,12-month,45-54,23,1,18,1
+Q10571,2025-07-20,Unley,Casual,39,No contract,25-34,9,0,3,1
+Q10572,2025-03-13,Prospect,Casual,39,No contract,45-54,6,0,4,1
+Q10573,2025-09-02,Prospect,Premium,89,12-month,25-34,23,1,3,0
+Q10574,2023-07-12,Norwood,Premium,89,No contract,35-44,22,1,29,0
+Q10575,2024-09-03,Prospect,Premium,89,No contract,25-34,22,0,15,0
+Q10576,2023-05-09,Mawson Lakes,Premium,89,No contract,18-24,18,1,31,0
+Q10577,2024-08-19,Norwood,Standard,59,12-month,18-24,17,1,16,0
+Q10578,2025-08-17,Unley,Casual,39,No contract,25-34,15,0,4,0
+Q10579,2023-09-19,Mawson Lakes,Standard,59,No contract,45-54,20,0,27,0
+Q10580,2025-09-02,Mawson Lakes,Standard,59,12-month,18-24,10,0,3,0
+Q10581,2024-02-16,Mawson Lakes,Standard,59,12-month,25-34,14,0,22,0
+Q10582,2025-01-08,Norwood,Premium,89,No contract,25-34,18,1,10,1
+Q10583,2023-01-14,Norwood,Standard,59,12-month,18-24,22,1,35,0
+Q10584,2024-12-11,Mawson Lakes,Casual,39,No contract,35-44,9,0,12,0
+Q10585,2025-02-17,Norwood,Standard,59,12-month,18-24,25,0,10,0
+Q10586,2023-05-27,Unley,Standard,59,No contract,35-44,13,1,22,1
+Q10587,2024-10-01,Unley,Standard,59,12-month,35-44,11,1,14,0
+Q10588,2024-03-07,Norwood,Standard,59,12-month,18-24,18,1,21,0
+Q10589,2023-04-15,Mawson Lakes,Premium,89,12-month,18-24,19,1,32,0
+Q10590,2024-01-25,Norwood,Premium,89,12-month,35-44,16,1,23,0
+Q10591,2023-03-15,Mawson Lakes,Premium,89,12-month,35-44,22,1,33,0
+Q10592,2024-04-10,Norwood,Standard,59,No contract,55+,12,0,20,0
+Q10593,2024-11-27,Mawson Lakes,Casual,39,No contract,25-34,12,1,13,0
+Q10594,2024-02-03,Prospect,Casual,39,No contract,45-54,13,1,19,1
+Q10595,2025-02-09,Prospect,Standard,59,No contract,18-24,27,0,10,0
+Q10596,2024-03-21,Norwood,Casual,39,No contract,18-24,6,0,8,1
+Q10597,2023-06-20,Unley,Standard,59,No contract,25-34,13,0,14,1
+Q10598,2025-07-13,Norwood,Standard,59,12-month,45-54,11,1,5,0
+Q10599,2024-09-02,Norwood,Casual,39,No contract,25-34,3,1,15,0
+Q10600,2025-09-06,Norwood,Casual,39,No contract,25-34,13,0,3,0
+Q10601,2023-01-15,Norwood,Standard,59,No contract,18-24,13,0,10,1
+Q10602,2025-07-06,Mawson Lakes,Standard,59,12-month,45-54,9,1,5,0
+Q10603,2023-05-14,Norwood,Standard,59,12-month,35-44,13,0,31,0
+Q10604,2023-11-20,Prospect,Premium,89,12-month,35-44,21,1,25,0
+Q10605,2025-05-03,Unley,Casual,39,No contract,25-34,7,1,7,0
+Q10606,2023-10-07,Unley,Premium,89,No contract,55+,25,1,26,0
+Q10607,2025-05-28,Norwood,Standard,59,No contract,55+,11,0,5,1
+Q10608,2025-08-17,Prospect,Standard,59,No contract,25-34,14,0,4,0
+Q10609,2024-05-10,Unley,Standard,59,12-month,35-44,17,1,19,0
+Q10610,2025-09-22,Unley,Standard,59,No contract,18-24,14,0,3,0
+Q10611,2024-08-07,Prospect,Standard,59,12-month,25-34,28,0,16,0
+Q10612,2024-09-09,Mawson Lakes,Casual,39,No contract,25-34,3,0,2,1
+Q10613,2023-11-26,Prospect,Premium,89,No contract,35-44,28,1,25,0
+Q10614,2023-06-18,Mawson Lakes,Casual,39,No contract,45-54,8,0,21,1
+Q10615,2023-01-05,Unley,Standard,59,12-month,35-44,9,0,5,1
+Q10616,2023-10-28,Norwood,Premium,89,No contract,18-24,24,1,26,0
+Q10617,2024-03-04,Norwood,Premium,89,No contract,55+,17,1,21,0
+Q10618,2024-03-16,Mawson Lakes,Premium,89,12-month,25-34,20,0,21,0
+Q10619,2023-08-29,Prospect,Standard,59,12-month,35-44,13,1,28,0
+Q10620,2025-06-11,Prospect,Standard,59,No contract,55+,21,0,6,0
+Q10621,2024-09-04,Unley,Standard,59,No contract,45-54,9,0,4,1
+Q10622,2023-05-12,Prospect,Casual,39,No contract,18-24,9,0,26,1
+Q10623,2023-10-15,Unley,Standard,59,12-month,25-34,14,0,26,0
+Q10624,2024-11-19,Mawson Lakes,Standard,59,No contract,25-34,7,0,13,0
+Q10625,2024-02-23,Unley,Casual,39,No contract,35-44,7,1,22,0
+Q10626,2024-07-19,Unley,Standard,59,No contract,18-24,12,0,17,0
+Q10627,2023-12-28,Norwood,Standard,59,12-month,35-44,14,0,24,0
+Q10628,2024-07-21,Prospect,Casual,39,No contract,18-24,11,0,7,1
+Q10629,2025-07-09,Unley,Casual,39,No contract,35-44,3,0,1,1
+Q10630,2024-01-13,Unley,Premium,89,12-month,25-34,22,1,23,0
+Q10631,2023-12-12,Norwood,Standard,59,12-month,35-44,17,0,24,0
+Q10632,2023-11-08,Norwood,Casual,39,No contract,35-44,8,1,4,1
+Q10633,2024-03-13,Prospect,Standard,59,No contract,25-34,11,1,6,1
+Q10634,2024-05-17,Prospect,Standard,59,12-month,35-44,20,1,19,0
+Q10635,2023-04-01,Unley,Standard,59,12-month,35-44,13,0,33,0
+Q10636,2025-02-20,Prospect,Standard,59,No contract,45-54,8,0,7,1
+Q10637,2023-08-27,Prospect,Premium,89,No contract,18-24,17,1,9,1
+Q10638,2024-09-29,Prospect,Casual,39,No contract,35-44,4,0,4,1
+Q10639,2024-01-13,Prospect,Standard,59,12-month,35-44,16,0,23,0
+Q10640,2023-08-14,Norwood,Standard,59,12-month,35-44,8,0,28,0
+Q10641,2023-10-13,Mawson Lakes,Standard,59,No contract,45-54,15,1,26,0
+Q10642,2023-12-25,Norwood,Casual,39,No contract,25-34,12,0,22,1
+Q10643,2025-08-05,Unley,Standard,59,No contract,25-34,8,1,3,1
+Q10644,2023-05-06,Unley,Premium,89,No contract,45-54,25,1,31,0
+Q10645,2024-11-04,Unley,Standard,59,12-month,35-44,20,0,10,1
+Q10646,2025-05-10,Prospect,Premium,89,12-month,35-44,25,1,7,0
+Q10647,2024-03-27,Unley,Standard,59,12-month,25-34,18,0,21,0
+Q10648,2025-02-09,Prospect,Standard,59,12-month,55+,13,0,1,1
+Q10649,2024-12-19,Prospect,Standard,59,12-month,25-34,11,0,12,0
+Q10650,2024-04-13,Norwood,Casual,39,No contract,18-24,9,1,20,0
+Q10651,2024-07-29,Prospect,Casual,39,No contract,35-44,5,0,15,1
+Q10652,2023-03-21,Mawson Lakes,Standard,59,12-month,25-34,17,0,33,0
+Q10653,2025-08-22,Unley,Casual,39,No contract,45-54,7,1,3,1
+Q10654,2025-08-28,Prospect,Premium,89,12-month,35-44,27,1,4,0
+Q10655,2024-02-25,Unley,Standard,59,No contract,25-34,23,0,22,0
+Q10656,2024-07-20,Prospect,Standard,59,No contract,18-24,17,0,17,0
+Q10657,2024-07-07,Unley,Premium,89,12-month,35-44,20,1,17,0
+Q10658,2023-01-05,Norwood,Standard,59,12-month,35-44,25,0,35,0
+Q10659,2023-01-31,Mawson Lakes,Standard,59,No contract,45-54,16,1,34,0
+Q10660,2023-06-03,Norwood,Standard,59,12-month,45-54,18,0,30,0
+Q10661,2024-02-26,Unley,Standard,59,12-month,18-24,14,0,17,1
+Q10662,2025-08-15,Norwood,Standard,59,No contract,25-34,19,0,3,1
+Q10663,2023-04-04,Norwood,Casual,39,No contract,18-24,14,0,31,1
+Q10664,2025-01-30,Unley,Standard,59,12-month,45-54,15,0,11,0
+Q10665,2024-05-25,Norwood,Premium,89,No contract,55+,23,1,19,0
+Q10666,2023-10-16,Unley,Casual,39,No contract,35-44,12,1,26,0
+Q10667,2024-09-11,Prospect,Standard,59,No contract,35-44,9,0,6,1
+Q10668,2024-06-13,Norwood,Standard,59,12-month,18-24,15,1,7,1
+Q10669,2025-02-16,Prospect,Standard,59,12-month,25-34,19,1,10,0
+Q10670,2024-07-19,Unley,Standard,59,12-month,18-24,17,0,17,0
+Q10671,2023-05-09,Unley,Standard,59,12-month,35-44,20,0,31,0
+Q10672,2024-08-09,Unley,Casual,39,No contract,45-54,13,0,10,1
+Q10673,2024-09-15,Norwood,Standard,59,12-month,18-24,12,0,3,1
+Q10674,2023-11-07,Prospect,Standard,59,12-month,35-44,15,0,6,1
+Q10675,2024-07-04,Prospect,Premium,89,12-month,25-34,17,0,17,0
+Q10676,2025-08-09,Unley,Standard,59,No contract,18-24,17,1,4,0
+Q10677,2025-02-18,Unley,Standard,59,12-month,45-54,17,1,10,0
+Q10678,2025-09-09,Unley,Standard,59,12-month,18-24,17,1,3,0
+Q10679,2023-05-16,Norwood,Standard,59,12-month,18-24,22,0,31,0
+Q10680,2023-07-30,Prospect,Standard,59,12-month,18-24,17,0,29,0
+Q10681,2024-11-26,Prospect,Premium,89,No contract,35-44,22,1,13,0
+Q10682,2023-09-17,Prospect,Premium,89,No contract,45-54,24,1,27,0
+Q10683,2023-08-01,Unley,Casual,39,No contract,55+,7,0,29,0
+Q10684,2024-08-17,Norwood,Casual,39,No contract,35-44,5,1,11,1
+Q10685,2025-06-20,Norwood,Casual,39,No contract,35-44,6,0,2,1
+Q10686,2023-02-24,Norwood,Standard,59,12-month,55+,17,0,10,1
+Q10687,2023-09-10,Unley,Casual,39,No contract,25-34,6,0,27,0
+Q10688,2024-09-26,Unley,Premium,89,No contract,25-34,18,1,15,0
+Q10689,2024-10-14,Norwood,Standard,59,12-month,18-24,17,0,14,0
+Q10690,2023-12-15,Unley,Standard,59,12-month,35-44,14,0,24,0
+Q10691,2023-08-04,Norwood,Casual,39,No contract,18-24,9,1,28,0
+Q10692,2024-11-12,Mawson Lakes,Standard,59,12-month,25-34,15,0,13,0
+Q10693,2023-09-16,Norwood,Casual,39,No contract,25-34,6,0,27,0
+Q10694,2024-12-25,Mawson Lakes,Casual,39,No contract,25-34,14,0,3,1
+Q10695,2024-03-27,Norwood,Standard,59,No contract,35-44,12,1,10,1
+Q10696,2023-01-30,Prospect,Standard,59,12-month,18-24,16,1,35,0
+Q10697,2023-08-02,Norwood,Standard,59,No contract,35-44,14,1,28,0
+Q10698,2023-11-21,Norwood,Casual,39,No contract,18-24,3,1,23,1
+Q10699,2025-06-04,Norwood,Standard,59,12-month,25-34,19,0,6,0
+Q10700,2023-07-07,Mawson Lakes,Standard,59,No contract,45-54,16,0,13,1
+Q10701,2024-09-20,Mawson Lakes,Premium,89,No contract,55+,30,1,15,0
+Q10702,2024-10-21,Prospect,Casual,39,No contract,35-44,4,1,5,1
+Q10703,2023-01-05,Norwood,Standard,59,No contract,25-34,17,1,35,0
+Q10704,2023-07-09,Mawson Lakes,Premium,89,No contract,55+,22,0,29,0
+Q10705,2024-04-06,Prospect,Standard,59,No contract,25-34,13,0,20,0
+Q10706,2024-04-22,Unley,Casual,39,No contract,35-44,5,0,11,1
+Q10707,2024-09-28,Unley,Premium,89,12-month,25-34,28,1,15,0
+Q10708,2023-12-09,Norwood,Premium,89,12-month,45-54,19,1,24,0
+Q10709,2024-06-20,Prospect,Premium,89,12-month,35-44,17,0,18,0
+Q10710,2025-09-05,Norwood,Casual,39,No contract,18-24,8,0,1,1
+Q10711,2023-09-27,Mawson Lakes,Standard,59,No contract,35-44,13,1,27,0
+Q10712,2025-08-10,Mawson Lakes,Standard,59,12-month,55+,15,0,4,0
+Q10713,2024-09-09,Unley,Casual,39,No contract,45-54,10,1,15,0
+Q10714,2024-07-20,Mawson Lakes,Standard,59,12-month,25-34,13,1,17,0
+Q10715,2024-10-20,Norwood,Casual,39,No contract,18-24,7,0,11,1
+Q10716,2024-04-05,Mawson Lakes,Premium,89,No contract,25-34,18,1,20,0
+Q10717,2023-10-18,Unley,Premium,89,12-month,25-34,23,1,26,0
+Q10718,2024-12-23,Prospect,Premium,89,12-month,25-34,15,0,12,0
+Q10719,2024-04-16,Norwood,Standard,59,No contract,18-24,11,0,17,1
+Q10720,2024-02-09,Unley,Casual,39,No contract,35-44,6,0,12,1
+Q10721,2025-01-06,Mawson Lakes,Standard,59,12-month,25-34,20,0,11,0
+Q10722,2024-07-15,Unley,Standard,59,12-month,35-44,17,0,17,0
+Q10723,2025-01-04,Unley,Casual,39,No contract,35-44,14,0,6,1
+Q10724,2024-03-15,Norwood,Standard,59,No contract,55+,18,1,21,0
+Q10725,2025-06-17,Norwood,Standard,59,12-month,35-44,17,1,1,1
+Q10726,2024-03-20,Unley,Premium,89,12-month,18-24,19,1,21,0
+Q10727,2025-02-14,Prospect,Premium,89,No contract,18-24,21,0,10,0
+Q10728,2024-10-13,Prospect,Standard,59,12-month,25-34,12,1,14,0
+Q10729,2025-07-12,Unley,Standard,59,12-month,35-44,17,0,5,0
+Q10730,2025-04-26,Norwood,Standard,59,No contract,25-34,22,0,8,0
+Q10731,2024-10-11,Prospect,Casual,39,No contract,25-34,5,0,14,0
+Q10732,2025-03-31,Prospect,Casual,39,No contract,45-54,7,0,9,0
+Q10733,2023-09-18,Unley,Casual,39,No contract,25-34,9,1,18,1
+Q10734,2024-05-08,Mawson Lakes,Casual,39,No contract,25-34,1,0,12,1
+Q10735,2023-08-25,Prospect,Casual,39,No contract,35-44,8,0,8,1
+Q10736,2023-04-26,Unley,Casual,39,No contract,35-44,7,0,5,1
+Q10737,2024-05-02,Mawson Lakes,Standard,59,No contract,35-44,17,0,17,1
+Q10738,2025-07-26,Norwood,Casual,39,No contract,55+,6,0,1,1
+Q10739,2023-08-07,Norwood,Standard,59,No contract,45-54,24,0,28,0
+Q10740,2023-11-23,Norwood,Standard,59,No contract,25-34,20,0,18,1
+Q10741,2023-05-15,Unley,Standard,59,No contract,45-54,18,1,31,0
+Q10742,2025-03-15,Norwood,Standard,59,No contract,25-34,17,1,9,0
+Q10743,2025-02-16,Norwood,Standard,59,12-month,35-44,15,0,10,0
+Q10744,2023-05-21,Prospect,Standard,59,No contract,55+,13,0,31,0
+Q10745,2024-08-09,Unley,Standard,59,12-month,35-44,15,0,16,0
+Q10746,2023-02-03,Prospect,Casual,39,No contract,35-44,5,0,34,0
+Q10747,2025-07-13,Mawson Lakes,Casual,39,No contract,35-44,7,0,1,1
+Q10748,2023-02-13,Mawson Lakes,Casual,39,No contract,35-44,11,0,34,0
+Q10749,2023-01-27,Norwood,Premium,89,No contract,35-44,15,1,14,1
+Q10750,2024-12-23,Mawson Lakes,Casual,39,No contract,45-54,5,1,12,0
+Q10751,2025-08-14,Mawson Lakes,Standard,59,12-month,35-44,16,0,4,0
+Q10752,2024-02-28,Mawson Lakes,Standard,59,No contract,35-44,9,1,22,0
+Q10753,2023-07-25,Unley,Standard,59,No contract,25-34,13,1,3,1
+Q10754,2024-05-04,Norwood,Standard,59,No contract,25-34,14,0,19,0
+Q10755,2023-07-20,Mawson Lakes,Standard,59,No contract,35-44,16,1,29,0
+Q10756,2024-10-27,Norwood,Casual,39,No contract,35-44,3,0,10,1
+Q10757,2025-03-08,Norwood,Standard,59,No contract,25-34,18,0,9,0
+Q10758,2025-06-23,Prospect,Casual,39,No contract,45-54,3,1,4,1
+Q10759,2024-12-23,Unley,Standard,59,No contract,35-44,11,0,12,0
+Q10760,2024-05-27,Unley,Standard,59,No contract,35-44,18,1,2,1
+Q10761,2023-01-31,Prospect,Premium,89,12-month,25-34,17,1,34,0
+Q10762,2024-12-10,Unley,Standard,59,12-month,25-34,17,0,12,0
+Q10763,2023-09-14,Norwood,Premium,89,12-month,35-44,24,1,27,0
+Q10764,2023-12-04,Prospect,Casual,39,No contract,25-34,6,0,15,1
+Q10765,2025-01-13,Unley,Premium,89,12-month,45-54,19,1,11,0
+Q10766,2023-12-05,Norwood,Casual,39,No contract,35-44,8,1,10,1
+Q10767,2025-08-02,Norwood,Standard,59,12-month,35-44,19,0,4,0
+Q10768,2025-08-02,Norwood,Standard,59,12-month,25-34,11,0,1,1
+Q10769,2023-01-25,Prospect,Standard,59,12-month,45-54,13,0,35,0
+Q10770,2025-05-08,Norwood,Premium,89,12-month,35-44,16,0,7,0
+Q10771,2024-12-22,Norwood,Premium,89,12-month,45-54,28,1,12,0
+Q10772,2025-06-27,Prospect,Standard,59,12-month,25-34,17,0,6,0
+Q10773,2025-06-11,Norwood,Standard,59,12-month,25-34,10,0,6,0
+Q10774,2024-05-21,Unley,Standard,59,12-month,45-54,16,0,13,1
+Q10775,2023-08-23,Norwood,Casual,39,No contract,45-54,4,1,19,1
+Q10776,2023-08-07,Unley,Casual,39,No contract,25-34,8,0,22,1
+Q10777,2023-02-09,Norwood,Standard,59,12-month,25-34,10,0,7,1
+Q10778,2024-11-10,Unley,Standard,59,No contract,25-34,17,0,8,1
+Q10779,2025-05-16,Unley,Standard,59,No contract,25-34,11,0,7,0
+Q10780,2024-05-09,Prospect,Premium,89,12-month,25-34,27,0,19,0
+Q10781,2024-10-08,Norwood,Casual,39,No contract,25-34,7,1,1,1
+Q10782,2023-04-30,Norwood,Casual,39,No contract,35-44,8,1,21,1
+Q10783,2023-10-19,Norwood,Premium,89,12-month,25-34,19,1,26,0
+Q10784,2024-01-10,Unley,Standard,59,12-month,25-34,19,0,23,0
+Q10785,2024-12-17,Prospect,Casual,39,No contract,35-44,9,0,12,0
+Q10786,2023-04-09,Unley,Casual,39,No contract,25-34,6,1,32,0
+Q10787,2023-09-17,Norwood,Casual,39,No contract,45-54,10,0,27,0
+Q10788,2024-07-22,Unley,Standard,59,No contract,25-34,15,1,17,0
+Q10789,2023-04-19,Prospect,Casual,39,No contract,25-34,6,1,32,0
+Q10790,2025-01-01,Prospect,Standard,59,No contract,18-24,11,0,11,0
+Q10791,2024-01-06,Unley,Standard,59,12-month,35-44,8,1,19,1
+Q10792,2023-05-31,Mawson Lakes,Premium,89,No contract,25-34,13,1,31,0
+Q10793,2024-06-27,Prospect,Casual,39,No contract,25-34,10,0,2,1
+Q10794,2023-07-18,Unley,Standard,59,12-month,18-24,17,1,29,0
+Q10795,2025-08-21,Norwood,Premium,89,12-month,18-24,19,1,4,0
+Q10796,2023-07-22,Norwood,Premium,89,12-month,35-44,26,0,29,0
+Q10797,2025-05-02,Unley,Premium,89,No contract,25-34,25,0,7,0
+Q10798,2023-09-02,Unley,Casual,39,No contract,45-54,9,0,16,1
+Q10799,2024-05-20,Prospect,Standard,59,12-month,18-24,13,0,19,0
+Q10800,2025-04-20,Norwood,Standard,59,No contract,35-44,15,1,8,0
+Q10801,2025-08-06,Prospect,Premium,89,12-month,35-44,25,0,4,0
+Q10802,2023-10-11,Norwood,Premium,89,No contract,55+,23,1,26,0
+Q10803,2023-07-20,Norwood,Casual,39,No contract,25-34,6,0,4,1
+Q10804,2024-04-15,Norwood,Standard,59,12-month,18-24,15,1,20,0
+Q10805,2023-10-03,Mawson Lakes,Casual,39,No contract,18-24,14,0,17,1
+Q10806,2025-07-03,Unley,Premium,89,No contract,55+,21,1,5,0
+Q10807,2025-03-02,Unley,Standard,59,No contract,18-24,17,1,9,0
+Q10808,2025-05-22,Norwood,Standard,59,12-month,18-24,22,0,7,0
+Q10809,2023-07-08,Norwood,Standard,59,No contract,18-24,10,1,29,0
+Q10810,2025-02-22,Prospect,Standard,59,No contract,35-44,18,0,10,0
+Q10811,2025-03-19,Norwood,Casual,39,No contract,25-34,3,0,5,1
+Q10812,2024-07-03,Unley,Casual,39,No contract,45-54,4,1,15,1
+Q10813,2025-07-11,Unley,Standard,59,12-month,55+,13,0,5,0
+Q10814,2023-09-15,Unley,Premium,89,No contract,35-44,16,0,27,0
+Q10815,2025-08-31,Norwood,Premium,89,12-month,35-44,29,1,4,0
+Q10816,2024-03-16,Unley,Standard,59,12-month,25-34,15,0,21,0
+Q10817,2024-11-11,Prospect,Standard,59,12-month,55+,10,1,13,0
+Q10818,2023-02-13,Norwood,Premium,89,12-month,45-54,19,1,34,0
+Q10819,2024-10-01,Prospect,Casual,39,No contract,18-24,9,0,4,1
+Q10820,2024-06-14,Mawson Lakes,Casual,39,No contract,35-44,9,1,18,0
+Q10821,2023-02-09,Unley,Casual,39,No contract,35-44,7,1,34,0
+Q10822,2025-07-29,Mawson Lakes,Casual,39,No contract,35-44,10,1,5,0
+Q10823,2025-03-15,Unley,Premium,89,12-month,18-24,25,0,9,0
+Q10824,2024-11-05,Prospect,Premium,89,12-month,35-44,22,1,13,0
+Q10825,2024-07-03,Prospect,Casual,39,No contract,25-34,14,0,17,0
+Q10826,2025-03-28,Prospect,Casual,39,No contract,18-24,5,0,4,1
+Q10827,2025-04-18,Prospect,Casual,39,No contract,25-34,7,0,6,1
+Q10828,2025-09-17,Prospect,Standard,59,12-month,25-34,18,0,3,0
+Q10829,2025-04-26,Unley,Standard,59,No contract,35-44,7,1,5,1
+Q10830,2023-04-30,Unley,Casual,39,No contract,25-34,9,1,32,0
+Q10831,2025-07-02,Mawson Lakes,Standard,59,No contract,18-24,8,1,5,0
+Q10832,2024-11-06,Prospect,Casual,39,No contract,35-44,5,1,3,1
+Q10833,2023-12-10,Prospect,Standard,59,No contract,25-34,12,1,24,0
+Q10834,2023-04-12,Norwood,Premium,89,No contract,18-24,20,1,23,1
+Q10835,2025-06-29,Norwood,Premium,89,12-month,35-44,29,1,6,0
+Q10836,2024-11-10,Prospect,Premium,89,No contract,18-24,30,0,13,0
+Q10837,2024-06-26,Norwood,Standard,59,12-month,55+,15,0,18,0
+Q10838,2023-05-13,Prospect,Standard,59,No contract,35-44,17,0,28,1
+Q10839,2024-06-27,Mawson Lakes,Standard,59,No contract,35-44,18,0,18,0
+Q10840,2024-02-26,Prospect,Standard,59,12-month,25-34,13,1,6,1
+Q10841,2023-02-16,Norwood,Premium,89,No contract,18-24,25,1,34,0
+Q10842,2023-09-04,Mawson Lakes,Standard,59,No contract,55+,19,0,27,0
+Q10843,2023-04-20,Mawson Lakes,Premium,89,12-month,18-24,16,1,32,0
+Q10844,2025-04-08,Mawson Lakes,Premium,89,No contract,35-44,14,1,8,0
+Q10845,2024-08-15,Norwood,Casual,39,No contract,25-34,9,0,8,1
+Q10846,2023-05-25,Prospect,Premium,89,No contract,35-44,21,1,31,0
+Q10847,2023-09-23,Unley,Standard,59,12-month,18-24,22,1,27,0
+Q10848,2023-09-13,Prospect,Premium,89,No contract,18-24,18,1,27,0
+Q10849,2023-09-30,Unley,Casual,39,No contract,18-24,8,0,27,0
+Q10850,2024-05-15,Norwood,Standard,59,12-month,18-24,21,1,18,1
+Q10851,2023-12-27,Unley,Standard,59,12-month,55+,15,0,24,0
+Q10852,2025-08-22,Norwood,Casual,39,No contract,25-34,11,0,1,1
+Q10853,2023-06-21,Prospect,Premium,89,No contract,45-54,24,0,30,0
+Q10854,2025-08-20,Mawson Lakes,Premium,89,No contract,25-34,21,1,4,0
+Q10855,2024-03-30,Norwood,Standard,59,12-month,25-34,15,0,21,0
+Q10856,2023-01-03,Norwood,Standard,59,No contract,35-44,11,1,35,0
+Q10857,2023-05-04,Unley,Premium,89,12-month,45-54,18,1,31,0
+Q10858,2023-04-19,Prospect,Standard,59,12-month,55+,17,0,32,0
+Q10859,2024-10-21,Unley,Casual,39,No contract,35-44,5,1,11,1
+Q10860,2024-02-24,Unley,Standard,59,12-month,25-34,16,0,22,0
+Q10861,2025-05-19,Unley,Premium,89,No contract,25-34,23,1,7,0
+Q10862,2025-05-09,Prospect,Casual,39,No contract,25-34,8,0,2,1
+Q10863,2025-09-07,Norwood,Standard,59,12-month,55+,21,0,3,0
+Q10864,2024-04-16,Unley,Premium,89,12-month,55+,21,0,20,0
+Q10865,2023-08-27,Prospect,Casual,39,No contract,45-54,4,0,28,0
+Q10866,2023-11-01,Norwood,Standard,59,12-month,25-34,16,0,24,1
+Q10867,2025-02-04,Norwood,Premium,89,No contract,45-54,24,0,10,0
+Q10868,2025-03-16,Norwood,Premium,89,No contract,55+,23,1,9,0
+Q10869,2023-07-11,Unley,Casual,39,No contract,25-34,7,1,29,0
+Q10870,2024-08-28,Norwood,Standard,59,No contract,18-24,18,0,14,1
+Q10871,2023-09-21,Unley,Standard,59,No contract,35-44,16,0,27,0
+Q10872,2023-12-23,Prospect,Standard,59,No contract,35-44,7,1,17,1
+Q10873,2024-09-06,Unley,Standard,59,No contract,18-24,16,0,15,0
+Q10874,2024-03-06,Mawson Lakes,Premium,89,12-month,45-54,34,1,21,0
+Q10875,2025-01-29,Norwood,Standard,59,12-month,25-34,17,0,11,0
+Q10876,2025-05-09,Norwood,Standard,59,12-month,45-54,12,0,7,0
+Q10877,2023-08-06,Unley,Standard,59,12-month,25-34,18,1,28,0
+Q10878,2024-10-19,Unley,Standard,59,No contract,18-24,12,0,14,0
+Q10879,2024-11-22,Mawson Lakes,Casual,39,No contract,35-44,10,0,7,1
+Q10880,2025-05-22,Norwood,Standard,59,No contract,35-44,12,0,3,1
+Q10881,2024-02-17,Prospect,Standard,59,No contract,25-34,16,0,22,0
+Q10882,2023-06-01,Unley,Premium,89,No contract,25-34,24,1,31,0
+Q10883,2023-06-07,Norwood,Casual,39,No contract,18-24,6,0,18,1
+Q10884,2023-03-29,Mawson Lakes,Casual,39,No contract,18-24,8,0,25,1
+Q10885,2023-06-24,Mawson Lakes,Standard,59,12-month,25-34,15,0,30,0
+Q10886,2025-09-22,Norwood,Casual,39,No contract,45-54,5,1,3,0
+Q10887,2025-03-21,Prospect,Casual,39,No contract,25-34,8,1,3,1
+Q10888,2025-06-08,Unley,Standard,59,12-month,35-44,13,0,6,0
+Q10889,2023-07-18,Unley,Standard,59,12-month,45-54,16,0,29,0
+Q10890,2024-02-22,Norwood,Standard,59,No contract,35-44,11,0,10,1
+Q10891,2025-08-12,Norwood,Premium,89,12-month,35-44,26,1,4,0
+Q10892,2025-07-20,Prospect,Standard,59,No contract,55+,23,0,5,0
+Q10893,2024-06-06,Norwood,Standard,59,No contract,45-54,14,1,18,0
+Q10894,2023-07-29,Unley,Casual,39,No contract,35-44,8,0,29,0
+Q10895,2025-09-14,Unley,Casual,39,No contract,45-54,6,0,1,1
+Q10896,2023-12-08,Unley,Casual,39,No contract,25-34,8,1,4,1
+Q10897,2025-02-26,Norwood,Standard,59,12-month,25-34,21,0,10,0
+Q10898,2025-07-02,Unley,Standard,59,12-month,18-24,17,0,5,0
+Q10899,2023-11-09,Prospect,Premium,89,12-month,45-54,22,1,25,0
+Q10900,2025-04-22,Norwood,Casual,39,No contract,35-44,10,1,6,1
+Q10901,2025-05-18,Mawson Lakes,Standard,59,No contract,18-24,23,1,7,0
+Q10902,2024-12-10,Unley,Casual,39,No contract,25-34,11,1,11,1
+Q10903,2024-09-17,Prospect,Standard,59,No contract,18-24,9,1,11,1
+Q10904,2024-11-08,Norwood,Standard,59,No contract,18-24,16,1,13,0
+Q10905,2024-04-03,Mawson Lakes,Casual,39,No contract,45-54,12,0,17,1
+Q10906,2023-07-04,Norwood,Standard,59,No contract,45-54,7,1,11,1
+Q10907,2025-09-21,Norwood,Premium,89,12-month,35-44,24,1,3,0
+Q10908,2024-01-16,Norwood,Premium,89,No contract,55+,21,1,23,0
+Q10909,2025-08-19,Norwood,Premium,89,12-month,55+,26,0,4,0
+Q10910,2025-09-18,Prospect,Standard,59,12-month,35-44,18,0,3,0
+Q10911,2023-03-31,Norwood,Premium,89,12-month,18-24,22,1,33,0
+Q10912,2023-10-26,Unley,Premium,89,12-month,25-34,16,1,26,0
+Q10913,2024-05-31,Unley,Casual,39,No contract,45-54,9,0,19,0
+Q10914,2023-03-07,Unley,Standard,59,12-month,35-44,9,0,32,1
+Q10915,2025-05-10,Prospect,Standard,59,No contract,18-24,14,1,7,0
+Q10916,2024-07-03,Prospect,Standard,59,No contract,18-24,17,0,17,0
+Q10917,2024-01-29,Unley,Standard,59,12-month,25-34,14,0,22,1
+Q10918,2023-10-10,Norwood,Standard,59,No contract,25-34,10,1,26,0
+Q10919,2025-04-27,Prospect,Casual,39,No contract,25-34,8,0,8,0
+Q10920,2025-05-18,Mawson Lakes,Standard,59,No contract,25-34,12,0,7,0
+Q10921,2025-05-02,Mawson Lakes,Premium,89,12-month,35-44,25,1,7,0
+Q10922,2024-02-18,Unley,Casual,39,No contract,18-24,7,0,19,1
+Q10923,2025-01-12,Prospect,Standard,59,12-month,35-44,16,0,11,0
+Q10924,2024-08-12,Prospect,Casual,39,No contract,35-44,8,0,16,0
+Q10925,2025-04-06,Norwood,Standard,59,12-month,45-54,20,1,8,0
+Q10926,2025-02-04,Prospect,Standard,59,No contract,25-34,9,1,7,1
+Q10927,2023-08-23,Norwood,Premium,89,No contract,25-34,22,1,28,0
+Q10928,2023-08-25,Unley,Casual,39,No contract,55+,6,1,28,0
+Q10929,2023-03-26,Prospect,Standard,59,No contract,35-44,18,1,33,0
+Q10930,2025-05-23,Mawson Lakes,Casual,39,No contract,25-34,7,0,7,0
+Q10931,2023-12-08,Unley,Standard,59,No contract,18-24,13,0,24,0
+Q10932,2023-12-02,Norwood,Premium,89,No contract,45-54,24,1,24,0
+Q10933,2023-04-10,Prospect,Standard,59,12-month,25-34,11,0,32,0
+Q10934,2025-05-29,Unley,Casual,39,No contract,18-24,13,0,5,1
+Q10935,2024-08-15,Norwood,Standard,59,12-month,35-44,15,0,14,1
+Q10936,2024-12-15,Norwood,Standard,59,No contract,18-24,19,0,12,0
+Q10937,2024-09-26,Norwood,Casual,39,No contract,45-54,8,0,15,0
+Q10938,2025-02-20,Prospect,Casual,39,No contract,25-34,11,0,10,0
+Q10939,2023-04-28,Norwood,Standard,59,No contract,45-54,15,0,32,0
+Q10940,2025-06-20,Prospect,Standard,59,12-month,25-34,13,0,6,0
+Q10941,2023-09-17,Norwood,Premium,89,12-month,25-34,18,0,27,0
+Q10942,2025-04-06,Unley,Premium,89,No contract,45-54,14,0,4,1
+Q10943,2024-07-22,Prospect,Standard,59,No contract,55+,16,1,15,1
+Q10944,2025-05-02,Unley,Standard,59,12-month,25-34,15,1,7,0
+Q10945,2025-05-07,Unley,Standard,59,No contract,18-24,13,0,5,1
+Q10946,2025-03-15,Unley,Standard,59,12-month,35-44,10,1,9,0
+Q10947,2024-08-29,Mawson Lakes,Standard,59,12-month,18-24,13,1,16,0
+Q10948,2023-11-29,Prospect,Standard,59,No contract,18-24,17,0,3,1
+Q10949,2023-11-10,Norwood,Premium,89,12-month,35-44,24,1,25,0
+Q10950,2024-04-25,Norwood,Premium,89,12-month,45-54,21,1,20,0
+Q10951,2025-04-03,Norwood,Standard,59,No contract,55+,17,1,1,1
+Q10952,2023-03-05,Norwood,Standard,59,No contract,35-44,15,1,33,0
+Q10953,2024-01-24,Mawson Lakes,Standard,59,12-month,35-44,13,0,23,0
+Q10954,2023-08-10,Unley,Casual,39,No contract,18-24,9,0,6,1
+Q10955,2025-07-21,Mawson Lakes,Standard,59,No contract,55+,22,0,5,0
+Q10956,2024-11-05,Prospect,Standard,59,12-month,25-34,20,1,13,0
+Q10957,2024-09-13,Unley,Premium,89,No contract,35-44,37,1,15,0
+Q10958,2024-04-23,Mawson Lakes,Casual,39,No contract,25-34,8,0,20,0
+Q10959,2023-04-25,Norwood,Casual,39,No contract,25-34,10,0,8,1
+Q10960,2025-09-07,Unley,Standard,59,12-month,18-24,24,0,3,0
+Q10961,2023-02-25,Unley,Standard,59,No contract,18-24,11,0,34,0
+Q10962,2023-09-01,Unley,Standard,59,12-month,45-54,12,1,27,0
+Q10963,2025-05-23,Mawson Lakes,Standard,59,No contract,35-44,6,0,7,0
+Q10964,2023-09-21,Unley,Casual,39,No contract,18-24,1,0,18,1
+Q10965,2024-11-03,Norwood,Premium,89,No contract,25-34,21,1,13,0
+Q10966,2024-04-08,Mawson Lakes,Premium,89,12-month,35-44,26,1,3,1
+Q10967,2025-04-17,Prospect,Casual,39,No contract,25-34,9,0,7,1
+Q10968,2024-07-30,Norwood,Premium,89,12-month,25-34,17,1,17,0
+Q10969,2024-04-03,Norwood,Casual,39,No contract,25-34,7,0,20,0
+Q10970,2024-03-19,Mawson Lakes,Premium,89,12-month,55+,20,0,21,0
+Q10971,2023-09-28,Prospect,Standard,59,No contract,55+,21,1,27,0
+Q10972,2023-08-02,Prospect,Standard,59,12-month,25-34,15,1,28,0
+Q10973,2024-10-12,Prospect,Standard,59,No contract,18-24,20,0,14,0
+Q10974,2023-01-19,Prospect,Standard,59,12-month,45-54,13,1,35,0
+Q10975,2025-03-30,Norwood,Premium,89,12-month,35-44,17,1,9,0
+Q10976,2024-11-20,Norwood,Premium,89,12-month,25-34,22,1,8,1
+Q10977,2023-09-26,Prospect,Premium,89,12-month,45-54,17,1,27,0
+Q10978,2024-04-13,Prospect,Standard,59,No contract,25-34,12,0,20,0
+Q10979,2024-09-08,Unley,Premium,89,12-month,45-54,30,1,15,0
+Q10980,2024-12-22,Unley,Standard,59,No contract,45-54,13,0,2,1
+Q10981,2024-07-02,Unley,Casual,39,No contract,25-34,6,0,17,0
+Q10982,2024-05-31,Norwood,Premium,89,12-month,55+,31,0,19,0
+Q10983,2024-06-05,Unley,Premium,89,12-month,25-34,20,1,3,1
+Q10984,2024-10-13,Norwood,Standard,59,No contract,25-34,13,0,14,0
+Q10985,2023-01-09,Norwood,Standard,59,12-month,18-24,13,0,35,0
+Q10986,2024-09-19,Norwood,Standard,59,12-month,45-54,13,1,15,0
+Q10987,2023-09-05,Norwood,Premium,89,12-month,35-44,37,0,27,0
+Q10988,2024-08-09,Norwood,Standard,59,No contract,35-44,16,0,16,0
+Q10989,2023-08-19,Norwood,Standard,59,No contract,25-34,11,0,6,1
+Q10990,2025-04-10,Mawson Lakes,Premium,89,12-month,35-44,28,0,8,0
+Q10991,2025-07-19,Mawson Lakes,Standard,59,No contract,25-34,15,0,5,0
+Q10992,2025-09-06,Prospect,Standard,59,No contract,45-54,16,0,3,0
+Q10993,2025-01-13,Norwood,Standard,59,12-month,25-34,19,0,11,0
+Q10994,2025-01-18,Norwood,Casual,39,No contract,25-34,8,0,6,1
+Q10995,2024-10-03,Norwood,Standard,59,12-month,25-34,16,1,14,0
+Q10996,2023-05-27,Unley,Standard,59,12-month,25-34,19,0,5,1
+Q10997,2024-12-03,Unley,Casual,39,No contract,18-24,11,0,5,1
+Q10998,2024-12-04,Norwood,Casual,39,No contract,45-54,11,1,12,0
+Q10999,2024-10-06,Norwood,Premium,89,12-month,25-34,15,1,14,0
+Q11000,2024-08-17,Norwood,Casual,39,No contract,18-24,8,0,7,1
+Q11001,2023-08-25,Prospect,Standard,59,12-month,18-24,18,0,28,0
+Q11002,2023-09-22,Mawson Lakes,Standard,59,No contract,25-34,12,0,16,1
+Q11003,2023-06-27,Norwood,Premium,89,12-month,45-54,25,1,30,0
+Q11004,2023-10-12,Unley,Casual,39,No contract,25-34,7,0,26,0
+Q11005,2024-02-08,Prospect,Standard,59,No contract,35-44,14,1,22,0
+Q11006,2024-12-11,Prospect,Casual,39,No contract,35-44,8,0,12,0
+Q11007,2024-05-07,Norwood,Premium,89,No contract,18-24,26,0,19,0
+Q11008,2025-03-27,Mawson Lakes,Casual,39,No contract,18-24,14,0,9,0
+Q11009,2024-09-22,Unley,Standard,59,No contract,25-34,15,0,15,0
+Q11010,2024-12-08,Unley,Casual,39,No contract,45-54,8,0,12,0
+Q11011,2023-07-27,Norwood,Standard,59,12-month,25-34,23,0,29,0
+Q11012,2025-07-06,Unley,Casual,39,No contract,18-24,5,0,5,0
+Q11013,2024-11-06,Unley,Premium,89,No contract,18-24,17,1,13,0
+Q11014,2023-10-11,Mawson Lakes,Casual,39,No contract,25-34,8,0,26,0
+Q11015,2023-03-02,Norwood,Standard,59,No contract,45-54,14,1,30,1
+Q11016,2023-02-26,Mawson Lakes,Casual,39,No contract,45-54,9,1,18,1
+Q11017,2024-10-31,Unley,Premium,89,12-month,25-34,20,1,13,0
+Q11018,2023-06-09,Mawson Lakes,Premium,89,12-month,35-44,23,0,30,0
+Q11019,2025-05-07,Mawson Lakes,Standard,59,12-month,18-24,16,0,7,0
+Q11020,2025-02-11,Mawson Lakes,Premium,89,No contract,55+,37,1,10,0
+Q11021,2025-03-17,Norwood,Standard,59,No contract,18-24,19,1,9,0
+Q11022,2023-08-28,Prospect,Casual,39,No contract,45-54,7,0,6,1
+Q11023,2024-08-28,Prospect,Standard,59,12-month,35-44,17,1,16,0
+Q11024,2024-01-08,Norwood,Standard,59,12-month,45-54,16,1,23,0
+Q11025,2024-08-28,Prospect,Standard,59,No contract,55+,15,1,16,0
+Q11026,2024-02-02,Unley,Standard,59,12-month,25-34,10,1,22,0
+Q11027,2023-11-19,Unley,Standard,59,No contract,45-54,16,1,25,0
+Q11028,2025-08-01,Mawson Lakes,Standard,59,No contract,35-44,18,1,4,0
+Q11029,2025-01-02,Norwood,Standard,59,No contract,18-24,14,0,8,1
+Q11030,2023-01-16,Unley,Standard,59,No contract,55+,24,0,35,0
+Q11031,2025-07-22,Mawson Lakes,Casual,39,No contract,35-44,4,0,2,1
+Q11032,2023-04-23,Unley,Standard,59,12-month,45-54,13,0,32,0
+Q11033,2025-07-10,Mawson Lakes,Standard,59,No contract,18-24,17,1,5,0
+Q11034,2023-03-04,Norwood,Standard,59,No contract,45-54,18,0,33,0
+Q11035,2025-02-23,Prospect,Premium,89,12-month,25-34,15,0,10,0
+Q11036,2025-06-27,Mawson Lakes,Casual,39,No contract,45-54,8,0,2,1
+Q11037,2023-03-26,Norwood,Premium,89,No contract,55+,20,1,33,0
+Q11038,2025-07-17,Norwood,Premium,89,12-month,25-34,18,1,5,0
+Q11039,2023-05-24,Unley,Premium,89,No contract,25-34,23,0,31,0
+Q11040,2024-08-24,Unley,Casual,39,No contract,55+,7,0,16,0
+Q11041,2023-06-26,Unley,Casual,39,No contract,25-34,10,1,3,1
+Q11042,2024-06-26,Unley,Casual,39,No contract,25-34,6,1,18,0
+Q11043,2024-04-05,Unley,Standard,59,12-month,25-34,12,1,20,0
+Q11044,2023-04-07,Unley,Standard,59,No contract,25-34,16,1,32,0
+Q11045,2024-07-22,Prospect,Standard,59,No contract,35-44,19,1,4,1
+Q11046,2024-08-08,Mawson Lakes,Premium,89,12-month,35-44,18,1,16,0
+Q11047,2024-11-17,Unley,Casual,39,No contract,35-44,6,0,6,1
+Q11048,2023-06-19,Norwood,Casual,39,No contract,25-34,9,1,30,0
+Q11049,2023-01-31,Unley,Casual,39,No contract,55+,4,0,20,1
+Q11050,2025-07-18,Norwood,Casual,39,No contract,35-44,9,1,4,1
+Q11051,2024-07-09,Norwood,Premium,89,No contract,35-44,15,1,17,0
+Q11052,2023-04-17,Norwood,Casual,39,No contract,45-54,6,0,17,1
+Q11053,2025-06-27,Mawson Lakes,Standard,59,No contract,25-34,14,0,5,1
+Q11054,2023-03-09,Norwood,Premium,89,No contract,18-24,25,1,33,0
+Q11055,2024-03-10,Prospect,Casual,39,No contract,18-24,8,1,21,0
+Q11056,2024-01-15,Norwood,Standard,59,No contract,25-34,11,0,20,1
+Q11057,2023-04-26,Unley,Premium,89,No contract,25-34,22,1,32,0
+Q11058,2024-03-09,Mawson Lakes,Standard,59,No contract,35-44,23,1,21,0
+Q11059,2025-01-19,Norwood,Casual,39,No contract,35-44,8,0,11,0
+Q11060,2024-10-23,Unley,Casual,39,No contract,55+,6,1,5,1
+Q11061,2023-03-09,Unley,Casual,39,No contract,18-24,6,0,5,1
+Q11062,2025-02-10,Norwood,Premium,89,No contract,35-44,23,1,10,0
+Q11063,2023-10-18,Prospect,Casual,39,No contract,18-24,7,1,23,1
+Q11064,2024-11-30,Unley,Premium,89,12-month,25-34,25,1,13,0
+Q11065,2024-05-15,Prospect,Casual,39,No contract,35-44,17,1,19,0
+Q11066,2023-05-24,Mawson Lakes,Standard,59,12-month,25-34,11,0,31,0
+Q11067,2024-09-26,Prospect,Standard,59,12-month,35-44,18,1,15,0
+Q11068,2024-07-05,Prospect,Premium,89,12-month,45-54,23,0,17,0
+Q11069,2023-05-11,Prospect,Standard,59,No contract,35-44,22,0,31,0
+Q11070,2023-06-21,Norwood,Standard,59,No contract,45-54,13,0,30,0
+Q11071,2024-11-24,Mawson Lakes,Casual,39,No contract,35-44,11,1,12,1
+Q11072,2023-10-03,Mawson Lakes,Standard,59,No contract,18-24,13,0,26,0
+Q11073,2023-05-17,Norwood,Casual,39,No contract,25-34,11,1,31,0
+Q11074,2023-01-25,Prospect,Premium,89,No contract,55+,18,0,35,0
+Q11075,2024-09-17,Norwood,Premium,89,12-month,25-34,23,1,15,0
+Q11076,2024-12-21,Norwood,Standard,59,No contract,45-54,17,0,12,0
+Q11077,2025-03-19,Unley,Standard,59,12-month,55+,12,0,9,0
+Q11078,2024-05-17,Prospect,Casual,39,No contract,35-44,9,0,19,0
+Q11079,2024-02-08,Prospect,Casual,39,No contract,55+,8,0,11,1
+Q11080,2023-03-16,Norwood,Standard,59,No contract,45-54,12,1,33,0
+Q11081,2024-08-17,Unley,Premium,89,No contract,25-34,27,0,7,1
+Q11082,2023-07-30,Norwood,Standard,59,No contract,35-44,11,0,29,0
+Q11083,2023-08-14,Prospect,Standard,59,12-month,25-34,15,0,28,0
+Q11084,2023-02-14,Unley,Standard,59,12-month,25-34,12,1,34,0
+Q11085,2023-10-07,Mawson Lakes,Premium,89,No contract,18-24,21,0,23,1
+Q11086,2025-02-03,Prospect,Casual,39,No contract,35-44,15,1,10,0
+Q11087,2024-05-09,Mawson Lakes,Premium,89,12-month,18-24,27,1,19,0
+Q11088,2024-02-27,Prospect,Standard,59,12-month,35-44,13,0,22,0
+Q11089,2024-05-18,Mawson Lakes,Casual,39,No contract,35-44,5,1,14,1
+Q11090,2023-01-11,Norwood,Standard,59,No contract,45-54,13,0,13,1
+Q11091,2024-11-03,Norwood,Standard,59,12-month,25-34,17,0,13,0
+Q11092,2024-04-09,Unley,Premium,89,No contract,18-24,19,1,20,0
+Q11093,2025-04-02,Unley,Premium,89,No contract,45-54,20,1,8,0
+Q11094,2023-08-23,Prospect,Casual,39,No contract,25-34,4,0,23,1
+Q11095,2024-08-20,Unley,Standard,59,No contract,25-34,15,0,16,0
+Q11096,2023-06-12,Prospect,Standard,59,12-month,18-24,15,0,30,0
+Q11097,2023-08-23,Unley,Casual,39,No contract,25-34,5,1,28,0
+Q11098,2024-03-27,Mawson Lakes,Premium,89,12-month,45-54,19,0,21,0
+Q11099,2023-06-09,Unley,Premium,89,No contract,25-34,29,1,30,0
+Q11100,2023-03-11,Norwood,Standard,59,No contract,45-54,19,0,33,0
+Q11101,2023-12-28,Prospect,Standard,59,12-month,35-44,12,0,24,0
+Q11102,2023-03-14,Prospect,Premium,89,No contract,18-24,23,1,33,0
+Q11103,2024-07-10,Unley,Casual,39,No contract,18-24,7,0,4,1
+Q11104,2023-12-23,Prospect,Casual,39,No contract,18-24,8,0,2,1
+Q11105,2023-08-10,Prospect,Premium,89,12-month,55+,19,0,28,0
+Q11106,2023-01-10,Norwood,Premium,89,12-month,25-34,17,1,35,0
+Q11107,2024-07-28,Prospect,Standard,59,12-month,18-24,13,0,17,0
+Q11108,2024-12-21,Prospect,Premium,89,No contract,55+,30,0,11,1
+Q11109,2024-03-21,Prospect,Standard,59,No contract,55+,12,1,21,0
+Q11110,2025-09-12,Prospect,Premium,89,12-month,18-24,26,1,2,1
+Q11111,2025-02-14,Mawson Lakes,Premium,89,12-month,18-24,21,0,10,0
+Q11112,2024-09-29,Norwood,Standard,59,12-month,45-54,21,1,15,0
+Q11113,2024-03-04,Mawson Lakes,Standard,59,12-month,18-24,19,1,21,0
+Q11114,2024-08-25,Norwood,Premium,89,12-month,25-34,18,1,16,0
+Q11115,2025-06-19,Prospect,Standard,59,No contract,25-34,8,0,3,1
+Q11116,2023-05-08,Norwood,Casual,39,No contract,25-34,7,0,31,0
+Q11117,2024-02-29,Norwood,Standard,59,12-month,25-34,18,0,22,0
+Q11118,2023-03-30,Mawson Lakes,Casual,39,No contract,25-34,10,1,21,1
+Q11119,2023-08-29,Mawson Lakes,Standard,59,No contract,25-34,14,0,16,1
+Q11120,2023-02-08,Unley,Standard,59,No contract,35-44,20,1,34,0
+Q11121,2025-09-12,Unley,Premium,89,12-month,25-34,24,1,3,0
+Q11122,2024-08-16,Norwood,Standard,59,12-month,35-44,12,0,16,0
+Q11123,2024-01-24,Prospect,Standard,59,No contract,25-34,12,1,23,0
+Q11124,2023-02-14,Unley,Standard,59,12-month,25-34,13,1,34,0
+Q11125,2024-03-12,Unley,Premium,89,12-month,45-54,23,1,21,0
+Q11126,2024-01-09,Prospect,Casual,39,No contract,18-24,9,0,22,1
+Q11127,2024-07-08,Norwood,Casual,39,No contract,35-44,4,0,7,1
+Q11128,2024-03-06,Mawson Lakes,Casual,39,No contract,18-24,5,1,16,1
+Q11129,2025-06-05,Unley,Casual,39,No contract,18-24,7,1,6,0
+Q11130,2025-02-22,Unley,Standard,59,No contract,45-54,18,0,10,0
+Q11131,2024-01-25,Mawson Lakes,Casual,39,No contract,25-34,11,0,18,1
+Q11132,2023-03-16,Mawson Lakes,Premium,89,12-month,25-34,27,1,33,0
+Q11133,2023-07-06,Unley,Standard,59,12-month,18-24,7,1,29,0
+Q11134,2024-02-27,Norwood,Standard,59,12-month,45-54,19,0,22,0
+Q11135,2024-11-25,Prospect,Standard,59,No contract,18-24,17,0,13,0
+Q11136,2023-08-25,Prospect,Standard,59,12-month,18-24,12,1,28,0
+Q11137,2025-01-09,Prospect,Standard,59,12-month,25-34,17,1,11,0
+Q11138,2025-03-29,Norwood,Premium,89,12-month,25-34,26,1,9,0
+Q11139,2025-04-28,Norwood,Premium,89,12-month,25-34,23,1,8,0
+Q11140,2024-05-14,Mawson Lakes,Standard,59,12-month,25-34,19,1,19,0
+Q11141,2024-04-09,Unley,Standard,59,No contract,45-54,9,1,20,0
+Q11142,2025-04-22,Norwood,Standard,59,No contract,55+,14,1,5,1
+Q11143,2024-02-14,Unley,Standard,59,12-month,18-24,21,1,22,0
+Q11144,2023-10-15,Prospect,Standard,59,No contract,35-44,19,1,26,0
+Q11145,2024-07-14,Norwood,Standard,59,12-month,55+,11,0,17,0
+Q11146,2024-02-06,Prospect,Standard,59,12-month,25-34,13,1,22,0
+Q11147,2024-01-23,Norwood,Premium,89,No contract,25-34,20,1,23,0
+Q11148,2024-01-29,Prospect,Premium,89,No contract,35-44,21,1,23,0
+Q11149,2025-05-14,Norwood,Standard,59,12-month,18-24,21,0,7,0
+Q11150,2023-02-17,Prospect,Casual,39,No contract,25-34,5,0,11,1
+Q11151,2024-05-27,Norwood,Standard,59,12-month,35-44,11,1,19,0
+Q11152,2023-01-07,Prospect,Standard,59,12-month,35-44,20,1,35,0
+Q11153,2024-03-15,Norwood,Standard,59,No contract,55+,15,0,18,1
+Q11154,2024-02-23,Prospect,Standard,59,No contract,25-34,14,1,22,0
+Q11155,2023-09-10,Prospect,Standard,59,No contract,35-44,10,0,27,0
+Q11156,2025-07-30,Norwood,Standard,59,No contract,55+,19,0,5,0
+Q11157,2023-12-24,Unley,Standard,59,No contract,25-34,11,1,24,0
+Q11158,2023-10-30,Unley,Standard,59,12-month,18-24,29,0,26,0
+Q11159,2023-11-19,Prospect,Standard,59,12-month,25-34,12,1,25,0
+Q11160,2023-01-27,Norwood,Standard,59,12-month,35-44,11,0,35,0
+Q11161,2025-03-03,Norwood,Casual,39,No contract,25-34,5,1,6,1
+Q11162,2023-10-20,Mawson Lakes,Standard,59,12-month,35-44,14,0,26,0
+Q11163,2025-07-05,Unley,Standard,59,12-month,18-24,15,0,5,0
+Q11164,2023-07-06,Norwood,Casual,39,No contract,45-54,6,1,29,0
+Q11165,2024-12-10,Norwood,Casual,39,No contract,25-34,5,1,12,0
+Q11166,2023-03-28,Mawson Lakes,Standard,59,No contract,45-54,14,0,6,1
+Q11167,2024-06-19,Prospect,Casual,39,No contract,25-34,5,0,18,0
+Q11168,2025-05-28,Prospect,Premium,89,No contract,35-44,23,0,2,1
+Q11169,2024-11-30,Unley,Standard,59,12-month,25-34,13,0,13,0
+Q11170,2023-12-15,Unley,Casual,39,No contract,55+,7,0,24,0
+Q11171,2024-08-10,Unley,Standard,59,No contract,25-34,17,0,6,1
+Q11172,2024-03-11,Norwood,Premium,89,12-month,25-34,22,1,21,0
+Q11173,2025-09-02,Prospect,Standard,59,12-month,25-34,15,0,3,0
+Q11174,2023-01-21,Mawson Lakes,Standard,59,12-month,18-24,20,1,35,0
+Q11175,2024-11-10,Norwood,Casual,39,No contract,55+,12,0,2,1
+Q11176,2024-10-03,Norwood,Standard,59,12-month,25-34,17,0,14,0
+Q11177,2024-08-31,Unley,Premium,89,No contract,18-24,25,1,15,0
+Q11178,2024-01-15,Prospect,Premium,89,12-month,45-54,34,0,23,0
+Q11179,2024-02-16,Mawson Lakes,Casual,39,No contract,25-34,5,1,22,0
+Q11180,2024-12-28,Norwood,Premium,89,No contract,25-34,16,1,12,0
+Q11181,2024-03-29,Norwood,Casual,39,No contract,45-54,9,1,21,0
+Q11182,2023-01-22,Unley,Casual,39,No contract,35-44,9,0,35,0
+Q11183,2024-11-11,Mawson Lakes,Premium,89,12-month,35-44,26,1,13,0
+Q11184,2024-10-14,Norwood,Premium,89,12-month,25-34,24,0,14,0
+Q11185,2024-04-10,Mawson Lakes,Premium,89,12-month,25-34,23,0,20,0
+Q11186,2024-11-16,Norwood,Standard,59,No contract,18-24,18,1,13,0
+Q11187,2024-04-28,Norwood,Premium,89,12-month,25-34,19,1,5,1
+Q11188,2025-01-10,Norwood,Standard,59,No contract,25-34,22,1,11,0
+Q11189,2024-09-25,Unley,Standard,59,12-month,35-44,8,1,15,0
+Q11190,2024-12-08,Mawson Lakes,Casual,39,No contract,45-54,6,1,12,0
+Q11191,2023-06-06,Unley,Standard,59,No contract,25-34,16,0,23,1
+Q11192,2024-08-06,Norwood,Casual,39,No contract,25-34,5,1,16,0
+Q11193,2023-05-15,Unley,Casual,39,No contract,45-54,14,0,31,0
+Q11194,2024-12-24,Norwood,Standard,59,No contract,55+,13,0,1,1
+Q11195,2025-05-06,Unley,Casual,39,No contract,25-34,6,1,4,1
+Q11196,2024-04-02,Unley,Casual,39,No contract,35-44,2,1,20,0
+Q11197,2025-06-16,Norwood,Premium,89,12-month,35-44,19,1,6,0
+Q11198,2023-09-23,Prospect,Standard,59,No contract,55+,16,0,27,0
+Q11199,2024-12-07,Norwood,Premium,89,12-month,45-54,20,1,12,0
+Q11200,2023-02-05,Unley,Standard,59,No contract,25-34,26,0,34,0
+Q11201,2025-07-31,Prospect,Premium,89,No contract,25-34,21,0,5,0
+Q11202,2023-07-21,Prospect,Standard,59,No contract,35-44,10,0,29,0
+Q11203,2024-12-29,Mawson Lakes,Standard,59,12-month,25-34,15,0,12,0
+Q11204,2025-03-10,Unley,Premium,89,No contract,18-24,16,1,9,0
+Q11205,2025-03-23,Unley,Standard,59,No contract,18-24,18,0,9,0
+Q11206,2024-11-13,Mawson Lakes,Standard,59,No contract,25-34,18,0,13,0
+Q11207,2023-03-17,Unley,Casual,39,No contract,55+,8,1,29,1
+Q11208,2023-06-15,Mawson Lakes,Standard,59,12-month,55+,15,0,30,0
+Q11209,2023-07-18,Norwood,Premium,89,12-month,45-54,18,1,29,0
+Q11210,2025-02-26,Mawson Lakes,Standard,59,No contract,18-24,17,1,10,0
+Q11211,2024-09-15,Prospect,Standard,59,No contract,25-34,15,0,15,0
+Q11212,2023-05-24,Norwood,Standard,59,12-month,35-44,9,1,5,1
+Q11213,2024-05-21,Norwood,Standard,59,No contract,35-44,14,0,19,0
+Q11214,2023-06-28,Prospect,Standard,59,No contract,55+,8,1,25,1
+Q11215,2024-09-07,Norwood,Premium,89,12-month,35-44,22,0,15,0
+Q11216,2024-08-13,Norwood,Standard,59,12-month,25-34,13,1,16,0
+Q11217,2023-08-01,Unley,Standard,59,12-month,45-54,15,0,29,0
+Q11218,2025-08-18,Unley,Casual,39,No contract,55+,7,1,3,1
+Q11219,2023-06-30,Prospect,Casual,39,No contract,45-54,5,0,30,0
+Q11220,2025-06-20,Prospect,Casual,39,No contract,18-24,9,1,6,0
+Q11221,2024-04-13,Norwood,Standard,59,12-month,55+,16,1,20,0
+Q11222,2023-05-25,Unley,Premium,89,12-month,25-34,23,0,31,0
+Q11223,2024-05-25,Norwood,Premium,89,No contract,55+,25,1,19,0
+Q11224,2025-05-10,Norwood,Casual,39,No contract,45-54,4,0,7,0
+Q11225,2024-03-21,Norwood,Standard,59,12-month,45-54,13,1,21,0
+Q11226,2023-01-16,Norwood,Standard,59,12-month,25-34,18,0,35,0
+Q11227,2023-03-20,Unley,Standard,59,12-month,35-44,11,0,33,0
+Q11228,2024-11-22,Prospect,Standard,59,12-month,35-44,16,0,13,0
+Q11229,2023-06-09,Unley,Standard,59,12-month,18-24,19,1,30,0
+Q11230,2024-05-04,Unley,Casual,39,No contract,18-24,9,0,4,1
+Q11231,2024-03-29,Prospect,Premium,89,12-month,35-44,12,0,21,0
+Q11232,2023-12-16,Prospect,Standard,59,No contract,35-44,17,0,24,0
+Q11233,2023-02-02,Mawson Lakes,Standard,59,No contract,45-54,15,0,34,0
+Q11234,2025-06-26,Unley,Premium,89,No contract,18-24,20,1,6,0
+Q11235,2025-02-24,Norwood,Standard,59,No contract,18-24,19,0,1,1
+Q11236,2023-03-04,Unley,Premium,89,No contract,45-54,25,1,33,0
+Q11237,2024-01-25,Norwood,Premium,89,12-month,35-44,23,1,23,0
+Q11238,2025-09-05,Unley,Casual,39,No contract,25-34,10,0,1,1
+Q11239,2023-01-21,Norwood,Standard,59,12-month,25-34,10,0,35,0
+Q11240,2024-03-23,Mawson Lakes,Standard,59,12-month,45-54,24,1,21,0
+Q11241,2024-09-20,Unley,Standard,59,12-month,55+,8,0,15,0
+Q11242,2023-01-14,Prospect,Standard,59,12-month,18-24,19,0,35,0
+Q11243,2024-01-03,Norwood,Casual,39,No contract,25-34,11,0,23,0
+Q11244,2024-05-03,Unley,Standard,59,12-month,25-34,10,0,19,0
+Q11245,2024-09-05,Prospect,Standard,59,No contract,25-34,15,1,15,0
+Q11246,2024-09-01,Norwood,Standard,59,12-month,25-34,20,0,15,0
+Q11247,2025-08-02,Unley,Premium,89,12-month,25-34,11,0,3,1
+Q11248,2024-11-15,Mawson Lakes,Standard,59,No contract,45-54,17,0,13,0
+Q11249,2024-09-20,Norwood,Standard,59,No contract,35-44,10,0,13,1
+Q11250,2024-03-10,Mawson Lakes,Premium,89,12-month,25-34,22,1,21,0
+Q11251,2023-12-23,Unley,Premium,89,No contract,45-54,25,0,24,0
+Q11252,2025-02-27,Unley,Standard,59,No contract,45-54,21,0,10,0
+Q11253,2023-06-10,Unley,Standard,59,No contract,35-44,10,1,30,0
+Q11254,2024-06-28,Unley,Premium,89,12-month,35-44,24,0,18,0
+Q11255,2024-05-08,Unley,Standard,59,12-month,18-24,16,0,19,0
+Q11256,2023-02-14,Unley,Premium,89,No contract,25-34,27,0,34,0
+Q11257,2024-10-03,Unley,Casual,39,No contract,25-34,9,1,14,0
+Q11258,2023-11-11,Unley,Premium,89,No contract,55+,18,1,25,0
+Q11259,2023-12-04,Unley,Standard,59,12-month,45-54,15,1,24,0
+Q11260,2024-02-27,Prospect,Standard,59,No contract,45-54,20,1,22,0
+Q11261,2023-12-14,Norwood,Premium,89,No contract,35-44,21,0,24,0
+Q11262,2023-08-23,Prospect,Standard,59,12-month,18-24,16,0,28,0
+Q11263,2023-03-28,Unley,Standard,59,12-month,45-54,12,0,33,0
+Q11264,2024-06-28,Prospect,Premium,89,12-month,25-34,23,1,18,0
+Q11265,2025-03-23,Norwood,Standard,59,12-month,18-24,17,0,9,0
+Q11266,2023-07-22,Mawson Lakes,Standard,59,12-month,18-24,14,0,24,1
+Q11267,2024-02-18,Prospect,Standard,59,12-month,35-44,15,1,22,0
+Q11268,2023-02-07,Prospect,Casual,39,No contract,25-34,10,0,34,0
+Q11269,2024-03-13,Norwood,Premium,89,12-month,35-44,22,1,21,0
+Q11270,2025-06-26,Norwood,Standard,59,No contract,35-44,14,0,6,0
+Q11271,2025-03-01,Prospect,Casual,39,No contract,55+,12,1,10,0
+Q11272,2023-04-24,Mawson Lakes,Casual,39,No contract,25-34,7,0,30,1
+Q11273,2023-03-26,Unley,Standard,59,12-month,18-24,9,0,28,1
+Q11274,2024-05-20,Unley,Standard,59,12-month,25-34,13,0,19,0
+Q11275,2023-05-21,Unley,Standard,59,No contract,18-24,25,0,31,0
+Q11276,2023-12-25,Prospect,Standard,59,No contract,25-34,14,0,24,0
+Q11277,2023-12-16,Unley,Standard,59,No contract,25-34,17,0,24,0
+Q11278,2023-07-06,Unley,Casual,39,No contract,25-34,7,0,29,0
+Q11279,2023-03-03,Norwood,Standard,59,12-month,18-24,20,0,33,0
+Q11280,2023-03-22,Mawson Lakes,Standard,59,12-month,55+,14,0,33,0
+Q11281,2024-10-05,Norwood,Standard,59,12-month,18-24,13,1,14,0
+Q11282,2024-08-31,Prospect,Casual,39,No contract,25-34,16,0,15,0
+Q11283,2024-09-27,Unley,Casual,39,No contract,35-44,10,0,3,1
+Q11284,2023-08-14,Norwood,Casual,39,No contract,35-44,7,0,19,1
+Q11285,2024-03-21,Prospect,Casual,39,No contract,25-34,7,1,21,0
+Q11286,2024-11-21,Prospect,Standard,59,No contract,45-54,16,1,13,0
+Q11287,2024-05-13,Prospect,Casual,39,No contract,35-44,9,0,14,1
+Q11288,2023-03-24,Norwood,Standard,59,12-month,45-54,6,0,32,1
+Q11289,2024-08-10,Unley,Standard,59,12-month,55+,15,1,16,0
+Q11290,2024-09-15,Mawson Lakes,Standard,59,12-month,45-54,14,0,3,1
+Q11291,2025-02-13,Unley,Premium,89,12-month,55+,17,0,10,0
+Q11292,2025-06-24,Prospect,Standard,59,No contract,25-34,19,0,6,0
+Q11293,2025-02-03,Norwood,Standard,59,12-month,25-34,17,0,10,0
+Q11294,2024-03-03,Prospect,Casual,39,No contract,25-34,7,0,21,0
+Q11295,2025-06-21,Norwood,Standard,59,No contract,18-24,10,0,6,0
+Q11296,2025-06-30,Prospect,Casual,39,No contract,25-34,8,0,6,0
+Q11297,2023-04-30,Unley,Premium,89,12-month,35-44,24,1,32,0
+Q11298,2024-10-27,Norwood,Premium,89,12-month,25-34,22,0,14,0
+Q11299,2024-07-23,Norwood,Standard,59,No contract,35-44,20,1,17,0
+Q11300,2024-09-12,Prospect,Standard,59,12-month,18-24,22,0,3,1
+Q11301,2024-06-18,Unley,Standard,59,12-month,18-24,12,0,18,0
+Q11302,2023-01-28,Prospect,Standard,59,12-month,45-54,15,1,35,0
+Q11303,2023-08-09,Unley,Premium,89,No contract,18-24,23,0,28,0
+Q11304,2023-02-18,Prospect,Standard,59,12-month,25-34,13,1,34,0
+Q11305,2025-05-05,Norwood,Standard,59,No contract,25-34,13,0,7,0
+Q11306,2023-03-05,Unley,Standard,59,12-month,18-24,15,0,33,0
+Q11307,2024-10-06,Norwood,Standard,59,12-month,25-34,18,0,14,0
+Q11308,2024-09-04,Unley,Premium,89,No contract,35-44,19,1,15,0
+Q11309,2023-04-07,Norwood,Premium,89,No contract,25-34,28,1,32,0
+Q11310,2023-12-26,Mawson Lakes,Premium,89,No contract,55+,36,1,24,0
+Q11311,2025-03-23,Prospect,Premium,89,No contract,25-34,18,1,2,1
+Q11312,2025-04-14,Prospect,Standard,59,12-month,25-34,12,0,8,0
+Q11313,2024-11-25,Prospect,Standard,59,12-month,25-34,19,1,13,0
+Q11314,2023-12-09,Mawson Lakes,Casual,39,No contract,55+,10,0,24,0
+Q11315,2024-04-23,Unley,Premium,89,12-month,25-34,18,0,20,0
+Q11316,2024-12-18,Unley,Casual,39,No contract,45-54,2,0,7,1
+Q11317,2024-07-21,Prospect,Premium,89,No contract,25-34,15,1,17,0
+Q11318,2024-12-18,Unley,Premium,89,12-month,25-34,19,1,12,0
+Q11319,2024-09-17,Mawson Lakes,Standard,59,12-month,25-34,13,1,15,0
+Q11320,2025-08-16,Unley,Standard,59,No contract,25-34,8,1,4,0
+Q11321,2025-05-30,Norwood,Standard,59,No contract,25-34,16,0,7,0
+Q11322,2023-09-22,Mawson Lakes,Casual,39,No contract,35-44,13,0,27,0
+Q11323,2024-04-27,Unley,Premium,89,No contract,18-24,30,0,20,0
+Q11324,2024-03-29,Unley,Standard,59,No contract,18-24,16,1,21,0
+Q11325,2023-11-12,Norwood,Standard,59,12-month,25-34,10,1,25,0
+Q11326,2025-05-15,Unley,Standard,59,12-month,25-34,19,0,7,0
+Q11327,2024-08-10,Prospect,Premium,89,No contract,35-44,27,1,16,0
+Q11328,2023-09-13,Prospect,Casual,39,No contract,18-24,15,0,27,0
+Q11329,2025-03-27,Unley,Casual,39,No contract,25-34,10,0,9,0
+Q11330,2023-04-14,Norwood,Premium,89,12-month,25-34,13,1,32,0
+Q11331,2023-12-05,Mawson Lakes,Standard,59,12-month,18-24,9,0,18,1
+Q11332,2023-07-08,Unley,Premium,89,12-month,25-34,27,1,29,0
+Q11333,2023-09-07,Unley,Casual,39,No contract,25-34,3,0,27,0
+Q11334,2025-08-30,Norwood,Standard,59,12-month,25-34,17,0,4,0
+Q11335,2024-10-10,Norwood,Casual,39,No contract,25-34,8,0,14,0
+Q11336,2023-08-30,Prospect,Standard,59,12-month,55+,10,0,28,0
+Q11337,2023-01-28,Mawson Lakes,Premium,89,No contract,25-34,21,1,35,0
+Q11338,2025-07-08,Norwood,Premium,89,No contract,25-34,20,1,5,0
+Q11339,2024-05-14,Norwood,Standard,59,12-month,45-54,15,0,19,0
+Q11340,2024-12-06,Prospect,Standard,59,No contract,18-24,21,0,12,0
+Q11341,2025-08-18,Mawson Lakes,Standard,59,12-month,45-54,14,0,1,1
+Q11342,2023-06-23,Mawson Lakes,Standard,59,12-month,25-34,15,0,21,1
+Q11343,2023-10-19,Unley,Standard,59,12-month,45-54,12,0,26,0
+Q11344,2023-07-29,Unley,Premium,89,No contract,45-54,19,1,29,0
+Q11345,2023-06-01,Norwood,Standard,59,No contract,55+,20,1,31,0
+Q11346,2023-12-22,Norwood,Premium,89,No contract,55+,14,0,24,0
+Q11347,2023-04-23,Prospect,Casual,39,No contract,55+,12,0,32,0
+Q11348,2025-04-25,Mawson Lakes,Standard,59,12-month,18-24,16,0,8,0
+Q11349,2023-03-30,Prospect,Standard,59,No contract,35-44,10,0,33,0
+Q11350,2025-01-22,Mawson Lakes,Standard,59,12-month,35-44,20,1,11,0
+Q11351,2023-06-06,Norwood,Standard,59,12-month,55+,13,0,30,0
+Q11352,2025-02-25,Norwood,Standard,59,No contract,35-44,9,1,10,0
+Q11353,2023-09-15,Unley,Standard,59,No contract,45-54,11,0,27,0
+Q11354,2023-05-28,Prospect,Casual,39,No contract,35-44,7,1,31,0
+Q11355,2023-06-10,Prospect,Standard,59,12-month,35-44,17,0,30,0
+Q11356,2024-02-03,Prospect,Premium,89,12-month,18-24,18,1,22,0
+Q11357,2023-11-16,Prospect,Premium,89,12-month,18-24,28,1,25,0
+Q11358,2024-08-05,Mawson Lakes,Premium,89,12-month,45-54,17,1,16,0
+Q11359,2025-08-07,Mawson Lakes,Standard,59,No contract,18-24,21,0,3,1
+Q11360,2024-09-13,Unley,Premium,89,No contract,25-34,20,1,15,0
+Q11361,2023-04-02,Norwood,Premium,89,No contract,45-54,27,0,32,0
+Q11362,2024-05-08,Unley,Casual,39,No contract,25-34,7,0,10,1
+Q11363,2023-03-01,Prospect,Standard,59,No contract,35-44,11,1,34,0
+Q11364,2025-09-07,Mawson Lakes,Standard,59,No contract,25-34,19,1,3,0
+Q11365,2023-12-18,Norwood,Premium,89,No contract,25-34,29,0,24,0
+Q11366,2023-11-21,Norwood,Casual,39,No contract,35-44,11,0,25,0
+Q11367,2025-01-12,Norwood,Standard,59,12-month,45-54,18,1,11,0
+Q11368,2025-08-29,Norwood,Standard,59,No contract,25-34,13,1,4,0
+Q11369,2025-09-19,Norwood,Premium,89,12-month,35-44,23,1,3,0
+Q11370,2025-06-02,Norwood,Premium,89,No contract,18-24,20,0,1,1
+Q11371,2023-10-03,Prospect,Premium,89,No contract,45-54,33,1,26,0
+Q11372,2025-01-15,Prospect,Casual,39,No contract,18-24,10,0,4,1
+Q11373,2025-03-08,Mawson Lakes,Casual,39,No contract,35-44,8,0,2,1
+Q11374,2025-04-16,Unley,Casual,39,No contract,45-54,9,1,8,0
+Q11375,2025-02-24,Prospect,Standard,59,12-month,45-54,14,0,10,0
+Q11376,2025-07-31,Mawson Lakes,Standard,59,12-month,25-34,11,0,5,0
+Q11377,2023-06-29,Prospect,Standard,59,12-month,55+,17,0,18,1
+Q11378,2023-07-24,Norwood,Standard,59,12-month,45-54,14,1,29,0
+Q11379,2025-05-07,Norwood,Standard,59,No contract,35-44,17,0,7,0
+Q11380,2024-07-28,Norwood,Standard,59,12-month,45-54,7,1,17,0
+Q11381,2024-07-03,Mawson Lakes,Premium,89,12-month,18-24,26,1,17,0
+Q11382,2023-11-29,Norwood,Standard,59,No contract,45-54,10,0,25,0
+Q11383,2024-01-22,Norwood,Casual,39,No contract,18-24,9,1,9,1
+Q11384,2023-01-24,Prospect,Premium,89,12-month,18-24,21,1,35,0
+Q11385,2025-05-25,Unley,Casual,39,No contract,45-54,10,1,1,1
+Q11386,2024-08-19,Unley,Standard,59,No contract,18-24,11,1,7,1
+Q11387,2023-10-29,Prospect,Casual,39,No contract,45-54,7,0,22,1
+Q11388,2023-04-30,Unley,Standard,59,12-month,18-24,13,1,32,0
+Q11389,2023-06-20,Unley,Standard,59,12-month,25-34,15,0,30,0
+Q11390,2023-08-11,Unley,Standard,59,12-month,45-54,20,0,28,0
+Q11391,2023-06-28,Unley,Standard,59,12-month,18-24,24,1,30,0
+Q11392,2024-03-29,Unley,Standard,59,No contract,35-44,15,1,21,0
+Q11393,2023-12-01,Unley,Premium,89,12-month,45-54,28,1,25,0
+Q11394,2024-06-15,Prospect,Casual,39,No contract,35-44,7,1,18,0
+Q11395,2023-01-22,Unley,Casual,39,No contract,25-34,5,0,18,1
+Q11396,2025-05-17,Unley,Standard,59,12-month,35-44,11,0,7,0
+Q11397,2023-12-06,Mawson Lakes,Standard,59,No contract,45-54,23,0,24,0
+Q11398,2025-09-17,Norwood,Premium,89,12-month,55+,24,0,3,0
+Q11399,2023-12-28,Unley,Standard,59,No contract,35-44,18,0,14,1
+Q11400,2025-08-12,Norwood,Casual,39,No contract,25-34,7,0,4,0
+Q11401,2024-12-16,Prospect,Standard,59,No contract,18-24,12,1,12,0
+Q11402,2023-03-02,Norwood,Standard,59,No contract,45-54,17,0,15,1
+Q11403,2025-08-09,Unley,Standard,59,12-month,55+,8,0,4,0
+Q11404,2024-07-02,Prospect,Standard,59,12-month,35-44,16,1,17,0
+Q11405,2025-01-11,Unley,Premium,89,No contract,45-54,20,0,11,0
+Q11406,2023-04-18,Prospect,Casual,39,No contract,18-24,9,0,32,0
+Q11407,2024-12-14,Norwood,Premium,89,12-month,55+,20,1,12,0
+Q11408,2023-08-08,Norwood,Standard,59,No contract,55+,18,1,28,0
+Q11409,2024-07-10,Unley,Casual,39,No contract,55+,10,1,16,1
+Q11410,2024-05-24,Unley,Casual,39,No contract,55+,10,0,14,1
+Q11411,2023-10-08,Norwood,Standard,59,12-month,55+,12,1,26,0
+Q11412,2025-06-24,Mawson Lakes,Premium,89,12-month,35-44,22,0,6,0
+Q11413,2025-09-18,Prospect,Standard,59,No contract,55+,10,0,1,1
+Q11414,2025-09-04,Mawson Lakes,Premium,89,12-month,25-34,21,0,3,0
+Q11415,2023-10-27,Unley,Standard,59,No contract,35-44,11,0,26,0
+Q11416,2024-08-31,Norwood,Premium,89,No contract,45-54,27,1,15,0
+Q11417,2024-01-26,Norwood,Standard,59,No contract,18-24,14,0,23,0
+Q11418,2024-10-14,Prospect,Standard,59,12-month,55+,13,0,14,0
+Q11419,2025-07-19,Prospect,Standard,59,12-month,35-44,21,0,5,0
+Q11420,2024-02-04,Prospect,Standard,59,12-month,55+,18,0,22,0
+Q11421,2025-06-08,Norwood,Casual,39,No contract,18-24,6,1,2,1
+Q11422,2025-08-06,Unley,Standard,59,No contract,25-34,11,1,1,1
+Q11423,2024-01-17,Norwood,Premium,89,12-month,45-54,22,1,23,0
+Q11424,2023-05-14,Norwood,Casual,39,No contract,25-34,10,0,24,1
+Q11425,2024-05-13,Norwood,Standard,59,12-month,25-34,14,0,19,0
+Q11426,2023-01-06,Norwood,Standard,59,12-month,25-34,15,0,35,0
+Q11427,2025-02-19,Norwood,Casual,39,No contract,25-34,11,1,10,0
+Q11428,2023-10-08,Unley,Premium,89,12-month,45-54,29,1,26,0
+Q11429,2023-09-21,Unley,Casual,39,No contract,45-54,11,0,27,0
+Q11430,2025-04-22,Prospect,Standard,59,12-month,18-24,12,0,8,0
+Q11431,2024-09-14,Unley,Casual,39,No contract,18-24,10,0,9,1
+Q11432,2024-01-02,Mawson Lakes,Casual,39,No contract,25-34,9,0,12,1
+Q11433,2023-03-18,Unley,Standard,59,12-month,18-24,18,0,33,0
+Q11434,2023-06-20,Unley,Standard,59,12-month,25-34,15,0,30,0
+Q11435,2023-12-19,Prospect,Casual,39,No contract,55+,10,0,16,1
+Q11436,2023-04-28,Unley,Casual,39,No contract,25-34,10,0,32,0
+Q11437,2024-09-06,Prospect,Casual,39,No contract,25-34,7,1,10,1
+Q11438,2024-06-01,Unley,Standard,59,No contract,55+,15,0,18,0
+Q11439,2024-01-10,Norwood,Casual,39,No contract,18-24,4,1,19,1
+Q11440,2023-11-09,Unley,Standard,59,No contract,25-34,18,1,24,1
+Q11441,2023-07-29,Prospect,Premium,89,12-month,25-34,26,1,29,0
+Q11442,2023-01-12,Unley,Casual,39,No contract,25-34,12,0,21,1
+Q11443,2023-12-10,Unley,Standard,59,12-month,18-24,11,1,24,0
+Q11444,2023-04-03,Norwood,Standard,59,No contract,25-34,10,0,32,0
+Q11445,2023-12-09,Unley,Standard,59,No contract,55+,18,1,18,1
+Q11446,2024-09-19,Norwood,Casual,39,No contract,35-44,10,0,6,1
+Q11447,2023-01-25,Prospect,Premium,89,12-month,35-44,18,1,35,0
+Q11448,2025-04-06,Norwood,Standard,59,No contract,35-44,16,0,1,1
+Q11449,2024-12-06,Unley,Premium,89,12-month,55+,21,0,12,0
+Q11450,2023-06-13,Mawson Lakes,Premium,89,12-month,25-34,20,1,30,0
+Q11451,2023-09-16,Mawson Lakes,Premium,89,12-month,25-34,24,1,27,0
+Q11452,2024-09-18,Unley,Casual,39,No contract,25-34,13,0,3,1
+Q11453,2023-10-31,Unley,Standard,59,No contract,45-54,14,1,26,0
+Q11454,2023-05-07,Unley,Standard,59,12-month,45-54,15,0,31,0
+Q11455,2024-10-26,Prospect,Standard,59,No contract,35-44,16,1,3,1
+Q11456,2025-07-21,Norwood,Standard,59,No contract,25-34,8,0,1,1
+Q11457,2024-09-23,Prospect,Standard,59,No contract,55+,18,0,15,0
+Q11458,2024-09-08,Norwood,Casual,39,No contract,18-24,4,0,15,0
+Q11459,2024-09-25,Norwood,Casual,39,No contract,18-24,10,0,1,1
+Q11460,2024-09-28,Norwood,Standard,59,12-month,35-44,12,0,15,0
+Q11461,2023-02-18,Norwood,Casual,39,No contract,25-34,10,0,34,0
+Q11462,2024-02-03,Mawson Lakes,Casual,39,No contract,35-44,6,0,15,1
+Q11463,2024-02-21,Mawson Lakes,Casual,39,No contract,25-34,11,0,13,1
+Q11464,2025-08-16,Prospect,Standard,59,No contract,25-34,28,0,4,0
+Q11465,2023-03-14,Norwood,Premium,89,12-month,18-24,17,1,33,0
+Q11466,2024-09-03,Norwood,Casual,39,No contract,25-34,15,0,15,0
+Q11467,2023-10-15,Prospect,Premium,89,12-month,25-34,27,1,26,0
+Q11468,2023-12-03,Mawson Lakes,Standard,59,12-month,35-44,12,0,24,0
+Q11469,2024-06-23,Prospect,Standard,59,No contract,25-34,15,0,16,1
+Q11470,2024-07-11,Prospect,Standard,59,12-month,18-24,16,1,17,0
+Q11471,2023-12-08,Unley,Standard,59,12-month,25-34,14,1,24,0
+Q11472,2025-06-21,Prospect,Premium,89,12-month,55+,24,1,6,0
+Q11473,2025-05-09,Prospect,Standard,59,12-month,18-24,11,0,3,1
+Q11474,2023-04-07,Norwood,Standard,59,No contract,35-44,8,0,32,0
+Q11475,2023-05-15,Prospect,Casual,39,No contract,35-44,7,0,31,0
+Q11476,2024-01-01,Unley,Premium,89,No contract,55+,19,1,23,0
+Q11477,2023-12-06,Unley,Casual,39,No contract,18-24,9,1,24,0
+Q11478,2023-02-16,Unley,Standard,59,No contract,25-34,14,0,25,1
+Q11479,2024-07-04,Prospect,Casual,39,No contract,18-24,7,1,9,1
+Q11480,2025-08-11,Prospect,Premium,89,No contract,18-24,29,1,4,0
+Q11481,2024-12-20,Norwood,Standard,59,12-month,55+,13,0,12,0
+Q11482,2023-09-24,Mawson Lakes,Premium,89,No contract,35-44,18,0,16,1
+Q11483,2024-11-12,Unley,Standard,59,12-month,35-44,19,0,13,0
+Q11484,2024-04-28,Mawson Lakes,Premium,89,12-month,35-44,16,0,20,0
+Q11485,2024-03-03,Unley,Premium,89,12-month,25-34,20,1,21,0
+Q11486,2024-06-04,Mawson Lakes,Premium,89,No contract,45-54,20,1,18,0
+Q11487,2025-08-18,Mawson Lakes,Casual,39,No contract,25-34,5,1,2,1
+Q11488,2024-01-31,Prospect,Standard,59,No contract,25-34,18,0,14,1
+Q11489,2023-06-27,Norwood,Premium,89,12-month,25-34,18,1,30,0
+Q11490,2024-12-09,Unley,Premium,89,12-month,35-44,19,0,12,0
+Q11491,2024-07-31,Norwood,Standard,59,12-month,55+,12,0,9,1
+Q11492,2025-06-03,Mawson Lakes,Standard,59,No contract,18-24,20,0,6,0
+Q11493,2024-06-18,Prospect,Standard,59,No contract,25-34,19,0,18,0
+Q11494,2024-10-16,Mawson Lakes,Standard,59,12-month,18-24,7,1,14,0
+Q11495,2024-08-24,Unley,Premium,89,12-month,45-54,19,0,16,0
+Q11496,2024-03-20,Mawson Lakes,Premium,89,12-month,45-54,24,1,21,0
+Q11497,2023-01-25,Unley,Standard,59,12-month,45-54,14,1,35,0
+Q11498,2023-05-18,Unley,Standard,59,12-month,45-54,9,0,5,1
+Q11499,2024-05-04,Norwood,Casual,39,No contract,55+,6,0,19,0
+Q11500,2024-02-01,Norwood,Standard,59,12-month,45-54,14,1,22,0
+Q11501,2024-04-14,Norwood,Premium,89,No contract,25-34,26,1,20,0
+Q11502,2023-09-26,Prospect,Premium,89,No contract,25-34,16,0,16,1
+Q11503,2023-10-01,Norwood,Standard,59,No contract,45-54,17,0,27,0
+Q11504,2023-02-28,Unley,Standard,59,No contract,45-54,20,1,34,0
+Q11505,2023-03-14,Prospect,Premium,89,12-month,18-24,17,1,33,0
+Q11506,2025-06-06,Unley,Casual,39,No contract,18-24,12,0,6,0
+Q11507,2023-08-04,Norwood,Casual,39,No contract,35-44,3,0,28,0
+Q11508,2023-12-05,Unley,Standard,59,12-month,18-24,19,0,24,0
+Q11509,2025-04-19,Prospect,Premium,89,No contract,45-54,13,0,4,1
+Q11510,2024-02-11,Prospect,Premium,89,No contract,25-34,20,1,22,0
+Q11511,2025-09-21,Norwood,Standard,59,12-month,35-44,19,0,3,0
+Q11512,2023-01-13,Unley,Casual,39,No contract,18-24,10,1,35,0
+Q11513,2025-08-05,Prospect,Standard,59,12-month,35-44,12,1,4,0
+Q11514,2025-01-05,Unley,Standard,59,No contract,35-44,14,1,11,0
+Q11515,2025-03-30,Prospect,Standard,59,12-month,35-44,16,1,9,0
+Q11516,2025-04-05,Unley,Standard,59,No contract,35-44,5,0,8,0
+Q11517,2025-06-10,Norwood,Casual,39,No contract,45-54,11,1,4,1
+Q11518,2023-02-13,Unley,Premium,89,No contract,35-44,15,1,34,0
+Q11519,2025-02-15,Mawson Lakes,Standard,59,No contract,55+,16,1,10,0
+Q11520,2024-01-10,Prospect,Premium,89,12-month,35-44,21,1,23,0
+Q11521,2023-02-12,Mawson Lakes,Standard,59,12-month,18-24,13,1,25,1
+Q11522,2023-08-31,Prospect,Casual,39,No contract,35-44,7,0,21,1
+Q11523,2023-09-27,Norwood,Casual,39,No contract,25-34,6,1,6,1
+Q11524,2023-12-15,Unley,Standard,59,No contract,25-34,12,1,6,1
+Q11525,2024-05-09,Prospect,Premium,89,12-month,45-54,18,1,19,0
+Q11526,2023-06-08,Prospect,Premium,89,12-month,18-24,17,0,30,0
+Q11527,2024-10-03,Unley,Premium,89,No contract,55+,17,1,14,0
+Q11528,2023-09-08,Unley,Standard,59,12-month,25-34,16,1,27,0
+Q11529,2023-02-08,Norwood,Premium,89,No contract,18-24,23,1,34,0
+Q11530,2025-02-07,Prospect,Casual,39,No contract,25-34,10,1,2,1
+Q11531,2025-03-21,Norwood,Standard,59,12-month,25-34,20,1,9,0
+Q11532,2025-04-19,Prospect,Premium,89,12-month,25-34,32,1,8,0
+Q11533,2025-04-16,Norwood,Standard,59,No contract,35-44,13,0,8,0
+Q11534,2023-03-23,Mawson Lakes,Casual,39,No contract,35-44,13,0,23,1
+Q11535,2025-03-18,Unley,Casual,39,No contract,18-24,10,1,3,1
+Q11536,2025-09-11,Norwood,Casual,39,No contract,25-34,12,0,1,1
+Q11537,2025-04-20,Prospect,Casual,39,No contract,45-54,14,1,8,0
+Q11538,2024-08-01,Prospect,Standard,59,No contract,45-54,16,0,16,0
+Q11539,2024-05-30,Norwood,Premium,89,12-month,25-34,16,0,19,0
+Q11540,2025-04-13,Norwood,Premium,89,12-month,18-24,23,1,8,0
+Q11541,2024-08-05,Unley,Premium,89,12-month,25-34,20,1,16,0
+Q11542,2024-09-18,Prospect,Standard,59,No contract,25-34,20,0,7,1
+Q11543,2023-11-11,Unley,Casual,39,No contract,45-54,6,0,3,1
+Q11544,2024-03-21,Norwood,Premium,89,No contract,35-44,24,1,21,0
+Q11545,2023-12-29,Prospect,Casual,39,No contract,35-44,7,0,23,1
+Q11546,2025-05-12,Unley,Casual,39,No contract,18-24,8,0,1,1
+Q11547,2023-08-08,Unley,Standard,59,No contract,25-34,18,1,28,0
+Q11548,2023-06-21,Prospect,Casual,39,No contract,25-34,4,0,30,0
+Q11549,2024-10-26,Unley,Premium,89,No contract,18-24,22,1,14,0
+Q11550,2024-10-25,Mawson Lakes,Standard,59,12-month,25-34,19,0,14,0
+Q11551,2023-10-02,Norwood,Premium,89,12-month,25-34,37,1,26,0
+Q11552,2023-09-05,Norwood,Standard,59,No contract,25-34,13,0,27,0
+Q11553,2023-11-11,Norwood,Standard,59,12-month,18-24,21,1,25,0
+Q11554,2023-10-16,Mawson Lakes,Standard,59,No contract,25-34,24,0,26,0
+Q11555,2023-01-19,Unley,Premium,89,12-month,25-34,27,1,35,0
+Q11556,2025-02-13,Norwood,Standard,59,No contract,55+,21,0,10,0
+Q11557,2025-08-02,Norwood,Casual,39,No contract,25-34,8,0,2,1
+Q11558,2025-01-12,Mawson Lakes,Standard,59,12-month,25-34,20,0,11,0
+Q11559,2023-04-17,Unley,Premium,89,12-month,18-24,20,1,32,0
+Q11560,2024-03-31,Norwood,Casual,39,No contract,18-24,5,0,4,1
+Q11561,2023-11-28,Prospect,Premium,89,12-month,45-54,22,1,25,0
+Q11562,2023-08-04,Unley,Casual,39,No contract,25-34,7,1,13,1
+Q11563,2024-06-05,Unley,Standard,59,12-month,35-44,10,0,18,0
+Q11564,2025-08-17,Prospect,Standard,59,12-month,45-54,14,0,4,0
+Q11565,2024-02-06,Norwood,Standard,59,12-month,35-44,6,0,22,0
+Q11566,2023-11-01,Prospect,Standard,59,12-month,45-54,22,1,25,0
+Q11567,2024-09-19,Prospect,Casual,39,No contract,45-54,6,1,7,1
+Q11568,2023-03-24,Prospect,Premium,89,12-month,18-24,20,1,33,0
+Q11569,2023-01-13,Unley,Casual,39,No contract,18-24,6,0,20,1
+Q11570,2024-06-25,Unley,Standard,59,12-month,35-44,8,0,18,0
+Q11571,2025-07-14,Norwood,Premium,89,12-month,25-34,28,0,5,0
+Q11572,2023-10-27,Unley,Standard,59,12-month,18-24,12,0,26,0
+Q11573,2025-08-12,Mawson Lakes,Premium,89,12-month,25-34,15,0,4,0
+Q11574,2025-06-21,Prospect,Standard,59,12-month,18-24,12,1,6,0
+Q11575,2025-05-05,Norwood,Standard,59,No contract,35-44,11,0,5,1
+Q11576,2024-08-17,Unley,Premium,89,12-month,45-54,26,0,16,0
+Q11577,2024-12-04,Unley,Standard,59,12-month,18-24,15,1,12,0
+Q11578,2024-01-28,Norwood,Premium,89,12-month,18-24,22,1,23,0
+Q11579,2025-07-20,Norwood,Standard,59,12-month,45-54,16,0,5,0
+Q11580,2023-08-22,Unley,Casual,39,No contract,25-34,6,0,17,1
+Q11581,2023-04-06,Prospect,Casual,39,No contract,25-34,8,0,32,0
+Q11582,2024-12-19,Unley,Standard,59,12-month,55+,13,1,12,0
+Q11583,2023-10-29,Prospect,Casual,39,No contract,25-34,7,0,26,0
+Q11584,2023-03-27,Norwood,Premium,89,No contract,45-54,19,1,33,0
+Q11585,2023-01-01,Unley,Casual,39,No contract,18-24,6,0,25,1
+Q11586,2024-11-12,Prospect,Casual,39,No contract,35-44,8,1,13,0
+Q11587,2023-06-22,Prospect,Premium,89,12-month,18-24,17,1,9,1
+Q11588,2023-02-17,Unley,Standard,59,12-month,35-44,14,0,34,0
+Q11589,2025-03-30,Unley,Standard,59,12-month,35-44,18,0,9,0
+Q11590,2023-07-10,Prospect,Casual,39,No contract,35-44,11,1,29,0
+Q11591,2025-06-29,Prospect,Casual,39,No contract,35-44,4,1,4,1
+Q11592,2024-01-28,Unley,Standard,59,No contract,25-34,14,0,23,0
+Q11593,2023-02-27,Unley,Casual,39,No contract,45-54,10,1,34,0
+Q11594,2025-06-08,Prospect,Standard,59,No contract,35-44,14,1,6,0
+Q11595,2025-02-20,Mawson Lakes,Standard,59,12-month,25-34,7,1,6,1
+Q11596,2024-08-20,Unley,Standard,59,12-month,35-44,15,1,16,0
+Q11597,2025-03-08,Prospect,Premium,89,12-month,25-34,20,1,9,0
+Q11598,2024-06-28,Mawson Lakes,Standard,59,12-month,35-44,21,0,18,0
+Q11599,2024-12-03,Mawson Lakes,Casual,39,No contract,25-34,6,0,6,1
+Q11600,2023-03-03,Unley,Standard,59,No contract,25-34,12,0,33,0
+Q11601,2024-01-28,Prospect,Casual,39,No contract,18-24,8,0,20,1
+Q11602,2025-04-14,Mawson Lakes,Standard,59,12-month,45-54,9,0,1,1
+Q11603,2024-11-08,Unley,Standard,59,12-month,25-34,21,0,13,0
+Q11604,2024-07-20,Unley,Standard,59,No contract,35-44,13,0,13,1
+Q11605,2023-10-25,Unley,Standard,59,12-month,35-44,13,0,26,0
+Q11606,2025-08-23,Prospect,Standard,59,12-month,25-34,11,1,1,1
+Q11607,2024-08-29,Mawson Lakes,Casual,39,No contract,25-34,9,1,16,0
+Q11608,2023-10-29,Norwood,Standard,59,12-month,25-34,8,1,26,0
+Q11609,2024-05-03,Norwood,Standard,59,12-month,18-24,15,1,19,0
+Q11610,2024-01-25,Norwood,Premium,89,12-month,25-34,22,1,23,0
+Q11611,2025-02-16,Unley,Standard,59,No contract,18-24,11,1,10,0
+Q11612,2023-03-06,Prospect,Premium,89,12-month,45-54,16,1,33,0
+Q11613,2023-06-06,Unley,Premium,89,12-month,25-34,20,0,11,1
+Q11614,2025-08-20,Norwood,Casual,39,No contract,35-44,10,1,4,0
+Q11615,2024-12-12,Unley,Premium,89,No contract,35-44,26,1,12,0
+Q11616,2025-06-10,Norwood,Premium,89,No contract,25-34,24,1,1,1
+Q11617,2025-07-09,Unley,Standard,59,12-month,35-44,22,1,5,0
+Q11618,2025-01-24,Mawson Lakes,Standard,59,12-month,35-44,19,0,11,0
+Q11619,2024-06-29,Unley,Casual,39,No contract,25-34,15,0,3,1
+Q11620,2025-09-25,Unley,Standard,59,12-month,55+,11,0,3,0
+Q11621,2024-12-02,Norwood,Premium,89,No contract,25-34,15,1,12,0
+Q11622,2023-04-04,Prospect,Standard,59,No contract,25-34,20,0,32,0
+Q11623,2025-01-17,Prospect,Casual,39,No contract,55+,7,0,11,0
+Q11624,2024-09-02,Prospect,Standard,59,12-month,35-44,16,0,15,0
+Q11625,2025-04-11,Unley,Premium,89,No contract,35-44,21,1,8,0
+Q11626,2025-06-26,Norwood,Casual,39,No contract,35-44,7,0,3,1
+Q11627,2024-03-09,Mawson Lakes,Standard,59,12-month,18-24,11,0,13,1
+Q11628,2025-04-15,Prospect,Casual,39,No contract,18-24,6,1,8,0
+Q11629,2024-09-04,Mawson Lakes,Premium,89,12-month,18-24,26,1,15,0
+Q11630,2025-02-09,Unley,Casual,39,No contract,18-24,5,0,3,1
+Q11631,2023-09-28,Norwood,Standard,59,No contract,25-34,17,0,27,0
+Q11632,2023-05-27,Prospect,Casual,39,No contract,18-24,7,0,17,1
+Q11633,2023-04-12,Prospect,Standard,59,No contract,35-44,12,0,32,0
+Q11634,2025-09-22,Mawson Lakes,Casual,39,No contract,45-54,9,1,2,1
+Q11635,2025-04-01,Norwood,Premium,89,12-month,25-34,21,1,9,0
+Q11636,2023-01-03,Prospect,Standard,59,No contract,25-34,16,0,35,0
+Q11637,2025-04-06,Unley,Standard,59,No contract,18-24,21,1,8,0
+Q11638,2025-05-03,Mawson Lakes,Premium,89,12-month,45-54,18,1,7,0
+Q11639,2024-10-23,Norwood,Standard,59,No contract,35-44,8,0,7,1
+Q11640,2024-01-07,Unley,Standard,59,12-month,18-24,15,1,23,0
+Q11641,2024-04-03,Mawson Lakes,Casual,39,No contract,25-34,11,0,14,1
+Q11642,2025-03-06,Prospect,Standard,59,No contract,18-24,21,0,9,0
+Q11643,2023-04-07,Prospect,Standard,59,12-month,18-24,13,0,32,0
+Q11644,2023-10-25,Norwood,Standard,59,No contract,45-54,14,0,26,0
+Q11645,2023-06-19,Mawson Lakes,Casual,39,No contract,25-34,4,0,18,1
+Q11646,2024-12-23,Unley,Standard,59,12-month,55+,24,0,12,0
+Q11647,2023-05-08,Unley,Casual,39,No contract,18-24,2,0,5,1
+Q11648,2023-11-05,Prospect,Premium,89,12-month,55+,17,1,25,0
+Q11649,2025-03-07,Norwood,Premium,89,12-month,18-24,25,0,9,0
+Q11650,2024-07-03,Unley,Standard,59,12-month,25-34,14,1,17,0
+Q11651,2023-01-13,Unley,Premium,89,12-month,35-44,25,0,35,0
+Q11652,2023-08-15,Norwood,Casual,39,No contract,25-34,10,1,4,1
+Q11653,2024-04-02,Prospect,Standard,59,12-month,45-54,14,0,13,1
+Q11654,2024-06-25,Norwood,Premium,89,No contract,35-44,18,0,18,0
+Q11655,2024-02-09,Prospect,Standard,59,12-month,18-24,15,0,22,0
+Q11656,2025-05-21,Prospect,Standard,59,No contract,25-34,23,1,7,0
+Q11657,2023-03-13,Prospect,Standard,59,12-month,25-34,18,0,33,0
+Q11658,2025-02-04,Unley,Premium,89,12-month,55+,27,1,10,0
+Q11659,2025-09-18,Prospect,Standard,59,12-month,18-24,16,0,3,0
+Q11660,2025-09-22,Prospect,Standard,59,No contract,55+,11,0,3,0
+Q11661,2023-05-19,Prospect,Casual,39,No contract,18-24,7,0,31,0
+Q11662,2024-05-02,Unley,Standard,59,No contract,25-34,18,0,19,0
+Q11663,2024-12-11,Prospect,Standard,59,12-month,25-34,16,0,2,1
+Q11664,2023-08-15,Norwood,Casual,39,No contract,35-44,9,1,6,1
+Q11665,2024-06-01,Prospect,Casual,39,No contract,18-24,15,0,8,1
+Q11666,2023-07-04,Prospect,Premium,89,No contract,45-54,19,1,29,0
+Q11667,2023-02-18,Prospect,Standard,59,No contract,45-54,13,0,34,0
+Q11668,2024-03-20,Unley,Premium,89,No contract,45-54,24,1,21,0
+Q11669,2025-09-14,Prospect,Standard,59,No contract,18-24,11,1,1,1
+Q11670,2023-06-11,Norwood,Standard,59,12-month,35-44,19,0,30,0
+Q11671,2023-02-05,Norwood,Standard,59,12-month,35-44,14,0,34,0
+Q11672,2023-02-14,Norwood,Premium,89,No contract,25-34,20,1,34,0
+Q11673,2023-06-15,Norwood,Standard,59,No contract,25-34,16,0,30,0
+Q11674,2024-08-13,Norwood,Standard,59,12-month,25-34,14,0,16,0
+Q11675,2023-08-19,Unley,Premium,89,12-month,25-34,21,1,28,0
+Q11676,2023-02-28,Norwood,Casual,39,No contract,18-24,12,0,19,1
+Q11677,2023-11-11,Prospect,Casual,39,No contract,18-24,7,0,25,0
+Q11678,2023-10-17,Norwood,Standard,59,12-month,45-54,16,0,26,0
+Q11679,2023-07-15,Norwood,Casual,39,No contract,25-34,9,1,27,1
+Q11680,2024-06-16,Prospect,Standard,59,No contract,25-34,8,0,6,1
+Q11681,2024-03-22,Mawson Lakes,Casual,39,No contract,35-44,10,1,21,0
+Q11682,2025-04-02,Unley,Standard,59,12-month,55+,12,1,8,0
+Q11683,2025-04-03,Mawson Lakes,Premium,89,12-month,25-34,27,1,8,0
+Q11684,2023-06-25,Prospect,Standard,59,12-month,45-54,8,0,12,1
+Q11685,2023-02-12,Mawson Lakes,Premium,89,12-month,45-54,23,0,34,0
+Q11686,2024-01-02,Unley,Standard,59,No contract,35-44,14,0,23,0
+Q11687,2023-11-02,Unley,Standard,59,No contract,45-54,11,0,18,1
+Q11688,2024-06-28,Prospect,Casual,39,No contract,45-54,5,1,18,0
+Q11689,2025-09-20,Prospect,Casual,39,No contract,35-44,11,0,3,0
+Q11690,2023-08-11,Unley,Standard,59,No contract,35-44,17,1,28,0
+Q11691,2023-05-11,Norwood,Standard,59,No contract,35-44,22,1,31,0
+Q11692,2024-02-17,Norwood,Casual,39,No contract,25-34,10,0,3,1
+Q11693,2023-11-01,Norwood,Standard,59,12-month,25-34,21,1,25,0
+Q11694,2023-12-19,Unley,Standard,59,No contract,35-44,14,1,8,1
+Q11695,2023-01-05,Prospect,Standard,59,12-month,35-44,15,0,35,0
+Q11696,2024-04-11,Unley,Standard,59,No contract,35-44,16,0,8,1
+Q11697,2025-01-27,Prospect,Standard,59,12-month,25-34,16,1,11,0
+Q11698,2024-04-09,Unley,Premium,89,12-month,18-24,24,1,20,0
+Q11699,2024-04-06,Unley,Standard,59,No contract,45-54,18,0,3,1
+Q11700,2024-09-17,Prospect,Casual,39,No contract,18-24,6,1,6,1
+Q11701,2023-03-30,Prospect,Premium,89,12-month,18-24,17,1,33,0
+Q11702,2024-07-09,Norwood,Standard,59,No contract,25-34,18,1,17,0
+Q11703,2024-11-04,Prospect,Standard,59,No contract,35-44,8,1,13,0
+Q11704,2024-10-05,Unley,Premium,89,No contract,25-34,26,1,14,0
+Q11705,2024-10-29,Prospect,Casual,39,No contract,18-24,8,0,2,1
+Q11706,2025-06-24,Unley,Premium,89,12-month,25-34,17,1,6,0
+Q11707,2025-08-14,Prospect,Casual,39,No contract,45-54,10,0,4,0
+Q11708,2025-01-18,Prospect,Standard,59,12-month,25-34,15,0,11,0
+Q11709,2023-03-03,Mawson Lakes,Standard,59,No contract,45-54,18,0,33,0
+Q11710,2024-02-16,Unley,Casual,39,No contract,18-24,10,0,22,0
+Q11711,2023-08-29,Norwood,Premium,89,12-month,18-24,25,0,28,0
+Q11712,2025-06-26,Prospect,Standard,59,No contract,45-54,12,1,5,1
+Q11713,2025-08-08,Prospect,Standard,59,No contract,25-34,13,1,4,0
+Q11714,2024-04-25,Unley,Standard,59,No contract,45-54,14,1,20,0
+Q11715,2025-04-24,Norwood,Standard,59,No contract,25-34,14,0,8,0
+Q11716,2023-07-03,Prospect,Premium,89,No contract,25-34,16,0,29,0
+Q11717,2025-05-14,Prospect,Premium,89,12-month,25-34,18,1,7,0
+Q11718,2024-06-11,Mawson Lakes,Standard,59,12-month,35-44,12,0,11,1
+Q11719,2024-10-02,Norwood,Standard,59,No contract,18-24,17,0,1,1
+Q11720,2023-02-10,Mawson Lakes,Standard,59,12-month,55+,16,1,34,0
+Q11721,2023-07-05,Prospect,Premium,89,12-month,25-34,16,0,29,0
+Q11722,2025-09-25,Unley,Premium,89,12-month,45-54,17,1,3,0
+Q11723,2024-05-31,Unley,Standard,59,No contract,25-34,9,0,18,1
+Q11724,2024-04-11,Prospect,Standard,59,12-month,18-24,12,0,20,0
+Q11725,2024-05-08,Norwood,Casual,39,No contract,35-44,6,1,19,0
+Q11726,2024-03-12,Mawson Lakes,Premium,89,12-month,35-44,21,1,21,0
+Q11727,2023-02-02,Norwood,Standard,59,No contract,35-44,13,0,25,1
+Q11728,2023-09-13,Norwood,Standard,59,No contract,18-24,16,1,27,0
+Q11729,2023-01-19,Unley,Casual,39,No contract,55+,8,0,35,0
+Q11730,2024-03-03,Unley,Standard,59,No contract,25-34,18,0,9,1
+Q11731,2023-04-26,Prospect,Standard,59,No contract,45-54,16,0,28,1
+Q11732,2024-10-17,Unley,Standard,59,12-month,35-44,12,0,14,0
+Q11733,2023-11-15,Mawson Lakes,Casual,39,No contract,35-44,9,1,25,0
+Q11734,2025-04-01,Norwood,Casual,39,No contract,35-44,10,0,7,1
+Q11735,2023-05-03,Prospect,Casual,39,No contract,25-34,9,0,13,1
+Q11736,2025-01-11,Unley,Premium,89,12-month,55+,24,1,11,0
+Q11737,2024-02-20,Unley,Casual,39,No contract,18-24,10,0,22,0
+Q11738,2023-11-03,Unley,Standard,59,12-month,35-44,22,1,25,0
+Q11739,2025-08-25,Unley,Standard,59,12-month,25-34,10,1,4,0
+Q11740,2024-03-08,Unley,Standard,59,12-month,45-54,18,0,21,0
+Q11741,2023-09-26,Norwood,Casual,39,No contract,18-24,9,0,11,1
+Q11742,2024-09-30,Mawson Lakes,Standard,59,No contract,18-24,19,0,15,0
+Q11743,2024-12-25,Norwood,Standard,59,12-month,45-54,13,0,12,0
+Q11744,2023-08-28,Norwood,Casual,39,No contract,35-44,7,0,28,0
+Q11745,2025-07-27,Prospect,Premium,89,12-month,25-34,21,1,5,0
+Q11746,2023-07-21,Prospect,Standard,59,12-month,25-34,12,1,29,0
+Q11747,2025-05-27,Mawson Lakes,Premium,89,No contract,18-24,26,0,7,0
+Q11748,2025-02-03,Prospect,Premium,89,12-month,55+,16,0,10,0
+Q11749,2023-04-06,Prospect,Casual,39,No contract,25-34,10,0,32,0
+Q11750,2023-01-25,Prospect,Standard,59,No contract,18-24,19,0,35,0
+Q11751,2025-03-16,Mawson Lakes,Standard,59,12-month,35-44,23,0,9,0
+Q11752,2025-08-27,Norwood,Casual,39,No contract,35-44,11,0,3,1
+Q11753,2023-07-03,Prospect,Casual,39,No contract,45-54,8,0,29,0
+Q11754,2025-09-24,Unley,Standard,59,12-month,25-34,16,0,3,0
+Q11755,2024-05-04,Mawson Lakes,Casual,39,No contract,25-34,6,0,4,1
+Q11756,2025-07-04,Norwood,Casual,39,No contract,25-34,15,0,5,0
+Q11757,2025-02-06,Norwood,Premium,89,12-month,25-34,30,1,10,0
+Q11758,2023-09-16,Norwood,Standard,59,12-month,35-44,16,0,27,0
+Q11759,2023-09-11,Mawson Lakes,Standard,59,12-month,25-34,22,0,27,0
+Q11760,2024-12-29,Unley,Premium,89,12-month,25-34,25,0,12,0
+Q11761,2023-12-16,Unley,Premium,89,No contract,45-54,17,0,24,0
+Q11762,2024-04-17,Norwood,Casual,39,No contract,35-44,4,0,19,1
+Q11763,2023-08-14,Norwood,Casual,39,No contract,55+,7,1,28,0
+Q11764,2023-04-11,Mawson Lakes,Standard,59,12-month,45-54,15,0,32,0
+Q11765,2024-09-16,Prospect,Premium,89,12-month,45-54,20,1,15,0
+Q11766,2023-07-29,Prospect,Standard,59,No contract,25-34,19,0,29,0
+Q11767,2023-07-01,Norwood,Standard,59,12-month,35-44,15,1,30,0
+Q11768,2023-03-29,Prospect,Standard,59,No contract,18-24,11,1,33,0
+Q11769,2023-05-22,Unley,Casual,39,No contract,35-44,5,1,19,1
+Q11770,2024-04-11,Prospect,Premium,89,No contract,18-24,21,1,20,0
+Q11771,2023-06-27,Prospect,Premium,89,12-month,55+,24,0,30,0
+Q11772,2024-12-07,Norwood,Casual,39,No contract,25-34,12,0,8,1
+Q11773,2023-09-12,Prospect,Standard,59,No contract,55+,10,0,23,1
+Q11774,2025-04-09,Mawson Lakes,Premium,89,No contract,45-54,25,1,8,0
+Q11775,2024-08-15,Norwood,Standard,59,12-month,35-44,16,0,16,0
+Q11776,2023-06-24,Unley,Standard,59,No contract,55+,8,0,30,0
+Q11777,2024-09-10,Norwood,Premium,89,No contract,35-44,20,1,15,0
+Q11778,2024-03-16,Norwood,Premium,89,No contract,35-44,18,1,21,0
+Q11779,2023-05-06,Norwood,Standard,59,12-month,55+,15,0,31,0
+Q11780,2025-07-11,Prospect,Standard,59,No contract,55+,12,0,5,0
+Q11781,2024-04-03,Unley,Standard,59,No contract,18-24,10,0,2,1
+Q11782,2024-01-17,Norwood,Standard,59,12-month,18-24,9,1,23,0
+Q11783,2025-05-19,Prospect,Standard,59,12-month,35-44,21,0,7,0
+Q11784,2025-09-05,Norwood,Standard,59,No contract,45-54,20,1,3,0
+Q11785,2025-01-07,Prospect,Casual,39,No contract,45-54,4,1,1,1
+Q11786,2023-10-28,Unley,Standard,59,12-month,35-44,12,0,26,0
+Q11787,2024-11-21,Mawson Lakes,Casual,39,No contract,35-44,8,1,13,0
+Q11788,2024-02-09,Prospect,Casual,39,No contract,25-34,11,0,22,0
+Q11789,2024-10-04,Mawson Lakes,Premium,89,12-month,25-34,18,1,14,0
+Q11790,2023-04-28,Norwood,Standard,59,12-month,25-34,13,0,15,1
+Q11791,2025-08-19,Norwood,Standard,59,12-month,25-34,13,1,4,0
+Q11792,2023-01-05,Norwood,Casual,39,No contract,35-44,8,1,33,1
+Q11793,2024-03-18,Unley,Premium,89,12-month,25-34,22,1,21,0
+Q11794,2023-02-27,Norwood,Premium,89,No contract,45-54,22,1,34,0
+Q11795,2024-10-22,Prospect,Standard,59,12-month,25-34,12,1,14,0
+Q11796,2023-10-13,Unley,Casual,39,No contract,55+,8,0,26,0
+Q11797,2023-07-23,Prospect,Standard,59,No contract,25-34,9,0,10,1
+Q11798,2023-07-10,Prospect,Standard,59,No contract,18-24,16,0,14,1
+Q11799,2024-01-25,Mawson Lakes,Premium,89,12-month,35-44,18,0,10,1
+Q11800,2023-01-10,Norwood,Casual,39,No contract,35-44,14,0,26,1
+Q11801,2024-05-22,Unley,Standard,59,No contract,35-44,13,1,19,0
+Q11802,2023-11-26,Norwood,Standard,59,No contract,45-54,17,0,25,0
+Q11803,2024-12-20,Prospect,Standard,59,No contract,35-44,15,0,12,0
+Q11804,2023-09-07,Norwood,Premium,89,12-month,45-54,21,0,3,1
+Q11805,2024-02-23,Unley,Premium,89,No contract,45-54,28,1,22,0
+Q11806,2023-12-19,Norwood,Standard,59,12-month,25-34,9,0,19,1
+Q11807,2023-06-27,Prospect,Premium,89,12-month,18-24,22,1,30,0
+Q11808,2024-03-01,Norwood,Casual,39,No contract,25-34,12,1,22,0
+Q11809,2024-07-24,Prospect,Casual,39,No contract,35-44,4,0,17,0
+Q11810,2024-11-18,Mawson Lakes,Standard,59,No contract,25-34,10,0,13,0
+Q11811,2023-09-15,Unley,Casual,39,No contract,35-44,5,0,27,0
+Q11812,2025-02-08,Prospect,Premium,89,12-month,55+,21,1,10,0
+Q11813,2025-03-08,Unley,Premium,89,No contract,25-34,18,0,9,0
+Q11814,2024-02-05,Unley,Standard,59,No contract,35-44,14,0,12,1
+Q11815,2024-08-02,Unley,Casual,39,No contract,35-44,1,0,14,1
+Q11816,2024-06-10,Norwood,Standard,59,No contract,35-44,17,0,18,0
+Q11817,2023-04-28,Prospect,Standard,59,12-month,35-44,11,1,32,0
+Q11818,2025-07-01,Unley,Standard,59,No contract,55+,22,0,6,0
+Q11819,2023-04-20,Norwood,Premium,89,No contract,25-34,23,0,32,0
+Q11820,2024-01-29,Mawson Lakes,Premium,89,12-month,45-54,13,1,23,0
+Q11821,2023-01-03,Unley,Premium,89,12-month,35-44,22,0,35,0
+Q11822,2023-02-12,Norwood,Standard,59,12-month,18-24,19,0,17,1
+Q11823,2024-09-15,Norwood,Casual,39,No contract,35-44,11,1,9,1
+Q11824,2025-07-23,Norwood,Casual,39,No contract,55+,9,0,5,0
+Q11825,2025-01-10,Mawson Lakes,Standard,59,12-month,18-24,20,0,11,0
+Q11826,2024-01-13,Unley,Standard,59,No contract,25-34,13,1,13,1
+Q11827,2023-06-19,Norwood,Standard,59,No contract,25-34,17,0,30,0
+Q11828,2024-01-27,Mawson Lakes,Casual,39,No contract,25-34,10,0,13,1
+Q11829,2023-06-10,Unley,Standard,59,No contract,35-44,25,0,30,0
+Q11830,2024-05-17,Norwood,Standard,59,12-month,25-34,17,0,19,0
+Q11831,2024-09-24,Prospect,Casual,39,No contract,18-24,8,1,15,0
+Q11832,2025-04-07,Prospect,Premium,89,12-month,25-34,24,1,8,0
+Q11833,2025-03-06,Unley,Premium,89,No contract,18-24,21,1,6,1
+Q11834,2024-02-16,Unley,Premium,89,No contract,25-34,22,1,22,0
+Q11835,2023-12-08,Mawson Lakes,Standard,59,No contract,35-44,20,0,24,0
+Q11836,2024-07-24,Unley,Casual,39,No contract,45-54,3,0,2,1
+Q11837,2024-02-15,Unley,Premium,89,No contract,35-44,22,0,8,1
+Q11838,2025-09-24,Prospect,Casual,39,No contract,25-34,6,0,1,1
+Q11839,2025-03-30,Norwood,Casual,39,No contract,35-44,7,1,9,0
+Q11840,2025-02-08,Unley,Casual,39,No contract,18-24,7,1,10,0
+Q11841,2023-03-26,Norwood,Standard,59,12-month,18-24,21,0,33,0
+Q11842,2024-05-01,Norwood,Standard,59,No contract,45-54,14,1,3,1
+Q11843,2023-10-09,Norwood,Standard,59,12-month,25-34,12,0,26,0
+Q11844,2024-04-10,Prospect,Standard,59,12-month,25-34,11,1,20,0
+Q11845,2023-01-17,Norwood,Standard,59,12-month,45-54,14,0,35,0
+Q11846,2023-05-28,Norwood,Casual,39,No contract,25-34,4,1,14,1
+Q11847,2025-02-23,Prospect,Premium,89,12-month,18-24,26,1,10,0
+Q11848,2025-07-02,Mawson Lakes,Casual,39,No contract,35-44,5,0,3,1
+Q11849,2023-06-30,Prospect,Standard,59,12-month,18-24,9,1,30,0
+Q11850,2024-11-11,Unley,Premium,89,12-month,45-54,22,0,13,0
+Q11851,2025-04-27,Prospect,Premium,89,No contract,25-34,24,1,3,1
+Q11852,2025-01-18,Norwood,Premium,89,12-month,45-54,16,1,11,0
+Q11853,2023-09-30,Norwood,Standard,59,12-month,55+,11,0,27,0
+Q11854,2023-09-14,Unley,Premium,89,12-month,45-54,27,1,27,0
+Q11855,2025-01-17,Prospect,Standard,59,No contract,25-34,14,0,11,0
+Q11856,2023-10-19,Unley,Casual,39,No contract,18-24,7,0,10,1
+Q11857,2023-03-27,Mawson Lakes,Premium,89,No contract,25-34,18,0,33,0
+Q11858,2024-09-11,Unley,Standard,59,No contract,45-54,12,0,12,1
+Q11859,2024-06-05,Norwood,Standard,59,12-month,25-34,12,1,18,0
+Q11860,2023-08-19,Unley,Premium,89,No contract,18-24,17,1,28,0
+Q11861,2024-10-10,Norwood,Standard,59,No contract,25-34,9,1,2,1
+Q11862,2024-08-31,Norwood,Standard,59,No contract,25-34,12,0,2,1
+Q11863,2025-01-07,Unley,Standard,59,12-month,35-44,15,1,11,0
+Q11864,2024-11-28,Norwood,Standard,59,12-month,45-54,15,1,13,0
+Q11865,2024-06-21,Mawson Lakes,Standard,59,12-month,25-34,15,1,18,0
+Q11866,2024-01-08,Prospect,Premium,89,12-month,25-34,28,0,23,0
+Q11867,2024-03-24,Prospect,Standard,59,12-month,35-44,17,0,21,0
+Q11868,2023-03-24,Unley,Standard,59,No contract,45-54,11,0,12,1
+Q11869,2025-05-05,Unley,Premium,89,No contract,25-34,22,1,7,0
+Q11870,2023-03-23,Prospect,Premium,89,12-month,35-44,26,1,33,0
+Q11871,2025-06-24,Norwood,Premium,89,No contract,35-44,29,0,6,0
+Q11872,2024-11-08,Unley,Standard,59,No contract,25-34,17,1,13,0
+Q11873,2024-11-28,Unley,Casual,39,No contract,18-24,11,1,8,1
+Q11874,2024-02-10,Prospect,Standard,59,No contract,18-24,18,0,17,1
+Q11875,2025-07-23,Norwood,Standard,59,No contract,25-34,10,0,3,1
+Q11876,2025-01-20,Prospect,Casual,39,No contract,25-34,12,0,11,0
+Q11877,2024-03-30,Unley,Casual,39,No contract,35-44,7,0,12,1
+Q11878,2023-04-18,Mawson Lakes,Standard,59,12-month,35-44,16,0,32,0
+Q11879,2025-08-24,Unley,Casual,39,No contract,55+,7,0,3,1
+Q11880,2025-02-20,Norwood,Premium,89,12-month,45-54,16,0,10,0
+Q11881,2025-04-06,Unley,Premium,89,12-month,25-34,25,1,8,0
+Q11882,2024-05-20,Mawson Lakes,Premium,89,12-month,35-44,23,1,19,0
+Q11883,2023-01-19,Prospect,Standard,59,No contract,25-34,22,0,35,0
+Q11884,2024-03-23,Prospect,Standard,59,No contract,45-54,19,0,3,1
+Q11885,2024-08-08,Prospect,Standard,59,12-month,35-44,14,1,16,0
+Q11886,2023-04-02,Norwood,Standard,59,No contract,45-54,13,1,32,0
+Q11887,2024-08-14,Unley,Standard,59,No contract,55+,11,0,16,0
+Q11888,2023-04-26,Unley,Standard,59,12-month,35-44,13,0,32,0
+Q11889,2023-04-14,Norwood,Premium,89,12-month,18-24,20,1,32,0
+Q11890,2023-05-31,Prospect,Standard,59,No contract,25-34,7,0,31,0
+Q11891,2024-10-23,Mawson Lakes,Standard,59,No contract,18-24,14,1,10,1
+Q11892,2025-08-26,Norwood,Premium,89,12-month,45-54,22,1,4,0
+Q11893,2023-08-11,Norwood,Casual,39,No contract,25-34,13,0,16,1
+Q11894,2023-12-08,Mawson Lakes,Standard,59,12-month,35-44,17,1,24,0
+Q11895,2024-06-14,Norwood,Standard,59,12-month,25-34,14,1,18,0
+Q11896,2023-03-04,Mawson Lakes,Standard,59,12-month,25-34,18,0,33,0
+Q11897,2023-12-18,Norwood,Standard,59,No contract,25-34,17,1,24,0
+Q11898,2025-08-28,Norwood,Casual,39,No contract,18-24,13,1,4,0
+Q11899,2023-12-23,Norwood,Premium,89,12-month,18-24,18,1,24,0
+Q11900,2025-06-29,Norwood,Standard,59,12-month,25-34,10,0,6,0
+Q11901,2023-04-05,Prospect,Premium,89,12-month,45-54,19,1,32,0
+Q11902,2024-12-15,Norwood,Standard,59,No contract,45-54,25,0,12,0
+Q11903,2025-02-08,Norwood,Premium,89,12-month,18-24,17,1,10,0
+Q11904,2024-06-09,Norwood,Casual,39,No contract,25-34,7,0,5,1
+Q11905,2025-02-24,Unley,Premium,89,12-month,35-44,25,1,10,0
+Q11906,2025-04-22,Unley,Casual,39,No contract,25-34,7,0,8,0
+Q11907,2025-06-06,Unley,Standard,59,No contract,35-44,14,1,4,1
+Q11908,2023-02-25,Norwood,Casual,39,No contract,55+,8,1,34,0
+Q11909,2023-06-30,Prospect,Casual,39,No contract,35-44,9,1,30,0
+Q11910,2023-08-11,Prospect,Standard,59,No contract,35-44,19,0,28,0
+Q11911,2024-11-13,Unley,Premium,89,No contract,18-24,25,1,13,0
+Q11912,2025-05-04,Prospect,Standard,59,No contract,25-34,14,1,7,0
+Q11913,2024-01-10,Unley,Standard,59,12-month,25-34,18,0,23,0
+Q11914,2023-06-01,Prospect,Standard,59,12-month,45-54,9,0,9,1
+Q11915,2025-08-01,Prospect,Premium,89,No contract,18-24,21,1,4,0
+Q11916,2024-09-04,Prospect,Casual,39,No contract,45-54,6,0,12,1
+Q11917,2023-10-18,Prospect,Standard,59,No contract,45-54,15,0,26,0
+Q11918,2024-08-30,Prospect,Premium,89,12-month,25-34,27,1,16,0
+Q11919,2023-12-30,Unley,Premium,89,12-month,25-34,27,1,24,0
+Q11920,2024-01-22,Prospect,Standard,59,12-month,45-54,18,1,23,0
+Q11921,2023-10-23,Norwood,Standard,59,No contract,45-54,13,0,26,0
+Q11922,2023-11-10,Mawson Lakes,Premium,89,12-month,25-34,21,1,3,1
+Q11923,2024-05-25,Norwood,Standard,59,No contract,55+,14,0,19,0
+Q11924,2023-05-12,Unley,Standard,59,12-month,25-34,21,0,31,0
+Q11925,2023-11-13,Prospect,Casual,39,No contract,35-44,7,0,25,0
+Q11926,2023-05-03,Prospect,Casual,39,No contract,55+,5,0,24,1
+Q11927,2025-02-03,Unley,Casual,39,No contract,18-24,8,0,9,1
+Q11928,2024-07-31,Unley,Standard,59,12-month,25-34,24,0,17,0
+Q11929,2025-07-28,Prospect,Casual,39,No contract,25-34,11,1,1,1
+Q11930,2023-10-15,Prospect,Premium,89,12-month,18-24,26,0,26,0
+Q11931,2024-09-21,Unley,Casual,39,No contract,35-44,14,0,15,0
+Q11932,2023-02-22,Norwood,Casual,39,No contract,18-24,9,0,7,1
+Q11933,2024-11-15,Mawson Lakes,Standard,59,12-month,55+,21,1,13,0
+Q11934,2024-12-30,Norwood,Premium,89,12-month,25-34,24,1,12,0
+Q11935,2023-06-15,Unley,Casual,39,No contract,18-24,13,0,30,0
+Q11936,2024-04-25,Norwood,Standard,59,12-month,35-44,15,0,20,0
+Q11937,2025-04-15,Mawson Lakes,Premium,89,No contract,35-44,23,1,8,0
+Q11938,2024-06-08,Unley,Premium,89,No contract,55+,20,0,18,0
+Q11939,2024-08-21,Mawson Lakes,Standard,59,12-month,55+,18,0,16,0
+Q11940,2023-03-18,Unley,Standard,59,12-month,35-44,17,0,33,0
+Q11941,2023-05-14,Norwood,Premium,89,No contract,35-44,24,1,31,0
+Q11942,2025-06-28,Norwood,Casual,39,No contract,55+,11,1,6,0
+Q11943,2025-01-03,Unley,Standard,59,12-month,18-24,9,1,6,1
+Q11944,2025-07-04,Norwood,Standard,59,12-month,45-54,14,1,5,0
+Q11945,2024-09-29,Norwood,Casual,39,No contract,35-44,6,0,2,1
+Q11946,2023-11-03,Unley,Casual,39,No contract,55+,10,1,25,0
+Q11947,2023-09-10,Unley,Casual,39,No contract,35-44,5,1,25,1
+Q11948,2024-02-02,Prospect,Standard,59,No contract,35-44,14,0,22,0
+Q11949,2023-10-16,Mawson Lakes,Casual,39,No contract,35-44,12,1,23,1
+Q11950,2023-09-27,Norwood,Standard,59,No contract,35-44,11,0,27,0
+Q11951,2024-10-22,Unley,Premium,89,12-month,25-34,23,1,14,0
+Q11952,2023-10-20,Mawson Lakes,Standard,59,No contract,35-44,5,1,18,1
+Q11953,2023-01-05,Unley,Standard,59,No contract,35-44,15,1,34,1
+Q11954,2025-01-27,Norwood,Casual,39,No contract,18-24,12,1,11,0
+Q11955,2025-06-18,Prospect,Standard,59,12-month,25-34,20,0,6,0
+Q11956,2023-07-09,Prospect,Premium,89,No contract,25-34,26,0,29,0
+Q11957,2023-12-20,Unley,Standard,59,No contract,35-44,18,0,24,0
+Q11958,2024-03-10,Prospect,Premium,89,12-month,45-54,31,0,21,0
+Q11959,2025-09-04,Norwood,Standard,59,12-month,25-34,13,1,3,0
+Q11960,2023-11-11,Norwood,Standard,59,12-month,18-24,25,0,25,0
+Q11961,2023-01-11,Norwood,Premium,89,No contract,45-54,25,1,35,0
+Q11962,2024-04-22,Unley,Standard,59,No contract,35-44,14,0,20,0
+Q11963,2024-04-27,Unley,Standard,59,12-month,25-34,15,1,20,0
+Q11964,2025-03-22,Norwood,Premium,89,12-month,35-44,25,1,9,0
+Q11965,2023-09-04,Unley,Premium,89,12-month,25-34,26,1,27,0
+Q11966,2024-01-17,Norwood,Standard,59,12-month,35-44,14,1,23,0
+Q11967,2023-03-27,Norwood,Premium,89,No contract,45-54,20,0,32,1
+Q11968,2025-04-16,Prospect,Casual,39,No contract,35-44,12,1,8,0
+Q11969,2024-04-25,Unley,Standard,59,No contract,45-54,23,0,20,0
+Q11970,2025-04-12,Mawson Lakes,Casual,39,No contract,45-54,5,1,5,1
+Q11971,2023-05-14,Prospect,Casual,39,No contract,25-34,13,0,6,1
+Q11972,2023-09-06,Prospect,Standard,59,No contract,35-44,19,0,27,0
+Q11973,2023-12-27,Prospect,Standard,59,12-month,35-44,19,0,9,1
+Q11974,2023-04-13,Prospect,Premium,89,12-month,35-44,22,1,32,0
+Q11975,2025-03-18,Norwood,Premium,89,No contract,55+,16,1,9,0
+Q11976,2023-01-05,Norwood,Premium,89,12-month,25-34,23,0,35,0
+Q11977,2023-11-24,Unley,Premium,89,12-month,55+,30,1,25,0
+Q11978,2023-10-27,Norwood,Casual,39,No contract,25-34,9,0,26,0
+Q11979,2024-03-01,Norwood,Standard,59,No contract,18-24,11,0,21,1
+Q11980,2025-09-25,Norwood,Standard,59,12-month,55+,15,0,3,0
+Q11981,2024-05-26,Prospect,Standard,59,No contract,25-34,7,0,19,0
+Q11982,2024-08-27,Norwood,Standard,59,12-month,45-54,21,0,16,0
+Q11983,2023-12-31,Unley,Standard,59,12-month,35-44,15,0,24,0
+Q11984,2023-06-08,Prospect,Casual,39,No contract,35-44,6,0,30,0
+Q11985,2023-07-31,Unley,Casual,39,No contract,18-24,8,0,26,1
+Q11986,2024-10-08,Unley,Premium,89,No contract,18-24,20,1,14,0
+Q11987,2023-05-04,Unley,Standard,59,No contract,18-24,11,0,31,0
+Q11988,2023-08-07,Unley,Casual,39,No contract,25-34,9,1,13,1
+Q11989,2025-03-15,Unley,Premium,89,12-month,18-24,20,1,9,0
+Q11990,2025-07-09,Norwood,Standard,59,No contract,35-44,13,0,1,1
+Q11991,2025-01-12,Unley,Premium,89,12-month,45-54,22,1,11,0
+Q11992,2025-03-01,Norwood,Premium,89,12-month,35-44,24,0,10,0
+Q11993,2023-06-16,Unley,Casual,39,No contract,55+,3,1,17,1
+Q11994,2023-09-28,Unley,Casual,39,No contract,35-44,11,0,27,0
+Q11995,2025-07-06,Prospect,Standard,59,12-month,45-54,14,0,5,0
+Q11996,2024-08-15,Unley,Standard,59,No contract,35-44,17,1,16,0
+Q11997,2023-06-23,Prospect,Standard,59,No contract,35-44,15,1,30,0
+Q11998,2023-06-07,Prospect,Casual,39,No contract,25-34,5,0,21,1
+Q11999,2024-04-25,Prospect,Standard,59,12-month,55+,21,0,20,0
+Q12000,2023-10-30,Unley,Premium,89,No contract,25-34,16,1,26,0
+Q12001,2023-12-06,Unley,Casual,39,No contract,18-24,8,1,16,1
+Q12002,2024-01-04,Prospect,Casual,39,No contract,18-24,8,0,15,1
+Q12003,2025-06-22,Unley,Standard,59,12-month,35-44,12,1,6,0
+Q12004,2024-12-24,Prospect,Standard,59,12-month,25-34,17,1,12,0
+Q12005,2025-09-05,Norwood,Standard,59,12-month,25-34,15,0,3,0
+Q12006,2024-06-23,Mawson Lakes,Casual,39,No contract,18-24,7,0,12,1
+Q12007,2025-03-28,Unley,Standard,59,12-month,45-54,14,1,9,0
+Q12008,2023-03-03,Norwood,Premium,89,12-month,25-34,18,1,33,0
+Q12009,2024-01-07,Norwood,Standard,59,12-month,55+,15,0,23,0
+Q12010,2023-12-25,Mawson Lakes,Standard,59,No contract,25-34,13,0,7,1
+Q12011,2024-03-10,Prospect,Standard,59,No contract,25-34,14,1,21,0
+Q12012,2023-05-13,Mawson Lakes,Premium,89,12-month,18-24,18,1,31,0
+Q12013,2023-11-05,Unley,Premium,89,12-month,25-34,23,0,25,0
+Q12014,2023-08-03,Prospect,Standard,59,12-month,25-34,21,1,28,0
+Q12015,2023-03-05,Prospect,Casual,39,No contract,18-24,8,1,33,0
+Q12016,2024-09-13,Mawson Lakes,Standard,59,No contract,25-34,11,0,15,0
+Q12017,2025-09-13,Mawson Lakes,Standard,59,12-month,25-34,20,0,2,1
+Q12018,2023-05-03,Unley,Casual,39,No contract,35-44,4,1,25,1
+Q12019,2024-07-15,Unley,Premium,89,No contract,18-24,28,0,17,0
+Q12020,2024-11-02,Norwood,Standard,59,No contract,55+,13,1,13,0
+Q12021,2025-03-22,Unley,Premium,89,No contract,18-24,20,1,1,1
+Q12022,2025-01-27,Unley,Standard,59,No contract,35-44,11,1,11,0
+Q12023,2023-10-02,Prospect,Casual,39,No contract,35-44,7,0,11,1
+Q12024,2023-08-18,Norwood,Premium,89,12-month,25-34,25,1,28,0
+Q12025,2025-06-01,Unley,Casual,39,No contract,35-44,7,0,1,1
+Q12026,2025-07-19,Prospect,Standard,59,12-month,55+,12,0,5,0
+Q12027,2024-10-01,Prospect,Standard,59,No contract,35-44,16,1,14,0
+Q12028,2024-09-09,Norwood,Premium,89,12-month,25-34,24,1,15,0
+Q12029,2024-12-27,Prospect,Premium,89,12-month,35-44,17,0,12,0
+Q12030,2023-05-20,Prospect,Standard,59,12-month,35-44,16,0,31,0
+Q12031,2024-05-27,Unley,Standard,59,12-month,35-44,17,0,19,0
+Q12032,2023-09-14,Prospect,Casual,39,No contract,45-54,5,0,15,1
+Q12033,2024-08-17,Unley,Standard,59,No contract,25-34,10,0,5,1
+Q12034,2025-07-20,Unley,Standard,59,12-month,25-34,18,0,5,0
+Q12035,2024-12-30,Prospect,Standard,59,12-month,35-44,11,0,12,0
+Q12036,2023-04-07,Norwood,Standard,59,No contract,25-34,14,0,32,0
+Q12037,2025-01-31,Unley,Premium,89,12-month,25-34,24,1,10,0
+Q12038,2024-04-20,Prospect,Standard,59,12-month,25-34,11,1,20,0
+Q12039,2024-07-03,Mawson Lakes,Standard,59,12-month,45-54,10,0,6,1
+Q12040,2025-06-16,Unley,Premium,89,12-month,25-34,31,1,6,0
+Q12041,2024-07-05,Norwood,Standard,59,No contract,25-34,11,1,17,0
+Q12042,2023-07-26,Prospect,Premium,89,12-month,18-24,30,1,29,0
+Q12043,2023-01-07,Prospect,Standard,59,12-month,25-34,12,1,7,1
+Q12044,2025-06-17,Prospect,Standard,59,12-month,55+,22,0,6,0
+Q12045,2025-06-17,Norwood,Premium,89,No contract,25-34,23,1,5,1
+Q12046,2023-12-10,Mawson Lakes,Standard,59,12-month,55+,18,0,24,0
+Q12047,2023-09-25,Norwood,Standard,59,12-month,25-34,16,1,27,0
+Q12048,2023-04-29,Unley,Standard,59,12-month,25-34,11,1,32,0
+Q12049,2024-01-13,Norwood,Casual,39,No contract,18-24,7,1,23,0
+Q12050,2023-11-12,Unley,Premium,89,12-month,35-44,21,1,25,0
+Q12051,2023-04-30,Unley,Standard,59,No contract,18-24,16,0,18,1
+Q12052,2024-12-01,Norwood,Standard,59,No contract,18-24,14,0,12,0
+Q12053,2025-06-29,Unley,Standard,59,12-month,25-34,18,1,6,0
+Q12054,2025-04-25,Prospect,Standard,59,No contract,25-34,20,1,8,0
+Q12055,2025-08-13,Prospect,Premium,89,12-month,55+,26,1,4,0
+Q12056,2023-07-28,Unley,Standard,59,12-month,45-54,14,0,29,0
+Q12057,2024-11-22,Unley,Casual,39,No contract,25-34,11,0,9,1
+Q12058,2023-06-21,Unley,Standard,59,No contract,25-34,13,0,30,0
+Q12059,2023-11-06,Mawson Lakes,Standard,59,No contract,25-34,14,1,25,0
+Q12060,2023-02-26,Unley,Premium,89,12-month,35-44,26,1,34,0
+Q12061,2024-02-25,Norwood,Standard,59,No contract,25-34,22,0,18,1
+Q12062,2025-06-26,Norwood,Casual,39,No contract,35-44,10,0,6,0
+Q12063,2024-05-27,Unley,Standard,59,12-month,18-24,17,1,19,0
+Q12064,2025-06-04,Mawson Lakes,Standard,59,12-month,35-44,14,0,6,0
+Q12065,2024-07-29,Norwood,Standard,59,12-month,25-34,15,0,17,0
+Q12066,2024-08-31,Unley,Standard,59,12-month,35-44,21,0,15,0
+Q12067,2023-04-01,Prospect,Standard,59,No contract,25-34,9,0,15,1
+Q12068,2023-02-10,Unley,Premium,89,12-month,18-24,33,0,34,0
+Q12069,2024-08-22,Norwood,Casual,39,No contract,18-24,8,0,7,1
+Q12070,2023-09-09,Prospect,Standard,59,No contract,25-34,13,1,25,1
+Q12071,2023-06-10,Unley,Casual,39,No contract,25-34,6,0,30,0
+Q12072,2024-10-30,Prospect,Standard,59,12-month,25-34,19,0,14,0
+Q12073,2024-12-16,Unley,Casual,39,No contract,35-44,6,0,1,1
+Q12074,2023-07-26,Unley,Standard,59,No contract,55+,15,0,29,0
+Q12075,2025-09-03,Unley,Premium,89,No contract,45-54,24,1,3,0
+Q12076,2023-12-21,Mawson Lakes,Premium,89,12-month,35-44,17,1,24,0
+Q12077,2025-04-21,Norwood,Casual,39,No contract,18-24,11,0,2,1
+Q12078,2023-06-28,Prospect,Premium,89,No contract,25-34,28,1,30,0
+Q12079,2023-07-01,Mawson Lakes,Premium,89,No contract,18-24,22,1,11,1
+Q12080,2024-09-03,Unley,Standard,59,No contract,35-44,14,0,14,1
+Q12081,2024-06-05,Norwood,Standard,59,No contract,35-44,16,0,18,0
+Q12082,2025-09-26,Unley,Standard,59,12-month,25-34,13,1,3,0
+Q12083,2025-03-20,Prospect,Standard,59,12-month,25-34,16,0,9,0
+Q12084,2023-07-19,Prospect,Standard,59,12-month,25-34,13,0,29,0
+Q12085,2024-09-21,Norwood,Standard,59,No contract,45-54,14,0,15,0
+Q12086,2024-10-18,Prospect,Premium,89,12-month,45-54,22,1,14,0
+Q12087,2024-01-13,Unley,Standard,59,12-month,18-24,15,0,23,0
+Q12088,2025-06-17,Mawson Lakes,Premium,89,No contract,25-34,22,1,6,0
+Q12089,2023-07-30,Unley,Casual,39,No contract,25-34,8,1,29,0
+Q12090,2023-12-04,Mawson Lakes,Standard,59,12-month,35-44,15,0,5,1
+Q12091,2025-01-09,Norwood,Standard,59,No contract,35-44,14,0,11,0
+Q12092,2023-03-03,Unley,Casual,39,No contract,25-34,7,0,33,0
+Q12093,2025-02-08,Mawson Lakes,Premium,89,No contract,25-34,20,0,10,0
+Q12094,2025-06-04,Mawson Lakes,Casual,39,No contract,35-44,7,0,3,1
+Q12095,2023-11-25,Norwood,Casual,39,No contract,25-34,12,0,25,0
+Q12096,2024-04-04,Mawson Lakes,Standard,59,12-month,25-34,9,1,20,0
+Q12097,2025-04-06,Prospect,Standard,59,12-month,35-44,17,0,8,0
+Q12098,2023-02-19,Unley,Standard,59,12-month,55+,12,0,34,0
+Q12099,2023-06-14,Unley,Standard,59,12-month,25-34,18,0,7,1
+Q12100,2025-07-17,Norwood,Premium,89,No contract,25-34,23,0,5,0
+Q12101,2023-01-16,Prospect,Standard,59,No contract,55+,11,0,35,0
+Q12102,2025-05-26,Mawson Lakes,Casual,39,No contract,18-24,14,1,6,1
+Q12103,2025-07-27,Norwood,Standard,59,No contract,45-54,14,1,5,0
+Q12104,2024-07-05,Norwood,Premium,89,No contract,45-54,19,0,17,0
+Q12105,2023-10-16,Prospect,Standard,59,No contract,45-54,15,0,26,0
+Q12106,2023-01-20,Prospect,Standard,59,12-month,35-44,21,0,35,0
+Q12107,2023-04-26,Unley,Casual,39,No contract,35-44,6,0,9,1
+Q12108,2023-02-20,Unley,Standard,59,No contract,45-54,10,1,34,0
+Q12109,2025-04-07,Unley,Casual,39,No contract,18-24,7,1,7,1
+Q12110,2025-06-07,Norwood,Premium,89,No contract,25-34,16,1,6,0
+Q12111,2023-01-28,Prospect,Premium,89,12-month,25-34,16,1,35,0
+Q12112,2025-03-29,Prospect,Standard,59,No contract,25-34,22,0,9,0
+Q12113,2025-05-15,Unley,Casual,39,No contract,55+,8,1,1,1
+Q12114,2023-02-28,Mawson Lakes,Premium,89,No contract,25-34,30,1,34,0
+Q12115,2024-12-05,Prospect,Premium,89,12-month,25-34,20,0,12,0
+Q12116,2023-07-11,Unley,Standard,59,12-month,18-24,10,1,25,1
+Q12117,2025-05-16,Norwood,Casual,39,No contract,25-34,6,0,6,1
+Q12118,2024-09-05,Unley,Standard,59,12-month,35-44,16,1,15,0
+Q12119,2023-10-29,Prospect,Standard,59,No contract,25-34,13,0,10,1
+Q12120,2024-03-30,Unley,Premium,89,No contract,25-34,24,0,21,0
+Q12121,2025-06-07,Mawson Lakes,Casual,39,No contract,35-44,11,0,6,0
+Q12122,2024-12-14,Unley,Standard,59,No contract,35-44,12,1,7,1
+Q12123,2023-10-26,Unley,Standard,59,12-month,25-34,18,0,24,1
+Q12124,2025-05-09,Unley,Standard,59,No contract,25-34,28,0,7,0
+Q12125,2024-07-28,Unley,Standard,59,No contract,35-44,11,0,12,1
+Q12126,2024-12-08,Prospect,Premium,89,12-month,18-24,25,1,12,0
+Q12127,2023-09-09,Norwood,Standard,59,12-month,25-34,6,1,16,1
+Q12128,2024-02-16,Norwood,Standard,59,12-month,25-34,14,1,22,0
+Q12129,2024-07-26,Norwood,Casual,39,No contract,25-34,2,0,12,1
+Q12130,2024-02-29,Mawson Lakes,Casual,39,No contract,25-34,5,0,22,0
+Q12131,2025-06-26,Prospect,Standard,59,No contract,35-44,17,1,6,0
+Q12132,2023-08-22,Norwood,Standard,59,No contract,18-24,20,1,28,0
+Q12133,2023-01-19,Unley,Premium,89,12-month,25-34,28,0,35,0
+Q12134,2025-08-25,Prospect,Premium,89,No contract,25-34,18,1,4,0
+Q12135,2024-03-01,Norwood,Premium,89,12-month,18-24,21,1,22,0
+Q12136,2023-06-10,Norwood,Premium,89,No contract,35-44,17,1,30,0
+Q12137,2024-09-05,Unley,Standard,59,12-month,25-34,12,1,15,0
+Q12138,2023-03-02,Norwood,Casual,39,No contract,18-24,4,0,12,1
+Q12139,2024-03-13,Norwood,Standard,59,12-month,45-54,10,1,21,0
+Q12140,2023-10-07,Norwood,Standard,59,12-month,45-54,13,0,26,0
+Q12141,2024-04-15,Mawson Lakes,Standard,59,12-month,25-34,14,1,20,0
+Q12142,2024-08-17,Prospect,Standard,59,12-month,45-54,19,1,16,0
+Q12143,2024-01-15,Unley,Standard,59,No contract,35-44,12,0,20,1
+Q12144,2024-04-24,Mawson Lakes,Premium,89,No contract,25-34,16,1,20,0
+Q12145,2024-02-23,Unley,Standard,59,12-month,45-54,10,0,22,0
+Q12146,2023-11-04,Mawson Lakes,Premium,89,No contract,18-24,25,1,23,1
+Q12147,2025-06-12,Norwood,Standard,59,12-month,25-34,17,0,6,0
+Q12148,2024-02-17,Norwood,Standard,59,No contract,18-24,15,0,14,1
+Q12149,2025-07-10,Prospect,Standard,59,No contract,25-34,14,1,5,0
+Q12150,2023-07-09,Norwood,Casual,39,No contract,25-34,10,1,29,0
+Q12151,2025-03-06,Prospect,Standard,59,12-month,35-44,18,0,9,0
+Q12152,2023-08-31,Norwood,Casual,39,No contract,55+,6,1,4,1
+Q12153,2024-05-07,Unley,Premium,89,12-month,35-44,27,1,19,0
+Q12154,2023-08-20,Unley,Casual,39,No contract,35-44,8,0,15,1
+Q12155,2023-07-17,Mawson Lakes,Standard,59,No contract,25-34,11,0,29,0
+Q12156,2025-06-20,Unley,Standard,59,No contract,25-34,21,0,6,0
+Q12157,2023-04-06,Prospect,Premium,89,No contract,35-44,20,1,15,1
+Q12158,2025-08-13,Mawson Lakes,Standard,59,No contract,25-34,21,0,4,0
+Q12159,2023-08-07,Norwood,Standard,59,No contract,18-24,15,0,22,1
+Q12160,2024-09-27,Norwood,Premium,89,12-month,18-24,22,1,15,0
+Q12161,2025-08-22,Prospect,Casual,39,No contract,45-54,6,1,2,1
+Q12162,2024-12-03,Prospect,Casual,39,No contract,35-44,9,0,7,1
+Q12163,2023-02-23,Unley,Casual,39,No contract,25-34,10,1,25,1
+Q12164,2024-12-18,Unley,Standard,59,No contract,45-54,12,0,12,0
+Q12165,2024-07-06,Prospect,Premium,89,No contract,45-54,21,1,17,0
+Q12166,2024-01-30,Prospect,Standard,59,No contract,25-34,20,1,11,1
+Q12167,2023-04-07,Norwood,Casual,39,No contract,35-44,6,0,22,1
+Q12168,2024-04-09,Unley,Premium,89,12-month,45-54,27,0,20,0
+Q12169,2023-01-08,Unley,Standard,59,No contract,18-24,11,0,35,0
+Q12170,2024-11-11,Norwood,Standard,59,No contract,18-24,19,0,4,1
+Q12171,2023-09-16,Unley,Standard,59,No contract,25-34,14,0,27,0
+Q12172,2024-11-22,Unley,Premium,89,12-month,25-34,21,1,13,0
+Q12173,2025-02-24,Norwood,Standard,59,12-month,35-44,12,1,10,0
+Q12174,2023-06-27,Unley,Standard,59,No contract,25-34,12,1,30,0
+Q12175,2024-11-17,Unley,Casual,39,No contract,25-34,6,0,6,1
+Q12176,2024-08-02,Norwood,Premium,89,12-month,25-34,18,1,16,0
+Q12177,2024-04-08,Unley,Premium,89,No contract,25-34,23,1,20,0
+Q12178,2025-05-19,Norwood,Standard,59,No contract,35-44,15,0,7,0
+Q12179,2025-02-14,Prospect,Standard,59,No contract,18-24,16,0,6,1
+Q12180,2023-12-21,Unley,Standard,59,12-month,25-34,14,0,24,0
+Q12181,2025-02-19,Prospect,Standard,59,12-month,35-44,11,1,10,0
+Q12182,2024-04-14,Norwood,Standard,59,No contract,25-34,12,0,20,0
+Q12183,2024-04-24,Norwood,Casual,39,No contract,25-34,11,0,15,1
+Q12184,2023-04-21,Norwood,Standard,59,12-month,18-24,19,0,32,0
+Q12185,2023-01-02,Norwood,Premium,89,No contract,45-54,22,0,29,1
+Q12186,2023-11-27,Mawson Lakes,Standard,59,12-month,35-44,19,0,25,0
+Q12187,2025-03-26,Mawson Lakes,Standard,59,12-month,35-44,13,0,9,0
+Q12188,2023-02-11,Prospect,Standard,59,No contract,25-34,18,0,14,1
+Q12189,2024-03-28,Norwood,Casual,39,No contract,45-54,6,1,21,0
+Q12190,2023-05-19,Unley,Premium,89,No contract,25-34,21,1,31,0
+Q12191,2023-10-29,Prospect,Standard,59,12-month,55+,10,1,26,0
+Q12192,2023-08-23,Norwood,Standard,59,12-month,18-24,16,0,28,0
+Q12193,2024-03-13,Norwood,Standard,59,12-month,35-44,15,0,21,0
+Q12194,2024-09-06,Unley,Standard,59,12-month,35-44,17,1,15,0
+Q12195,2024-07-04,Unley,Casual,39,No contract,18-24,5,0,9,1
+Q12196,2023-02-18,Unley,Standard,59,12-month,25-34,14,1,17,1
+Q12197,2023-11-10,Mawson Lakes,Premium,89,12-month,18-24,18,1,25,0
+Q12198,2024-01-19,Norwood,Casual,39,No contract,45-54,7,1,23,0
+Q12199,2023-08-19,Unley,Premium,89,12-month,25-34,26,0,28,0
+Q12200,2023-05-07,Norwood,Standard,59,No contract,35-44,17,0,31,0
+Q12201,2025-06-13,Mawson Lakes,Standard,59,12-month,35-44,12,0,6,0
+Q12202,2024-02-26,Prospect,Casual,39,No contract,25-34,7,0,5,1
+Q12203,2025-08-18,Prospect,Casual,39,No contract,25-34,6,1,4,0
+Q12204,2024-07-27,Prospect,Premium,89,12-month,25-34,23,1,17,0
+Q12205,2024-06-18,Norwood,Casual,39,No contract,55+,11,1,18,0
+Q12206,2023-04-19,Unley,Casual,39,No contract,45-54,10,0,29,1
+Q12207,2025-09-09,Norwood,Standard,59,No contract,25-34,15,0,1,1
+Q12208,2023-10-09,Prospect,Standard,59,12-month,45-54,18,1,26,0
+Q12209,2025-03-16,Prospect,Casual,39,No contract,18-24,10,0,4,1
+Q12210,2023-06-04,Norwood,Standard,59,12-month,45-54,22,0,30,0
+Q12211,2024-12-05,Unley,Standard,59,12-month,35-44,15,1,12,0
+Q12212,2023-05-12,Norwood,Premium,89,No contract,18-24,22,1,27,1
+Q12213,2024-06-29,Prospect,Standard,59,No contract,18-24,17,0,7,1
+Q12214,2025-03-19,Norwood,Standard,59,12-month,25-34,17,0,9,0
+Q12215,2023-10-25,Prospect,Standard,59,12-month,35-44,14,1,26,0
+Q12216,2025-06-28,Unley,Premium,89,No contract,35-44,35,1,6,0
+Q12217,2024-07-10,Norwood,Premium,89,No contract,35-44,31,1,17,0
+Q12218,2025-09-05,Unley,Premium,89,12-month,55+,23,1,3,0
+Q12219,2023-12-11,Norwood,Standard,59,12-month,25-34,18,1,24,0
+Q12220,2024-07-11,Norwood,Casual,39,No contract,25-34,7,0,17,0
+Q12221,2023-02-17,Mawson Lakes,Casual,39,No contract,45-54,8,1,34,0
+Q12222,2023-09-07,Prospect,Premium,89,No contract,18-24,22,1,27,0
+Q12223,2024-08-21,Unley,Standard,59,12-month,25-34,13,1,16,0
+Q12224,2025-07-31,Norwood,Casual,39,No contract,25-34,5,1,4,1
+Q12225,2023-03-26,Prospect,Premium,89,12-month,25-34,19,1,33,0
+Q12226,2025-05-04,Unley,Standard,59,12-month,55+,12,1,7,0
+Q12227,2025-09-15,Unley,Premium,89,12-month,18-24,25,1,3,0
+Q12228,2024-03-26,Norwood,Premium,89,12-month,35-44,25,1,21,0
+Q12229,2023-10-13,Prospect,Standard,59,12-month,35-44,14,1,26,0
+Q12230,2023-04-19,Mawson Lakes,Casual,39,No contract,18-24,10,0,23,1
+Q12231,2023-12-11,Unley,Standard,59,No contract,45-54,19,0,24,0
+Q12232,2023-12-18,Norwood,Premium,89,12-month,18-24,25,0,24,0
+Q12233,2024-06-10,Norwood,Standard,59,12-month,35-44,15,1,18,0
+Q12234,2024-01-07,Mawson Lakes,Casual,39,No contract,18-24,6,1,23,0
+Q12235,2023-01-19,Mawson Lakes,Standard,59,12-month,45-54,12,0,35,0
+Q12236,2023-10-09,Norwood,Premium,89,12-month,35-44,21,1,26,0
+Q12237,2024-09-14,Norwood,Standard,59,No contract,45-54,11,1,15,0
+Q12238,2025-09-21,Prospect,Standard,59,No contract,55+,16,0,2,1
+Q12239,2024-03-05,Mawson Lakes,Premium,89,12-month,45-54,19,1,21,0
+Q12240,2023-07-17,Norwood,Standard,59,No contract,45-54,11,0,29,0
+Q12241,2025-04-28,Norwood,Casual,39,No contract,25-34,7,0,8,0
+Q12242,2023-08-02,Mawson Lakes,Premium,89,12-month,18-24,18,1,28,0
+Q12243,2025-04-10,Norwood,Standard,59,No contract,45-54,18,0,8,0
+Q12244,2023-12-06,Mawson Lakes,Casual,39,No contract,18-24,10,0,8,1
+Q12245,2024-04-17,Prospect,Standard,59,No contract,45-54,17,0,20,0
+Q12246,2024-04-24,Norwood,Casual,39,No contract,55+,8,0,12,1
+Q12247,2024-08-17,Mawson Lakes,Premium,89,No contract,25-34,28,0,16,0
+Q12248,2024-11-29,Unley,Standard,59,No contract,25-34,18,1,13,0
+Q12249,2024-04-21,Mawson Lakes,Premium,89,12-month,35-44,23,1,20,0
+Q12250,2023-01-02,Unley,Casual,39,No contract,25-34,9,0,11,1
+Q12251,2024-06-17,Norwood,Standard,59,12-month,25-34,12,0,18,0
+Q12252,2023-02-27,Unley,Standard,59,No contract,25-34,16,0,34,0
+Q12253,2025-08-27,Unley,Standard,59,No contract,25-34,8,0,3,1
+Q12254,2025-08-29,Unley,Casual,39,No contract,55+,8,0,4,0
+Q12255,2023-08-27,Prospect,Premium,89,12-month,18-24,29,0,28,0
+Q12256,2024-09-14,Norwood,Standard,59,12-month,35-44,12,0,15,0
+Q12257,2023-01-12,Mawson Lakes,Premium,89,No contract,55+,14,0,35,0
+Q12258,2024-10-10,Norwood,Standard,59,No contract,25-34,15,0,14,0
+Q12259,2024-06-11,Mawson Lakes,Casual,39,No contract,55+,4,0,18,0
+Q12260,2025-03-20,Norwood,Premium,89,12-month,25-34,22,1,9,0
+Q12261,2023-10-17,Mawson Lakes,Standard,59,12-month,35-44,17,0,26,0
+Q12262,2024-08-20,Prospect,Premium,89,12-month,18-24,25,1,16,0
+Q12263,2023-11-25,Norwood,Casual,39,No contract,35-44,11,0,7,1
+Q12264,2025-04-21,Unley,Premium,89,12-month,25-34,23,1,8,0
+Q12265,2023-11-11,Unley,Premium,89,12-month,25-34,24,0,25,0
+Q12266,2023-02-15,Norwood,Standard,59,No contract,25-34,15,1,32,1
+Q12267,2024-11-02,Unley,Premium,89,12-month,35-44,19,1,13,0
+Q12268,2025-03-05,Unley,Standard,59,12-month,25-34,14,1,9,0
+Q12269,2024-01-25,Unley,Standard,59,No contract,25-34,10,0,20,1
+Q12270,2025-05-02,Norwood,Standard,59,No contract,25-34,19,0,7,0
+Q12271,2023-12-11,Mawson Lakes,Standard,59,12-month,35-44,17,1,24,0
+Q12272,2024-04-28,Mawson Lakes,Standard,59,No contract,25-34,15,1,20,0
+Q12273,2023-04-19,Prospect,Standard,59,No contract,55+,11,0,32,0
+Q12274,2024-11-18,Prospect,Standard,59,12-month,25-34,12,1,13,0
+Q12275,2023-10-25,Mawson Lakes,Standard,59,12-month,55+,16,1,26,0
+Q12276,2025-04-07,Norwood,Standard,59,No contract,45-54,13,1,8,0
+Q12277,2025-04-21,Prospect,Standard,59,12-month,18-24,19,1,8,0
+Q12278,2024-06-27,Unley,Standard,59,No contract,55+,14,1,11,1
+Q12279,2025-04-15,Prospect,Premium,89,12-month,35-44,34,1,8,0
+Q12280,2024-02-06,Unley,Standard,59,12-month,55+,17,0,22,0
+Q12281,2023-01-25,Norwood,Standard,59,12-month,18-24,8,0,8,1
+Q12282,2025-09-04,Prospect,Casual,39,No contract,18-24,9,0,1,1
+Q12283,2024-06-23,Mawson Lakes,Standard,59,12-month,25-34,20,0,18,0
+Q12284,2023-02-24,Norwood,Standard,59,12-month,25-34,14,1,34,0
+Q12285,2024-05-31,Mawson Lakes,Standard,59,No contract,25-34,12,0,19,0
+Q12286,2024-07-22,Unley,Casual,39,No contract,55+,16,0,12,1
+Q12287,2025-08-02,Norwood,Premium,89,12-month,35-44,17,1,4,0
+Q12288,2025-02-25,Mawson Lakes,Casual,39,No contract,18-24,9,0,7,1
+Q12289,2024-12-11,Mawson Lakes,Standard,59,12-month,18-24,14,0,12,0
+Q12290,2023-04-29,Prospect,Standard,59,No contract,25-34,14,1,12,1
+Q12291,2024-01-02,Unley,Premium,89,12-month,25-34,25,1,23,0
+Q12292,2023-06-27,Norwood,Casual,39,No contract,35-44,10,0,5,1
+Q12293,2023-04-04,Prospect,Premium,89,No contract,45-54,27,1,32,0
+Q12294,2023-03-21,Norwood,Premium,89,12-month,18-24,17,1,33,0
+Q12295,2024-07-22,Unley,Casual,39,No contract,45-54,5,1,3,1
+Q12296,2025-01-19,Unley,Standard,59,12-month,25-34,11,0,11,0
+Q12297,2025-05-28,Unley,Premium,89,No contract,55+,30,0,7,0
+Q12298,2025-02-20,Mawson Lakes,Standard,59,No contract,25-34,17,0,10,0
+Q12299,2023-11-11,Prospect,Casual,39,No contract,18-24,4,0,13,1
+Q12300,2023-03-03,Unley,Standard,59,No contract,25-34,16,0,17,1
+Q12301,2023-12-25,Unley,Standard,59,12-month,55+,24,1,24,0
+Q12302,2023-02-26,Prospect,Premium,89,12-month,18-24,31,0,34,0
+Q12303,2025-01-31,Norwood,Casual,39,No contract,25-34,14,0,9,1
+Q12304,2025-06-10,Norwood,Standard,59,No contract,25-34,9,0,5,1
+Q12305,2023-03-01,Norwood,Standard,59,12-month,18-24,14,0,34,0
+Q12306,2025-05-19,Unley,Casual,39,No contract,25-34,9,1,2,1
+Q12307,2023-07-14,Unley,Standard,59,12-month,25-34,13,1,29,0
+Q12308,2024-03-02,Unley,Standard,59,12-month,35-44,14,0,21,0
+Q12309,2024-01-24,Norwood,Standard,59,No contract,25-34,16,0,3,1
+Q12310,2025-08-05,Norwood,Casual,39,No contract,25-34,8,0,4,0
+Q12311,2023-11-01,Unley,Standard,59,No contract,25-34,13,0,25,0
+Q12312,2023-06-19,Unley,Casual,39,No contract,35-44,6,0,23,1
+Q12313,2025-01-16,Unley,Casual,39,No contract,25-34,7,0,2,1
+Q12314,2023-10-22,Norwood,Premium,89,12-month,35-44,12,1,26,0
+Q12315,2023-07-11,Norwood,Standard,59,No contract,25-34,8,0,18,1
+Q12316,2024-12-15,Unley,Standard,59,No contract,35-44,13,1,12,0
+Q12317,2024-05-05,Unley,Casual,39,No contract,55+,8,1,11,1
+Q12318,2024-02-28,Unley,Standard,59,No contract,55+,14,0,21,1
+Q12319,2025-05-15,Mawson Lakes,Standard,59,No contract,55+,15,1,7,0
+Q12320,2025-05-19,Mawson Lakes,Standard,59,12-month,18-24,12,0,7,0
+Q12321,2025-02-17,Mawson Lakes,Premium,89,No contract,18-24,31,0,10,0
+Q12322,2024-12-28,Prospect,Standard,59,12-month,55+,13,0,12,0
+Q12323,2024-12-08,Unley,Standard,59,12-month,25-34,18,0,12,0
+Q12324,2023-09-08,Prospect,Standard,59,No contract,25-34,18,0,27,0
+Q12325,2024-04-07,Mawson Lakes,Standard,59,12-month,55+,16,1,20,0
+Q12326,2023-08-20,Norwood,Standard,59,No contract,55+,19,0,6,1
+Q12327,2024-03-05,Norwood,Standard,59,12-month,18-24,20,0,21,0
+Q12328,2024-07-22,Unley,Standard,59,12-month,25-34,18,0,17,0
+Q12329,2024-01-28,Unley,Premium,89,No contract,35-44,11,1,14,1
+Q12330,2024-01-12,Mawson Lakes,Standard,59,12-month,45-54,14,1,23,0
+Q12331,2024-12-13,Mawson Lakes,Standard,59,No contract,25-34,15,0,12,0
+Q12332,2025-05-26,Prospect,Casual,39,No contract,35-44,8,1,7,0
+Q12333,2025-03-14,Norwood,Standard,59,12-month,25-34,9,1,9,0
+Q12334,2024-01-16,Mawson Lakes,Standard,59,12-month,45-54,20,0,23,0
+Q12335,2025-04-02,Mawson Lakes,Casual,39,No contract,18-24,10,0,1,1
+Q12336,2023-02-01,Mawson Lakes,Standard,59,12-month,25-34,12,1,34,0
+Q12337,2023-12-29,Unley,Premium,89,No contract,25-34,19,0,17,1
+Q12338,2025-08-23,Norwood,Standard,59,No contract,25-34,20,1,4,0
+Q12339,2025-01-24,Unley,Standard,59,No contract,45-54,17,0,7,1
+Q12340,2023-11-29,Norwood,Standard,59,12-month,25-34,12,0,25,0
+Q12341,2023-11-18,Norwood,Casual,39,No contract,35-44,8,0,25,0
+Q12342,2023-06-12,Norwood,Standard,59,12-month,18-24,10,1,30,0
+Q12343,2024-02-17,Unley,Premium,89,No contract,45-54,20,1,22,0
+Q12344,2024-09-09,Prospect,Casual,39,No contract,35-44,5,0,7,1
+Q12345,2025-05-15,Prospect,Standard,59,12-month,25-34,17,0,7,0
+Q12346,2023-04-11,Prospect,Standard,59,12-month,55+,15,0,32,0
+Q12347,2024-04-14,Unley,Standard,59,No contract,55+,21,0,20,0
+Q12348,2023-03-24,Unley,Standard,59,12-month,18-24,14,1,33,0
+Q12349,2023-04-14,Norwood,Casual,39,No contract,25-34,7,1,8,1
+Q12350,2024-08-26,Norwood,Premium,89,12-month,25-34,22,1,16,0
+Q12351,2023-01-11,Prospect,Casual,39,No contract,45-54,12,0,13,1
+Q12352,2025-08-30,Mawson Lakes,Premium,89,No contract,55+,21,0,4,0
+Q12353,2023-01-28,Prospect,Standard,59,No contract,45-54,18,0,35,0
+Q12354,2025-09-23,Prospect,Casual,39,No contract,35-44,14,0,3,0
+Q12355,2023-12-07,Prospect,Casual,39,No contract,45-54,8,0,3,1
+Q12356,2025-07-28,Unley,Premium,89,12-month,18-24,23,1,5,0
+Q12357,2023-12-14,Mawson Lakes,Standard,59,No contract,25-34,11,0,24,0
+Q12358,2025-04-12,Prospect,Standard,59,No contract,35-44,12,0,8,0
+Q12359,2025-07-23,Mawson Lakes,Standard,59,No contract,25-34,14,1,5,0
+Q12360,2024-05-11,Norwood,Premium,89,12-month,35-44,31,1,19,0
+Q12361,2023-12-22,Prospect,Standard,59,12-month,25-34,11,1,4,1
+Q12362,2024-10-14,Unley,Premium,89,No contract,35-44,22,1,14,0
+Q12363,2023-01-23,Unley,Casual,39,No contract,25-34,8,0,8,1
+Q12364,2023-04-19,Unley,Standard,59,12-month,25-34,17,1,32,0
+Q12365,2025-05-19,Prospect,Premium,89,No contract,25-34,14,0,1,1
+Q12366,2024-03-08,Mawson Lakes,Standard,59,12-month,35-44,15,0,21,0
+Q12367,2024-09-29,Mawson Lakes,Casual,39,No contract,25-34,4,0,10,1
+Q12368,2023-01-30,Prospect,Premium,89,No contract,18-24,18,1,35,0
+Q12369,2024-12-09,Prospect,Standard,59,12-month,25-34,15,0,10,1
+Q12370,2024-09-13,Norwood,Standard,59,12-month,25-34,10,0,15,0
+Q12371,2025-06-05,Norwood,Standard,59,12-month,25-34,15,0,2,1
+Q12372,2025-04-05,Mawson Lakes,Premium,89,No contract,18-24,31,0,8,0
+Q12373,2023-08-27,Prospect,Standard,59,12-month,25-34,15,1,28,0
+Q12374,2023-08-04,Mawson Lakes,Standard,59,12-month,45-54,17,0,28,0
+Q12375,2025-02-04,Unley,Premium,89,12-month,45-54,30,1,10,0
+Q12376,2024-06-14,Unley,Standard,59,No contract,55+,15,0,18,0
+Q12377,2023-09-22,Unley,Premium,89,No contract,18-24,18,1,27,0
+Q12378,2023-05-31,Mawson Lakes,Standard,59,No contract,45-54,13,0,31,0
+Q12379,2024-08-14,Norwood,Standard,59,12-month,45-54,17,1,16,0
+Q12380,2025-06-16,Prospect,Standard,59,No contract,45-54,11,0,5,1
+Q12381,2025-05-10,Norwood,Standard,59,No contract,18-24,18,0,7,0
+Q12382,2023-06-14,Prospect,Premium,89,12-month,25-34,24,1,30,0
+Q12383,2023-11-13,Norwood,Premium,89,12-month,45-54,17,1,25,0
+Q12384,2024-06-18,Norwood,Casual,39,No contract,55+,6,0,18,0
+Q12385,2024-01-15,Norwood,Standard,59,12-month,25-34,16,0,23,0
+Q12386,2023-01-15,Prospect,Standard,59,12-month,55+,9,1,8,1
+Q12387,2024-10-14,Norwood,Standard,59,12-month,25-34,17,1,14,0
+Q12388,2024-02-04,Norwood,Standard,59,No contract,25-34,15,1,22,0
+Q12389,2024-12-01,Unley,Standard,59,12-month,18-24,16,0,12,0
+Q12390,2023-12-04,Unley,Casual,39,No contract,25-34,8,0,14,1
+Q12391,2023-04-17,Prospect,Standard,59,No contract,35-44,17,0,32,0
+Q12392,2024-11-03,Unley,Standard,59,12-month,18-24,11,0,13,0
+Q12393,2025-07-22,Mawson Lakes,Standard,59,12-month,18-24,19,0,5,0
+Q12394,2023-08-20,Prospect,Casual,39,No contract,18-24,5,0,21,1
+Q12395,2023-06-30,Mawson Lakes,Standard,59,No contract,18-24,19,0,30,0
+Q12396,2025-03-31,Prospect,Standard,59,No contract,45-54,17,0,5,1
+Q12397,2023-12-08,Unley,Standard,59,12-month,45-54,22,1,24,0
+Q12398,2023-03-31,Norwood,Standard,59,12-month,35-44,14,1,33,0
+Q12399,2024-06-11,Prospect,Standard,59,12-month,45-54,10,0,18,0
+Q12400,2025-02-13,Unley,Standard,59,12-month,35-44,12,0,10,0
+Q12401,2025-06-10,Unley,Premium,89,12-month,25-34,30,1,6,0
+Q12402,2024-01-29,Unley,Standard,59,12-month,18-24,14,0,23,0
+Q12403,2023-09-24,Mawson Lakes,Premium,89,12-month,25-34,19,0,4,1
+Q12404,2023-06-04,Norwood,Casual,39,No contract,18-24,9,0,16,1
+Q12405,2024-10-24,Norwood,Standard,59,No contract,25-34,19,0,14,0
+Q12406,2025-04-14,Norwood,Standard,59,12-month,35-44,22,0,8,0
+Q12407,2025-09-17,Mawson Lakes,Premium,89,No contract,45-54,27,1,3,0
+Q12408,2024-12-16,Norwood,Standard,59,12-month,18-24,17,0,9,1
+Q12409,2023-09-20,Prospect,Standard,59,No contract,45-54,20,1,27,0
+Q12410,2023-01-14,Norwood,Standard,59,12-month,35-44,19,1,10,1
+Q12411,2025-02-24,Prospect,Casual,39,No contract,35-44,14,0,2,1
+Q12412,2024-04-16,Unley,Standard,59,No contract,18-24,15,0,20,0
+Q12413,2024-10-12,Unley,Standard,59,12-month,35-44,9,0,14,0
+Q12414,2024-05-09,Prospect,Premium,89,No contract,25-34,22,1,19,0
+Q12415,2023-12-18,Unley,Casual,39,No contract,18-24,5,0,5,1
+Q12416,2025-01-18,Prospect,Premium,89,No contract,45-54,19,1,11,0
+Q12417,2023-04-20,Prospect,Standard,59,No contract,55+,12,0,22,1
+Q12418,2023-05-17,Prospect,Premium,89,No contract,25-34,22,1,31,0
+Q12419,2023-03-09,Norwood,Standard,59,12-month,45-54,19,0,33,0
+Q12420,2024-05-29,Unley,Standard,59,No contract,25-34,22,1,19,0
+Q12421,2024-12-02,Prospect,Standard,59,12-month,45-54,19,0,12,0
+Q12422,2024-10-31,Prospect,Casual,39,No contract,45-54,7,0,13,0
+Q12423,2024-10-19,Unley,Standard,59,12-month,35-44,15,0,2,1
+Q12424,2023-09-10,Unley,Premium,89,12-month,25-34,22,1,27,0
+Q12425,2023-05-19,Mawson Lakes,Standard,59,No contract,45-54,14,0,31,0
+Q12426,2025-01-21,Prospect,Standard,59,No contract,18-24,18,1,11,0
+Q12427,2024-08-19,Prospect,Standard,59,12-month,45-54,12,1,16,0
+Q12428,2025-02-21,Unley,Premium,89,12-month,18-24,24,1,10,0
+Q12429,2025-08-29,Mawson Lakes,Standard,59,No contract,18-24,18,1,4,0
+Q12430,2023-12-15,Prospect,Casual,39,No contract,45-54,10,1,24,0
+Q12431,2023-04-08,Norwood,Premium,89,No contract,45-54,19,1,32,0
+Q12432,2023-09-04,Mawson Lakes,Standard,59,12-month,35-44,16,0,27,0
+Q12433,2023-03-12,Norwood,Standard,59,No contract,35-44,12,0,33,0
+Q12434,2024-05-13,Mawson Lakes,Casual,39,No contract,18-24,11,0,4,1
+Q12435,2023-02-05,Prospect,Casual,39,No contract,25-34,9,0,34,0
+Q12436,2025-08-09,Unley,Standard,59,12-month,18-24,8,0,1,1
+Q12437,2024-08-04,Unley,Standard,59,12-month,35-44,14,0,4,1
+Q12438,2023-01-30,Norwood,Premium,89,No contract,25-34,22,1,35,0
+Q12439,2024-02-27,Unley,Standard,59,12-month,25-34,14,0,22,0
+Q12440,2025-03-07,Norwood,Casual,39,No contract,35-44,6,0,8,1
+Q12441,2025-02-27,Prospect,Standard,59,No contract,35-44,17,1,10,0
+Q12442,2024-10-15,Prospect,Standard,59,No contract,45-54,12,0,14,0
+Q12443,2024-04-18,Norwood,Premium,89,12-month,25-34,22,1,9,1
+Q12444,2024-12-03,Prospect,Standard,59,No contract,25-34,10,0,12,0
+Q12445,2023-09-23,Norwood,Casual,39,No contract,35-44,4,1,4,1
+Q12446,2025-05-19,Norwood,Standard,59,12-month,18-24,19,1,7,0
+Q12447,2023-03-21,Norwood,Premium,89,No contract,25-34,26,1,33,0
+Q12448,2025-07-14,Mawson Lakes,Casual,39,No contract,18-24,9,0,1,1
+Q12449,2025-06-28,Mawson Lakes,Standard,59,12-month,18-24,15,0,1,1
+Q12450,2024-02-29,Norwood,Casual,39,No contract,35-44,8,0,5,1
+Q12451,2025-07-19,Prospect,Standard,59,No contract,45-54,16,0,5,0
+Q12452,2023-06-13,Unley,Premium,89,12-month,18-24,18,0,30,0
+Q12453,2024-12-14,Prospect,Casual,39,No contract,25-34,6,0,12,0
+Q12454,2023-09-04,Unley,Standard,59,No contract,45-54,17,0,27,0
+Q12455,2024-05-19,Prospect,Standard,59,12-month,35-44,22,1,19,0
+Q12456,2025-05-10,Unley,Premium,89,No contract,25-34,24,1,7,0
+Q12457,2024-04-11,Norwood,Premium,89,12-month,35-44,15,1,20,0
+Q12458,2024-08-10,Unley,Standard,59,12-month,25-34,11,0,6,1
+Q12459,2025-07-09,Prospect,Casual,39,No contract,18-24,5,1,1,1
+Q12460,2023-04-02,Prospect,Casual,39,No contract,45-54,13,0,32,0
+Q12461,2023-06-19,Norwood,Casual,39,No contract,25-34,8,0,30,0
+Q12462,2024-05-03,Norwood,Premium,89,No contract,25-34,17,1,19,0
+Q12463,2023-06-12,Norwood,Premium,89,No contract,18-24,18,1,30,0
+Q12464,2025-03-31,Mawson Lakes,Casual,39,No contract,18-24,12,1,9,0
+Q12465,2024-02-19,Prospect,Premium,89,12-month,18-24,23,0,22,0
+Q12466,2024-01-17,Unley,Standard,59,No contract,25-34,20,0,23,0
+Q12467,2025-04-16,Norwood,Premium,89,12-month,25-34,19,1,8,0
+Q12468,2025-06-01,Mawson Lakes,Premium,89,12-month,45-54,19,1,6,0
+Q12469,2023-08-17,Prospect,Standard,59,12-month,25-34,16,0,28,0
+Q12470,2023-08-20,Unley,Casual,39,No contract,25-34,5,1,10,1
+Q12471,2023-06-19,Norwood,Casual,39,No contract,18-24,9,1,23,1
+Q12472,2023-10-30,Norwood,Standard,59,12-month,18-24,14,0,22,1
+Q12473,2025-09-02,Norwood,Premium,89,12-month,35-44,25,1,3,0
+Q12474,2023-11-18,Norwood,Premium,89,12-month,45-54,19,0,25,0
+Q12475,2023-10-03,Norwood,Standard,59,12-month,35-44,11,0,26,0
+Q12476,2023-10-09,Prospect,Standard,59,12-month,18-24,13,0,26,0
+Q12477,2023-05-09,Unley,Casual,39,No contract,25-34,6,0,11,1
+Q12478,2023-07-19,Unley,Premium,89,No contract,45-54,23,1,29,0
+Q12479,2023-07-08,Prospect,Standard,59,12-month,55+,11,0,29,0
+Q12480,2024-03-13,Norwood,Premium,89,12-month,35-44,26,0,21,0
+Q12481,2023-05-01,Norwood,Premium,89,12-month,45-54,21,1,32,0
+Q12482,2025-01-22,Prospect,Standard,59,12-month,25-34,15,1,11,0
+Q12483,2024-02-10,Norwood,Standard,59,12-month,35-44,16,0,22,0
+Q12484,2025-05-15,Prospect,Premium,89,12-month,25-34,23,0,7,0
+Q12485,2023-11-20,Unley,Standard,59,12-month,25-34,17,1,25,0
+Q12486,2024-08-29,Prospect,Casual,39,No contract,25-34,7,0,15,1
+Q12487,2023-01-23,Prospect,Casual,39,No contract,18-24,7,0,29,1
+Q12488,2024-02-22,Mawson Lakes,Standard,59,12-month,18-24,19,0,22,0
+Q12489,2023-08-17,Unley,Standard,59,12-month,18-24,21,0,28,0
+Q12490,2024-12-24,Unley,Casual,39,No contract,35-44,10,0,1,1
+Q12491,2023-03-21,Unley,Casual,39,No contract,25-34,8,0,33,0
+Q12492,2023-02-05,Mawson Lakes,Casual,39,No contract,45-54,4,0,3,1
+Q12493,2024-04-07,Unley,Casual,39,No contract,18-24,17,0,20,0
+Q12494,2025-07-03,Norwood,Premium,89,12-month,35-44,20,1,3,1
+Q12495,2024-01-15,Unley,Premium,89,12-month,25-34,20,0,23,0
+Q12496,2023-06-21,Unley,Casual,39,No contract,25-34,9,0,27,1
+Q12497,2023-02-13,Norwood,Premium,89,No contract,25-34,21,0,34,0
+Q12498,2025-02-15,Norwood,Standard,59,12-month,25-34,10,0,10,0
+Q12499,2024-12-11,Unley,Casual,39,No contract,18-24,13,0,9,1
+Q12500,2025-09-21,Prospect,Standard,59,No contract,25-34,13,0,1,1
+Q12501,2024-04-26,Norwood,Premium,89,No contract,25-34,21,0,20,0
+Q12502,2023-07-02,Unley,Standard,59,12-month,35-44,11,0,29,0
+Q12503,2023-09-22,Prospect,Casual,39,No contract,18-24,11,0,27,0
+Q12504,2023-06-27,Mawson Lakes,Casual,39,No contract,25-34,7,0,10,1
+Q12505,2023-12-14,Mawson Lakes,Casual,39,No contract,18-24,13,0,17,1
+Q12506,2023-11-14,Mawson Lakes,Premium,89,12-month,35-44,22,0,25,0
+Q12507,2023-12-07,Unley,Standard,59,12-month,35-44,11,0,24,0
+Q12508,2024-07-29,Unley,Standard,59,12-month,18-24,14,0,16,1
+Q12509,2024-09-18,Norwood,Premium,89,12-month,25-34,19,1,15,0
+Q12510,2024-07-31,Mawson Lakes,Casual,39,No contract,18-24,11,1,17,0
+Q12511,2023-07-25,Mawson Lakes,Casual,39,No contract,35-44,10,0,29,0
+Q12512,2023-05-09,Prospect,Premium,89,No contract,25-34,23,1,31,0
+Q12513,2025-01-15,Prospect,Standard,59,12-month,25-34,17,0,11,0
+Q12514,2023-08-03,Mawson Lakes,Premium,89,12-month,55+,24,1,28,0
+Q12515,2023-07-29,Norwood,Standard,59,No contract,18-24,14,1,29,0
+Q12516,2023-06-07,Norwood,Premium,89,No contract,35-44,19,0,30,0
+Q12517,2023-09-09,Norwood,Standard,59,12-month,25-34,14,0,15,1
+Q12518,2024-05-30,Norwood,Casual,39,No contract,55+,10,0,18,1
+Q12519,2024-02-08,Norwood,Standard,59,12-month,45-54,16,0,22,0
+Q12520,2024-06-24,Unley,Standard,59,12-month,25-34,8,1,18,0
+Q12521,2024-08-10,Norwood,Premium,89,12-month,18-24,18,1,16,0
+Q12522,2024-03-03,Norwood,Standard,59,12-month,18-24,15,1,21,0
+Q12523,2025-07-09,Norwood,Premium,89,12-month,35-44,25,1,5,0
+Q12524,2023-07-28,Mawson Lakes,Standard,59,No contract,25-34,16,0,29,0
+Q12525,2024-04-17,Unley,Premium,89,No contract,35-44,29,1,20,0
+Q12526,2024-06-27,Norwood,Standard,59,12-month,25-34,11,1,3,1
+Q12527,2023-03-11,Mawson Lakes,Casual,39,No contract,55+,6,0,31,1
+Q12528,2024-11-08,Unley,Standard,59,12-month,18-24,11,1,13,0
+Q12529,2023-05-06,Norwood,Premium,89,12-month,25-34,26,0,31,0
+Q12530,2023-07-10,Unley,Standard,59,12-month,18-24,12,1,29,0
+Q12531,2024-05-16,Mawson Lakes,Standard,59,12-month,35-44,11,1,19,0
+Q12532,2023-04-17,Mawson Lakes,Premium,89,12-month,45-54,20,1,32,0
+Q12533,2023-10-12,Unley,Casual,39,No contract,55+,5,1,26,0
+Q12534,2024-06-22,Unley,Standard,59,No contract,25-34,15,0,18,0
+Q12535,2025-05-07,Prospect,Standard,59,12-month,35-44,21,0,7,0
+Q12536,2024-09-07,Unley,Standard,59,12-month,25-34,13,0,15,0
+Q12537,2023-05-03,Unley,Standard,59,12-month,18-24,9,0,31,0
+Q12538,2025-03-28,Mawson Lakes,Casual,39,No contract,25-34,2,0,4,1
+Q12539,2024-03-05,Prospect,Standard,59,12-month,18-24,17,0,21,0
+Q12540,2025-04-15,Norwood,Standard,59,12-month,35-44,18,0,8,0
+Q12541,2025-04-05,Prospect,Standard,59,12-month,25-34,15,0,8,0
+Q12542,2024-02-12,Norwood,Standard,59,No contract,35-44,14,1,22,0
+Q12543,2024-03-06,Prospect,Casual,39,No contract,25-34,10,0,21,0
+Q12544,2025-03-26,Norwood,Casual,39,No contract,35-44,4,0,9,0
+Q12545,2023-06-25,Unley,Casual,39,No contract,25-34,7,0,20,1
+Q12546,2024-03-09,Norwood,Standard,59,No contract,35-44,17,0,21,0
+Q12547,2025-02-05,Unley,Premium,89,12-month,25-34,19,0,10,0
+Q12548,2024-09-10,Unley,Premium,89,No contract,18-24,15,1,15,0
+Q12549,2023-05-21,Prospect,Premium,89,No contract,45-54,20,0,31,0
+Q12550,2023-04-23,Prospect,Standard,59,12-month,45-54,14,1,32,0
+Q12551,2025-08-25,Norwood,Premium,89,No contract,18-24,21,1,2,1
+Q12552,2025-09-14,Unley,Standard,59,12-month,55+,13,1,3,0
+Q12553,2025-06-07,Mawson Lakes,Premium,89,No contract,45-54,25,0,6,0
+Q12554,2024-10-23,Norwood,Premium,89,12-month,25-34,27,1,14,0
+Q12555,2025-07-14,Unley,Standard,59,No contract,18-24,18,0,5,0
+Q12556,2025-07-11,Mawson Lakes,Standard,59,12-month,45-54,14,1,5,0
+Q12557,2025-07-26,Unley,Standard,59,No contract,45-54,15,0,5,0
+Q12558,2024-02-22,Prospect,Standard,59,No contract,55+,25,0,22,0
+Q12559,2024-02-20,Prospect,Casual,39,No contract,35-44,7,1,22,0
+Q12560,2023-09-16,Unley,Premium,89,12-month,25-34,24,0,27,0
+Q12561,2023-07-21,Prospect,Standard,59,No contract,35-44,15,1,29,0
+Q12562,2025-03-13,Mawson Lakes,Standard,59,No contract,35-44,15,0,9,0
+Q12563,2023-06-30,Unley,Casual,39,No contract,25-34,11,1,13,1
+Q12564,2024-02-04,Prospect,Standard,59,12-month,35-44,14,0,22,0
+Q12565,2023-03-10,Norwood,Standard,59,No contract,25-34,11,0,33,0
+Q12566,2025-02-19,Prospect,Standard,59,12-month,35-44,12,0,10,0
+Q12567,2023-12-05,Unley,Standard,59,No contract,18-24,16,1,24,0
+Q12568,2025-07-05,Unley,Casual,39,No contract,35-44,8,0,5,0
+Q12569,2024-01-23,Unley,Premium,89,No contract,45-54,25,1,23,0
+Q12570,2025-01-23,Norwood,Casual,39,No contract,25-34,11,0,9,1
+Q12571,2024-02-12,Prospect,Casual,39,No contract,35-44,4,1,4,1
+Q12572,2023-03-04,Unley,Standard,59,No contract,35-44,12,0,33,0
+Q12573,2025-07-19,Prospect,Casual,39,No contract,45-54,10,1,1,1
+Q12574,2024-06-22,Mawson Lakes,Standard,59,No contract,18-24,13,1,18,0
+Q12575,2024-06-15,Unley,Standard,59,No contract,25-34,16,0,18,0
+Q12576,2024-09-14,Norwood,Casual,39,No contract,25-34,7,0,15,0
+Q12577,2023-02-27,Unley,Casual,39,No contract,45-54,14,0,34,0
+Q12578,2023-05-30,Unley,Standard,59,No contract,35-44,14,0,14,1
+Q12579,2025-03-18,Mawson Lakes,Premium,89,No contract,18-24,24,1,9,0
+Q12580,2023-08-21,Unley,Standard,59,No contract,35-44,18,0,10,1
+Q12581,2025-04-05,Prospect,Casual,39,No contract,35-44,4,0,8,0
+Q12582,2024-06-18,Mawson Lakes,Standard,59,12-month,25-34,15,0,11,1
+Q12583,2024-01-04,Unley,Standard,59,12-month,45-54,15,0,23,0
+Q12584,2024-06-12,Prospect,Standard,59,12-month,25-34,18,0,4,1
+Q12585,2023-06-10,Norwood,Standard,59,No contract,18-24,14,1,30,0
+Q12586,2025-06-09,Prospect,Premium,89,No contract,55+,19,1,6,0
+Q12587,2025-04-08,Norwood,Standard,59,No contract,18-24,10,1,6,1
+Q12588,2023-04-06,Unley,Premium,89,12-month,55+,20,1,32,0
+Q12589,2023-01-03,Unley,Standard,59,12-month,25-34,15,0,17,1
+Q12590,2024-07-17,Unley,Casual,39,No contract,25-34,8,0,17,0
+Q12591,2025-04-15,Prospect,Standard,59,12-month,25-34,12,0,7,1
+Q12592,2023-12-16,Prospect,Casual,39,No contract,35-44,10,0,24,0
+Q12593,2024-03-22,Prospect,Casual,39,No contract,35-44,8,0,21,0
+Q12594,2024-02-14,Norwood,Premium,89,12-month,25-34,21,0,22,0
+Q12595,2024-11-25,Mawson Lakes,Standard,59,No contract,35-44,15,0,13,0
+Q12596,2023-04-17,Unley,Standard,59,12-month,35-44,11,1,32,0
+Q12597,2024-04-28,Unley,Standard,59,No contract,35-44,15,0,20,0
+Q12598,2024-01-04,Norwood,Standard,59,12-month,25-34,8,0,23,0
+Q12599,2023-03-29,Prospect,Standard,59,No contract,25-34,16,1,33,0
+Q12600,2023-10-06,Prospect,Standard,59,12-month,45-54,13,0,26,0
+Q12601,2025-08-28,Norwood,Premium,89,No contract,25-34,28,0,4,0
+Q12602,2025-04-19,Norwood,Premium,89,12-month,25-34,15,0,8,0
+Q12603,2023-02-13,Norwood,Standard,59,No contract,35-44,24,0,34,0
+Q12604,2024-12-12,Mawson Lakes,Casual,39,No contract,18-24,11,1,12,0
+Q12605,2024-01-26,Prospect,Premium,89,No contract,45-54,18,1,22,1
+Q12606,2023-08-15,Norwood,Premium,89,No contract,35-44,17,1,28,0
+Q12607,2024-10-13,Unley,Standard,59,12-month,25-34,16,0,14,0
+Q12608,2024-08-07,Norwood,Standard,59,12-month,35-44,16,0,16,0
+Q12609,2025-06-19,Norwood,Standard,59,12-month,18-24,8,1,6,0
+Q12610,2024-08-10,Unley,Casual,39,No contract,25-34,9,1,16,0
+Q12611,2023-05-03,Unley,Premium,89,12-month,35-44,20,0,31,0
+Q12612,2023-03-02,Unley,Standard,59,12-month,25-34,9,0,34,0
+Q12613,2023-11-20,Unley,Standard,59,12-month,35-44,12,0,25,0
+Q12614,2024-04-02,Unley,Standard,59,12-month,35-44,16,0,20,0
+Q12615,2025-01-23,Norwood,Casual,39,No contract,25-34,10,0,10,1
+Q12616,2024-07-09,Unley,Premium,89,12-month,55+,15,0,17,0
+Q12617,2024-05-05,Unley,Casual,39,No contract,25-34,5,0,19,0
+Q12618,2025-04-06,Mawson Lakes,Standard,59,12-month,45-54,20,0,8,0
+Q12619,2023-01-08,Unley,Standard,59,12-month,18-24,8,1,35,0
+Q12620,2025-05-30,Norwood,Standard,59,12-month,45-54,16,0,4,1
+Q12621,2023-03-08,Norwood,Casual,39,No contract,18-24,9,1,5,1
+Q12622,2024-04-21,Prospect,Casual,39,No contract,45-54,7,0,6,1
+Q12623,2024-10-10,Unley,Casual,39,No contract,45-54,6,0,1,1
+Q12624,2025-04-25,Norwood,Casual,39,No contract,55+,4,1,8,0
+Q12625,2024-07-02,Prospect,Standard,59,12-month,35-44,14,1,17,0
+Q12626,2024-08-28,Norwood,Standard,59,No contract,55+,11,1,16,0
+Q12627,2023-11-02,Mawson Lakes,Casual,39,No contract,35-44,5,0,3,1
+Q12628,2023-09-07,Mawson Lakes,Premium,89,12-month,25-34,17,0,3,1
+Q12629,2023-09-09,Prospect,Casual,39,No contract,25-34,6,0,8,1
+Q12630,2025-06-02,Mawson Lakes,Casual,39,No contract,18-24,6,1,2,1
+Q12631,2025-01-10,Prospect,Standard,59,12-month,25-34,9,0,11,0
+Q12632,2025-06-27,Unley,Casual,39,No contract,45-54,9,0,5,1
+Q12633,2023-08-02,Mawson Lakes,Standard,59,12-month,35-44,17,0,28,0
+Q12634,2024-04-14,Mawson Lakes,Standard,59,No contract,18-24,16,0,20,0
+Q12635,2024-02-17,Unley,Standard,59,No contract,35-44,17,0,22,0
+Q12636,2024-04-18,Mawson Lakes,Standard,59,12-month,18-24,14,1,20,0
+Q12637,2023-06-15,Unley,Premium,89,No contract,25-34,25,1,30,0
+Q12638,2023-02-11,Prospect,Casual,39,No contract,25-34,10,0,3,1
+Q12639,2025-05-16,Mawson Lakes,Standard,59,No contract,35-44,14,0,7,0
+Q12640,2025-07-20,Unley,Premium,89,No contract,55+,24,1,5,0
+Q12641,2025-01-11,Prospect,Casual,39,No contract,35-44,6,0,7,1
+Q12642,2023-06-14,Unley,Casual,39,No contract,18-24,7,0,30,0
+Q12643,2023-11-16,Prospect,Premium,89,12-month,55+,23,0,25,0
+Q12644,2023-05-19,Mawson Lakes,Premium,89,12-month,25-34,26,1,31,0
+Q12645,2024-04-30,Prospect,Premium,89,No contract,55+,25,0,20,0
+Q12646,2024-08-21,Mawson Lakes,Standard,59,No contract,25-34,20,0,16,0
+Q12647,2025-04-14,Unley,Standard,59,12-month,35-44,15,0,8,0
+Q12648,2025-07-07,Unley,Standard,59,12-month,55+,19,0,5,0
+Q12649,2023-09-26,Unley,Standard,59,12-month,35-44,13,1,27,0
+Q12650,2025-03-17,Prospect,Standard,59,No contract,18-24,14,1,9,0
+Q12651,2025-08-07,Prospect,Casual,39,No contract,55+,8,0,1,1
+Q12652,2023-09-12,Norwood,Standard,59,12-month,25-34,24,1,27,0
+Q12653,2025-07-28,Unley,Standard,59,12-month,25-34,19,1,5,0
+Q12654,2023-03-28,Prospect,Casual,39,No contract,45-54,9,0,33,0
+Q12655,2024-01-21,Norwood,Premium,89,No contract,35-44,25,0,15,1
+Q12656,2024-09-27,Prospect,Standard,59,12-month,18-24,20,1,15,0
+Q12657,2025-04-01,Norwood,Standard,59,No contract,55+,11,0,8,1
+Q12658,2023-12-12,Unley,Standard,59,No contract,35-44,12,0,24,0
+Q12659,2025-08-01,Norwood,Standard,59,12-month,35-44,16,0,4,0
+Q12660,2023-01-04,Mawson Lakes,Casual,39,No contract,35-44,12,0,11,1
+Q12661,2025-06-16,Norwood,Premium,89,12-month,35-44,28,0,6,0
+Q12662,2024-09-26,Unley,Standard,59,12-month,25-34,12,1,15,0
+Q12663,2025-04-22,Unley,Standard,59,12-month,25-34,14,0,8,0
+Q12664,2025-01-29,Mawson Lakes,Standard,59,12-month,18-24,24,0,11,0
+Q12665,2024-11-28,Norwood,Standard,59,12-month,45-54,7,0,13,0
+Q12666,2024-09-05,Norwood,Standard,59,12-month,25-34,14,0,15,0
+Q12667,2023-03-06,Norwood,Standard,59,12-month,18-24,11,0,33,0
+Q12668,2024-07-01,Mawson Lakes,Standard,59,12-month,25-34,13,0,18,0
+Q12669,2024-11-01,Norwood,Premium,89,No contract,25-34,15,1,7,1
+Q12670,2024-01-18,Norwood,Standard,59,12-month,18-24,11,0,23,0
+Q12671,2023-12-16,Prospect,Standard,59,12-month,18-24,15,0,6,1
+Q12672,2023-02-24,Mawson Lakes,Standard,59,No contract,25-34,14,0,34,0
+Q12673,2024-04-23,Unley,Premium,89,No contract,35-44,21,1,20,0
+Q12674,2023-12-09,Prospect,Premium,89,No contract,35-44,21,1,24,0
+Q12675,2023-09-09,Prospect,Casual,39,No contract,25-34,6,0,3,1
+Q12676,2025-02-22,Mawson Lakes,Casual,39,No contract,18-24,7,0,3,1
+Q12677,2023-03-04,Prospect,Standard,59,12-month,25-34,9,0,33,0
+Q12678,2024-11-10,Mawson Lakes,Premium,89,12-month,35-44,15,0,13,0
+Q12679,2024-07-05,Prospect,Premium,89,No contract,55+,21,0,17,0
+Q12680,2025-07-05,Unley,Standard,59,12-month,25-34,14,0,5,0
+Q12681,2024-09-24,Prospect,Casual,39,No contract,25-34,6,0,7,1
+Q12682,2025-03-07,Mawson Lakes,Casual,39,No contract,25-34,9,0,3,1
+Q12683,2023-03-30,Norwood,Standard,59,12-month,25-34,11,1,27,1
+Q12684,2025-09-08,Norwood,Premium,89,12-month,25-34,22,1,3,0
+Q12685,2023-08-20,Mawson Lakes,Premium,89,No contract,35-44,19,0,28,0
+Q12686,2025-01-22,Prospect,Standard,59,12-month,35-44,13,0,11,0
+Q12687,2025-01-27,Prospect,Casual,39,No contract,35-44,6,0,11,0
+Q12688,2025-05-02,Prospect,Standard,59,12-month,35-44,12,0,7,0
+Q12689,2024-05-07,Unley,Standard,59,No contract,18-24,17,0,19,0
+Q12690,2023-06-21,Mawson Lakes,Standard,59,No contract,25-34,14,1,30,0
+Q12691,2025-09-16,Prospect,Casual,39,No contract,25-34,5,1,3,0
+Q12692,2025-09-14,Prospect,Premium,89,12-month,25-34,21,1,3,0
+Q12693,2024-08-07,Unley,Premium,89,12-month,25-34,19,0,11,1
+Q12694,2023-07-07,Norwood,Standard,59,12-month,55+,20,0,26,1
+Q12695,2023-06-18,Norwood,Standard,59,12-month,35-44,15,1,30,0
+Q12696,2024-04-05,Unley,Standard,59,No contract,35-44,20,0,20,0
+Q12697,2025-07-09,Unley,Premium,89,12-month,25-34,27,0,5,0
+Q12698,2023-02-18,Unley,Standard,59,No contract,25-34,14,0,34,0
+Q12699,2023-01-01,Mawson Lakes,Premium,89,No contract,25-34,21,1,35,0
+Q12700,2023-05-20,Prospect,Premium,89,No contract,45-54,19,1,31,0
+Q12701,2025-02-15,Prospect,Standard,59,No contract,25-34,13,1,10,0
+Q12702,2023-05-11,Unley,Casual,39,No contract,25-34,7,0,4,1
+Q12703,2025-02-09,Unley,Standard,59,No contract,55+,23,0,10,0
+Q12704,2025-09-11,Mawson Lakes,Casual,39,No contract,25-34,8,0,1,1
+Q12705,2024-04-09,Prospect,Standard,59,No contract,25-34,20,0,20,0
+Q12706,2025-05-21,Prospect,Casual,39,No contract,18-24,9,1,2,1
+Q12707,2025-08-30,Unley,Standard,59,12-month,25-34,9,0,4,0
+Q12708,2025-09-22,Norwood,Premium,89,12-month,35-44,14,1,3,0
+Q12709,2025-08-25,Prospect,Standard,59,12-month,35-44,14,0,4,0
+Q12710,2024-02-15,Mawson Lakes,Casual,39,No contract,45-54,10,0,14,1
+Q12711,2023-04-01,Prospect,Standard,59,No contract,25-34,16,0,25,1
+Q12712,2023-03-22,Norwood,Premium,89,12-month,45-54,25,0,33,0
+Q12713,2024-02-21,Mawson Lakes,Premium,89,No contract,45-54,23,0,22,0
+Q12714,2024-05-12,Unley,Premium,89,12-month,25-34,18,0,19,0
+Q12715,2025-02-09,Norwood,Premium,89,No contract,25-34,19,1,7,1
+Q12716,2025-07-20,Unley,Casual,39,No contract,35-44,8,0,5,0
+Q12717,2023-12-07,Prospect,Standard,59,12-month,25-34,16,1,24,0
+Q12718,2023-01-12,Unley,Standard,59,12-month,55+,14,1,35,0
+Q12719,2023-01-03,Mawson Lakes,Casual,39,No contract,18-24,9,0,3,1
+Q12720,2024-11-10,Norwood,Standard,59,12-month,55+,7,0,13,0
+Q12721,2023-12-31,Norwood,Casual,39,No contract,25-34,5,0,2,1
+Q12722,2023-08-04,Norwood,Casual,39,No contract,25-34,9,0,28,0
+Q12723,2023-07-01,Unley,Standard,59,12-month,35-44,15,0,30,0
+Q12724,2023-12-17,Norwood,Premium,89,12-month,45-54,23,0,14,1
+Q12725,2023-12-10,Norwood,Standard,59,12-month,25-34,13,0,24,0
+Q12726,2023-08-02,Prospect,Standard,59,No contract,18-24,13,1,28,0
+Q12727,2025-01-10,Mawson Lakes,Premium,89,12-month,18-24,23,0,11,0
+Q12728,2023-11-28,Prospect,Casual,39,No contract,35-44,9,0,25,0
+Q12729,2024-06-03,Unley,Standard,59,12-month,35-44,9,0,9,1
+Q12730,2025-04-05,Norwood,Standard,59,No contract,35-44,10,0,4,1
+Q12731,2023-03-18,Norwood,Standard,59,12-month,25-34,16,0,33,0
+Q12732,2024-03-09,Unley,Casual,39,No contract,45-54,10,1,18,1
+Q12733,2024-07-16,Norwood,Casual,39,No contract,25-34,7,1,17,0
+Q12734,2023-06-19,Mawson Lakes,Standard,59,12-month,35-44,14,1,14,1
+Q12735,2024-10-17,Norwood,Standard,59,No contract,45-54,20,1,14,0
+Q12736,2024-04-08,Unley,Casual,39,No contract,18-24,7,0,3,1
+Q12737,2024-10-14,Unley,Casual,39,No contract,25-34,4,0,14,0
+Q12738,2024-05-24,Mawson Lakes,Premium,89,12-month,18-24,20,1,19,0
+Q12739,2023-08-12,Unley,Premium,89,12-month,25-34,20,1,28,0
+Q12740,2025-01-28,Mawson Lakes,Standard,59,No contract,55+,12,0,4,1
+Q12741,2024-05-23,Mawson Lakes,Premium,89,No contract,25-34,27,0,19,0
+Q12742,2024-03-03,Unley,Casual,39,No contract,25-34,7,0,15,1
+Q12743,2024-03-20,Norwood,Casual,39,No contract,25-34,13,0,21,0
+Q12744,2024-05-31,Norwood,Standard,59,12-month,18-24,12,0,19,0
+Q12745,2024-05-11,Prospect,Standard,59,12-month,18-24,18,0,16,1
+Q12746,2024-03-27,Unley,Standard,59,No contract,35-44,12,0,14,1
+Q12747,2023-10-16,Unley,Premium,89,No contract,18-24,18,0,19,1
+Q12748,2024-06-19,Prospect,Premium,89,12-month,25-34,25,0,18,0
+Q12749,2024-11-13,Mawson Lakes,Casual,39,No contract,18-24,5,0,13,0
+Q12750,2023-07-23,Norwood,Standard,59,No contract,25-34,14,1,29,0
+Q12751,2025-07-31,Unley,Premium,89,12-month,45-54,20,1,5,0
+Q12752,2023-12-08,Prospect,Standard,59,No contract,55+,12,0,24,0
+Q12753,2024-04-14,Norwood,Standard,59,12-month,25-34,17,1,20,0
+Q12754,2024-07-25,Mawson Lakes,Premium,89,No contract,35-44,16,1,17,0
+Q12755,2025-08-26,Norwood,Premium,89,12-month,18-24,12,0,4,0
+Q12756,2025-03-17,Norwood,Premium,89,No contract,35-44,20,1,9,0
+Q12757,2025-09-13,Norwood,Standard,59,No contract,25-34,17,0,3,0
+Q12758,2023-04-21,Unley,Standard,59,No contract,45-54,9,0,32,0
+Q12759,2023-02-08,Unley,Casual,39,No contract,25-34,6,0,23,1
+Q12760,2024-07-27,Unley,Standard,59,No contract,45-54,12,0,17,0
+Q12761,2023-02-16,Norwood,Standard,59,12-month,45-54,18,0,34,0
+Q12762,2023-09-06,Prospect,Premium,89,12-month,25-34,15,0,19,1
+Q12763,2025-02-27,Unley,Casual,39,No contract,18-24,1,0,1,1
+Q12764,2024-11-18,Prospect,Standard,59,12-month,18-24,17,0,13,0
+Q12765,2023-02-26,Prospect,Standard,59,12-month,45-54,11,0,34,0
+Q12766,2024-05-04,Unley,Casual,39,No contract,55+,10,0,19,0
+Q12767,2024-02-25,Norwood,Standard,59,No contract,45-54,17,0,22,0
+Q12768,2025-05-05,Prospect,Standard,59,No contract,55+,14,1,3,1
+Q12769,2024-08-28,Unley,Standard,59,No contract,18-24,17,0,16,0
+Q12770,2023-10-25,Mawson Lakes,Casual,39,No contract,35-44,6,0,16,1
+Q12771,2025-01-01,Norwood,Casual,39,No contract,25-34,8,1,9,1
+Q12772,2023-12-31,Norwood,Premium,89,12-month,25-34,29,1,24,0
+Q12773,2024-08-23,Norwood,Casual,39,No contract,25-34,6,1,5,1
+Q12774,2023-07-16,Unley,Premium,89,No contract,45-54,33,0,29,0
+Q12775,2024-07-24,Unley,Standard,59,12-month,55+,23,0,17,0
+Q12776,2023-07-18,Unley,Standard,59,12-month,25-34,17,1,29,0
+Q12777,2023-03-26,Unley,Standard,59,No contract,25-34,13,1,33,0
+Q12778,2024-06-14,Unley,Premium,89,12-month,55+,17,1,18,0
+Q12779,2024-03-04,Prospect,Premium,89,No contract,55+,19,0,21,0
+Q12780,2024-07-19,Unley,Standard,59,No contract,18-24,19,1,17,0
+Q12781,2024-07-19,Unley,Standard,59,No contract,55+,15,1,2,1
+Q12782,2025-06-10,Unley,Standard,59,12-month,35-44,15,0,6,0
+Q12783,2024-04-23,Norwood,Standard,59,12-month,45-54,18,0,20,0
+Q12784,2024-06-11,Norwood,Premium,89,No contract,55+,18,0,18,0
+Q12785,2023-09-03,Norwood,Standard,59,No contract,35-44,18,1,27,0
+Q12786,2025-08-27,Norwood,Standard,59,12-month,18-24,24,1,4,0
+Q12787,2024-02-23,Unley,Casual,39,No contract,55+,7,1,22,0
+Q12788,2025-07-10,Prospect,Standard,59,No contract,18-24,17,0,2,1
+Q12789,2025-06-10,Norwood,Standard,59,No contract,35-44,13,0,4,1
+Q12790,2025-03-25,Norwood,Casual,39,No contract,55+,8,0,1,1
+Q12791,2025-01-05,Mawson Lakes,Premium,89,12-month,35-44,14,1,11,0
+Q12792,2023-07-07,Unley,Premium,89,No contract,25-34,21,1,29,0
+Q12793,2023-10-17,Norwood,Standard,59,No contract,25-34,16,0,26,0
+Q12794,2023-11-03,Prospect,Casual,39,No contract,45-54,10,0,15,1
+Q12795,2023-05-23,Prospect,Premium,89,12-month,25-34,24,1,31,0
+Q12796,2025-09-07,Prospect,Premium,89,No contract,25-34,31,1,3,0
+Q12797,2025-01-14,Unley,Casual,39,No contract,25-34,10,1,5,1
+Q12798,2023-08-17,Unley,Standard,59,12-month,45-54,23,1,28,0
+Q12799,2024-02-07,Prospect,Premium,89,12-month,45-54,20,0,22,0
+Q12800,2023-07-21,Norwood,Casual,39,No contract,25-34,18,0,19,1
+Q12801,2023-03-18,Unley,Standard,59,12-month,45-54,19,0,33,0
+Q12802,2024-11-02,Unley,Casual,39,No contract,25-34,9,1,13,0
+Q12803,2025-05-02,Unley,Premium,89,No contract,18-24,22,1,4,1
+Q12804,2024-05-29,Unley,Casual,39,No contract,25-34,7,0,19,0
+Q12805,2024-02-28,Mawson Lakes,Standard,59,No contract,35-44,11,0,22,0
+Q12806,2023-12-12,Unley,Standard,59,No contract,45-54,13,0,22,1
+Q12807,2024-10-16,Prospect,Standard,59,12-month,25-34,15,1,14,0
+Q12808,2025-08-03,Mawson Lakes,Premium,89,No contract,25-34,22,1,4,0
+Q12809,2024-11-23,Unley,Casual,39,No contract,35-44,10,0,13,0
+Q12810,2024-01-08,Mawson Lakes,Standard,59,12-month,25-34,19,0,23,0
+Q12811,2024-11-29,Prospect,Standard,59,No contract,45-54,16,1,13,0
+Q12812,2024-04-16,Norwood,Standard,59,12-month,25-34,17,0,20,0
+Q12813,2024-10-23,Prospect,Premium,89,No contract,35-44,14,1,14,0
+Q12814,2023-09-09,Prospect,Casual,39,No contract,45-54,7,1,17,1
+Q12815,2023-04-08,Unley,Casual,39,No contract,35-44,7,0,29,1
+Q12816,2023-08-31,Mawson Lakes,Casual,39,No contract,18-24,6,0,21,1
+Q12817,2024-07-21,Norwood,Standard,59,12-month,18-24,12,0,17,0
+Q12818,2024-03-01,Mawson Lakes,Standard,59,12-month,25-34,13,0,22,0
+Q12819,2023-09-19,Unley,Premium,89,12-month,55+,14,0,27,0
+Q12820,2024-07-12,Unley,Premium,89,12-month,35-44,18,0,17,0
+Q12821,2024-02-09,Unley,Standard,59,12-month,35-44,15,1,22,0
+Q12822,2024-12-20,Prospect,Premium,89,12-month,25-34,17,1,12,0
+Q12823,2024-10-14,Prospect,Casual,39,No contract,35-44,9,0,7,1
+Q12824,2024-10-05,Unley,Standard,59,12-month,25-34,19,0,2,1
+Q12825,2023-12-06,Norwood,Standard,59,No contract,18-24,19,0,24,0
+Q12826,2024-10-25,Norwood,Casual,39,No contract,25-34,8,1,8,1
+Q12827,2024-07-15,Prospect,Casual,39,No contract,55+,3,1,17,0
+Q12828,2024-01-14,Unley,Casual,39,No contract,45-54,8,0,23,0
+Q12829,2025-04-01,Prospect,Casual,39,No contract,25-34,5,0,1,1
+Q12830,2025-07-20,Unley,Standard,59,12-month,25-34,14,0,5,0
+Q12831,2025-03-19,Prospect,Standard,59,12-month,35-44,13,0,2,1
+Q12832,2024-02-15,Unley,Standard,59,No contract,45-54,11,0,22,0
+Q12833,2024-10-01,Prospect,Standard,59,No contract,35-44,15,0,14,0
+Q12834,2023-09-29,Unley,Premium,89,12-month,18-24,23,1,27,0
+Q12835,2025-08-13,Unley,Standard,59,12-month,45-54,7,0,4,0
+Q12836,2024-04-06,Mawson Lakes,Premium,89,No contract,35-44,25,1,20,0
+Q12837,2024-07-03,Unley,Standard,59,12-month,35-44,14,0,17,0
+Q12838,2024-03-06,Norwood,Premium,89,No contract,18-24,21,1,21,0
+Q12839,2025-07-21,Norwood,Premium,89,No contract,25-34,22,0,5,0
+Q12840,2025-03-29,Unley,Casual,39,No contract,35-44,6,1,9,0
+Q12841,2024-09-18,Unley,Standard,59,No contract,25-34,15,0,15,0
+Q12842,2023-01-13,Unley,Standard,59,12-month,35-44,5,1,35,0
+Q12843,2023-02-13,Prospect,Casual,39,No contract,25-34,12,0,34,0
+Q12844,2024-05-16,Unley,Casual,39,No contract,45-54,10,0,12,1
+Q12845,2024-03-01,Unley,Standard,59,12-month,18-24,11,1,22,0
+Q12846,2023-01-02,Norwood,Premium,89,12-month,18-24,19,1,35,0
+Q12847,2024-02-11,Unley,Standard,59,No contract,25-34,10,0,22,0
+Q12848,2025-06-01,Unley,Standard,59,12-month,35-44,19,0,6,0
+Q12849,2024-10-03,Prospect,Premium,89,No contract,35-44,25,1,14,0
+Q12850,2025-03-24,Prospect,Premium,89,12-month,35-44,20,1,9,0
+Q12851,2023-11-01,Mawson Lakes,Casual,39,No contract,18-24,11,0,25,0
+Q12852,2023-04-14,Unley,Standard,59,No contract,18-24,13,0,32,0
+Q12853,2023-03-10,Unley,Standard,59,12-month,25-34,12,0,33,0
+Q12854,2024-03-25,Norwood,Casual,39,No contract,18-24,5,0,6,1
+Q12855,2023-01-11,Prospect,Standard,59,12-month,25-34,16,0,35,0
+Q12856,2025-02-26,Unley,Casual,39,No contract,25-34,13,1,8,1
+Q12857,2024-01-06,Norwood,Standard,59,12-month,25-34,13,1,23,0
+Q12858,2023-10-30,Mawson Lakes,Casual,39,No contract,25-34,8,1,26,0
+Q12859,2025-04-16,Prospect,Standard,59,No contract,45-54,13,0,8,0
+Q12860,2024-05-08,Unley,Standard,59,12-month,18-24,14,0,19,0
+Q12861,2025-03-06,Norwood,Standard,59,12-month,25-34,13,0,9,0
+Q12862,2025-02-04,Prospect,Standard,59,12-month,45-54,17,1,10,0
+Q12863,2025-06-10,Unley,Standard,59,12-month,25-34,23,1,6,0
+Q12864,2024-04-28,Prospect,Premium,89,No contract,25-34,26,0,20,0
+Q12865,2024-09-03,Prospect,Casual,39,No contract,55+,7,1,15,0
+Q12866,2023-12-14,Mawson Lakes,Standard,59,No contract,35-44,11,0,4,1
+Q12867,2025-03-11,Mawson Lakes,Casual,39,No contract,35-44,11,1,1,1
+Q12868,2023-08-19,Norwood,Standard,59,No contract,25-34,18,0,28,0
+Q12869,2024-01-30,Norwood,Casual,39,No contract,45-54,10,1,23,0
+Q12870,2024-12-03,Prospect,Casual,39,No contract,25-34,9,0,12,0
+Q12871,2023-07-12,Unley,Standard,59,No contract,25-34,18,0,7,1
+Q12872,2025-07-25,Prospect,Casual,39,No contract,35-44,10,0,1,1
+Q12873,2024-04-29,Norwood,Casual,39,No contract,35-44,8,1,20,0
+Q12874,2025-01-03,Mawson Lakes,Standard,59,No contract,35-44,13,1,11,0
+Q12875,2024-04-13,Prospect,Standard,59,No contract,45-54,19,0,20,0
+Q12876,2024-02-16,Mawson Lakes,Premium,89,No contract,35-44,18,1,22,0
+Q12877,2024-04-25,Prospect,Standard,59,12-month,18-24,15,0,20,0
+Q12878,2024-12-07,Prospect,Standard,59,12-month,35-44,10,0,12,0
+Q12879,2023-05-22,Norwood,Casual,39,No contract,45-54,8,0,15,1
+Q12880,2023-11-12,Mawson Lakes,Casual,39,No contract,45-54,10,0,22,1
+Q12881,2023-09-03,Norwood,Standard,59,12-month,45-54,18,0,27,0
+Q12882,2024-03-29,Unley,Casual,39,No contract,25-34,6,0,21,0
+Q12883,2023-01-17,Norwood,Casual,39,No contract,35-44,9,0,15,1
+Q12884,2023-08-09,Prospect,Casual,39,No contract,18-24,10,1,15,1
+Q12885,2024-10-13,Unley,Casual,39,No contract,35-44,9,1,14,0
+Q12886,2024-06-25,Unley,Casual,39,No contract,18-24,8,0,15,1
+Q12887,2024-01-04,Prospect,Casual,39,No contract,45-54,11,0,8,1
+Q12888,2024-02-16,Prospect,Standard,59,12-month,25-34,14,0,22,0
+Q12889,2025-02-20,Norwood,Premium,89,12-month,25-34,17,1,10,0
+Q12890,2024-11-01,Unley,Standard,59,No contract,45-54,13,1,13,0
+Q12891,2023-03-09,Norwood,Casual,39,No contract,45-54,10,1,33,0
+Q12892,2023-07-09,Unley,Premium,89,12-month,35-44,19,1,29,0
+Q12893,2023-11-02,Norwood,Premium,89,12-month,25-34,25,1,25,0
+Q12894,2024-09-24,Unley,Casual,39,No contract,55+,7,0,8,1
+Q12895,2024-06-14,Unley,Premium,89,12-month,25-34,25,0,18,0
+Q12896,2025-02-27,Norwood,Standard,59,No contract,35-44,9,1,8,1
+Q12897,2024-12-10,Norwood,Standard,59,No contract,25-34,12,1,12,0
+Q12898,2024-03-22,Norwood,Casual,39,No contract,55+,9,1,17,1
+Q12899,2024-10-11,Prospect,Premium,89,No contract,25-34,19,1,14,0
+Q12900,2023-01-14,Unley,Standard,59,No contract,18-24,16,0,35,0
+Q12901,2024-05-30,Mawson Lakes,Casual,39,No contract,18-24,9,0,2,1
+Q12902,2024-07-02,Norwood,Standard,59,No contract,25-34,11,0,17,0
+Q12903,2023-04-07,Norwood,Standard,59,No contract,45-54,13,0,10,1
+Q12904,2023-01-11,Prospect,Premium,89,No contract,25-34,18,1,13,1
+Q12905,2023-04-27,Unley,Premium,89,No contract,55+,22,1,32,0
+Q12906,2023-03-01,Norwood,Premium,89,No contract,35-44,21,0,34,0
+Q12907,2025-06-22,Unley,Standard,59,No contract,35-44,13,1,6,0
+Q12908,2025-09-07,Prospect,Standard,59,No contract,25-34,7,0,1,1
+Q12909,2025-01-24,Unley,Standard,59,12-month,35-44,15,1,11,0
+Q12910,2024-09-01,Mawson Lakes,Standard,59,No contract,45-54,11,0,15,0
+Q12911,2025-08-03,Norwood,Standard,59,12-month,18-24,11,1,4,0
+Q12912,2025-05-17,Norwood,Standard,59,12-month,35-44,16,1,7,0
+Q12913,2023-03-26,Norwood,Standard,59,No contract,45-54,14,0,33,0
+Q12914,2023-09-11,Mawson Lakes,Standard,59,12-month,18-24,14,1,27,0
+Q12915,2023-08-17,Mawson Lakes,Standard,59,No contract,25-34,18,0,28,0
+Q12916,2025-06-02,Prospect,Casual,39,No contract,18-24,7,0,4,1
+Q12917,2024-09-17,Mawson Lakes,Casual,39,No contract,55+,5,0,15,0
+Q12918,2024-07-28,Norwood,Standard,59,12-month,18-24,14,0,13,1
+Q12919,2023-04-06,Mawson Lakes,Premium,89,No contract,18-24,28,1,32,0
+Q12920,2023-02-11,Mawson Lakes,Casual,39,No contract,25-34,11,1,34,0
+Q12921,2024-06-28,Norwood,Standard,59,12-month,18-24,9,0,16,1
+Q12922,2024-09-15,Unley,Standard,59,12-month,18-24,23,1,15,0
+Q12923,2025-07-29,Norwood,Casual,39,No contract,18-24,9,0,2,1
+Q12924,2024-05-23,Unley,Standard,59,12-month,18-24,15,0,19,0
+Q12925,2024-06-30,Unley,Casual,39,No contract,35-44,7,1,18,0
+Q12926,2023-12-24,Mawson Lakes,Premium,89,12-month,35-44,24,0,24,0
+Q12927,2024-03-23,Mawson Lakes,Standard,59,12-month,25-34,12,0,11,1
+Q12928,2023-06-21,Unley,Premium,89,No contract,25-34,20,1,30,0
+Q12929,2023-03-10,Norwood,Standard,59,No contract,35-44,17,0,33,0
+Q12930,2024-01-16,Prospect,Premium,89,12-month,35-44,16,1,23,0
+Q12931,2025-04-17,Unley,Standard,59,12-month,25-34,16,0,8,0
+Q12932,2023-09-15,Unley,Standard,59,No contract,35-44,9,0,27,0
+Q12933,2025-03-26,Prospect,Casual,39,No contract,18-24,13,0,6,1
+Q12934,2024-12-21,Unley,Casual,39,No contract,18-24,3,1,11,1
+Q12935,2024-05-03,Mawson Lakes,Premium,89,No contract,35-44,24,1,19,0
+Q12936,2023-07-29,Norwood,Premium,89,No contract,45-54,19,0,29,0
+Q12937,2025-05-10,Mawson Lakes,Premium,89,No contract,55+,11,1,4,1
+Q12938,2024-11-10,Prospect,Standard,59,12-month,45-54,16,1,13,0
+Q12939,2024-09-14,Prospect,Standard,59,No contract,45-54,9,0,15,0
+Q12940,2024-09-02,Unley,Standard,59,12-month,35-44,14,0,15,0
+Q12941,2023-06-02,Unley,Premium,89,12-month,25-34,26,1,30,0
+Q12942,2023-03-22,Norwood,Casual,39,No contract,35-44,5,0,21,1
+Q12943,2023-07-25,Mawson Lakes,Premium,89,No contract,18-24,25,0,29,0
+Q12944,2023-08-09,Unley,Standard,59,12-month,45-54,10,1,28,0
+Q12945,2025-09-18,Unley,Premium,89,No contract,45-54,19,0,3,0
+Q12946,2024-02-16,Unley,Premium,89,12-month,25-34,14,1,22,0
+Q12947,2025-07-02,Norwood,Premium,89,No contract,45-54,18,0,2,1
+Q12948,2023-02-06,Unley,Standard,59,12-month,45-54,18,1,34,0
+Q12949,2024-07-01,Norwood,Casual,39,No contract,45-54,4,1,18,0
+Q12950,2024-07-31,Prospect,Standard,59,12-month,25-34,18,1,17,0
+Q12951,2025-03-23,Unley,Premium,89,12-month,35-44,26,1,9,0
+Q12952,2024-06-05,Prospect,Standard,59,No contract,25-34,9,0,18,0
+Q12953,2025-05-08,Prospect,Casual,39,No contract,18-24,7,0,6,1
+Q12954,2025-01-07,Unley,Standard,59,No contract,18-24,19,0,11,0
+Q12955,2023-02-06,Unley,Standard,59,12-month,45-54,19,1,5,1
+Q12956,2024-06-03,Prospect,Standard,59,12-month,35-44,11,0,18,0
+Q12957,2023-04-06,Norwood,Standard,59,No contract,18-24,11,0,32,0
+Q12958,2024-10-12,Unley,Standard,59,No contract,25-34,17,1,12,1
+Q12959,2023-03-08,Norwood,Standard,59,12-month,35-44,10,1,33,0
+Q12960,2024-02-14,Unley,Premium,89,12-month,55+,21,1,22,0
+Q12961,2023-09-19,Unley,Standard,59,12-month,35-44,17,0,27,0
+Q12962,2024-03-16,Prospect,Premium,89,No contract,25-34,30,1,21,0
+Q12963,2024-08-24,Prospect,Casual,39,No contract,35-44,5,0,7,1
+Q12964,2024-06-22,Norwood,Premium,89,No contract,25-34,22,1,18,0
+Q12965,2023-03-23,Norwood,Standard,59,12-month,45-54,12,0,33,0
+Q12966,2023-06-12,Unley,Standard,59,No contract,55+,15,1,30,0
+Q12967,2023-02-09,Prospect,Standard,59,12-month,45-54,12,0,34,0
+Q12968,2024-10-05,Unley,Premium,89,12-month,45-54,18,1,14,0
+Q12969,2025-05-04,Unley,Standard,59,No contract,35-44,11,0,3,1
+Q12970,2025-07-21,Prospect,Premium,89,No contract,35-44,18,1,5,0
+Q12971,2024-09-09,Norwood,Standard,59,12-month,55+,11,0,3,1
+Q12972,2025-04-13,Prospect,Premium,89,12-month,45-54,20,1,8,0
+Q12973,2024-06-15,Norwood,Standard,59,12-month,25-34,15,0,18,0
+Q12974,2024-05-29,Unley,Casual,39,No contract,35-44,10,1,19,0
+Q12975,2024-06-05,Prospect,Standard,59,No contract,18-24,17,1,17,1
+Q12976,2023-10-28,Unley,Premium,89,No contract,18-24,14,1,26,0
+Q12977,2024-05-27,Norwood,Casual,39,No contract,55+,10,0,9,1
+Q12978,2023-01-02,Prospect,Standard,59,12-month,18-24,15,1,35,0
+Q12979,2025-08-09,Unley,Premium,89,12-month,18-24,24,1,4,0
+Q12980,2024-01-08,Norwood,Premium,89,No contract,35-44,17,1,23,0
+Q12981,2024-09-26,Norwood,Standard,59,12-month,35-44,14,1,15,0
+Q12982,2025-07-03,Prospect,Premium,89,12-month,25-34,11,1,5,0
+Q12983,2023-02-05,Unley,Premium,89,12-month,45-54,30,0,34,0
+Q12984,2024-09-03,Norwood,Casual,39,No contract,55+,12,0,10,1
+Q12985,2024-03-20,Norwood,Premium,89,No contract,25-34,21,0,11,1
+Q12986,2025-02-18,Norwood,Standard,59,12-month,25-34,15,1,10,0
+Q12987,2024-01-05,Prospect,Premium,89,No contract,55+,21,0,23,0
+Q12988,2023-05-28,Unley,Standard,59,12-month,35-44,15,0,31,0
+Q12989,2023-09-28,Prospect,Premium,89,No contract,25-34,22,1,27,0
+Q12990,2024-09-02,Unley,Standard,59,12-month,18-24,17,0,15,0
+Q12991,2024-12-12,Mawson Lakes,Standard,59,No contract,25-34,15,1,4,1
+Q12992,2024-08-20,Norwood,Premium,89,12-month,18-24,20,1,2,1
+Q12993,2023-01-23,Norwood,Standard,59,12-month,25-34,12,0,35,0
+Q12994,2025-06-19,Prospect,Standard,59,12-month,25-34,9,0,6,0
+Q12995,2024-03-15,Unley,Premium,89,No contract,45-54,33,0,21,0
+Q12996,2023-09-27,Unley,Standard,59,12-month,55+,15,0,27,0
+Q12997,2025-08-06,Norwood,Standard,59,12-month,18-24,20,1,4,0
+Q12998,2023-01-18,Prospect,Casual,39,No contract,45-54,10,0,18,1
+Q12999,2023-10-29,Norwood,Casual,39,No contract,35-44,10,1,8,1

@@ -1,0 +1,18 @@
+Chapter 4: Excel formulas used with data/bramblewood_2025.xlsx
+(Sales sheet has 4,571 order rows in A2:G4572; Products in A2:D15 of the Products sheet)
+
+4.1 Revenue per row (Sales!H2, filled down)
+=E2*F2*(1-G2)
+
+4.2 Category from the Products sheet (Sales!I2, filled down)
+=XLOOKUP(D2,Products!$A$2:$A$15,Products!$B$2:$B$15,"Not found")
+
+   Older Excel without XLOOKUP:
+=IFERROR(INDEX(Products!$B$2:$B$15,
+        MATCH(D2,Products!$A$2:$A$15,0)),"Not found")
+
+4.3 Revenue by store and category (Summary!B2, filled right and down)
+=SUMIFS(Sales!$H$2:$H$4572,Sales!$C$2:$C$4572,$A2,Sales!$I$2:$I$4572,B$1)
+
+4.4 Orders with 20% or more off, by store (Summary!F2, filled down)
+=COUNTIFS(Sales!$C$2:$C$4572,$A2,Sales!$G$2:$G$4572,">=0.2")

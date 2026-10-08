@@ -1,0 +1,21 @@
+// Chapter 7: DAX measures for the Bramblewood model in Power BI
+// Tables: Sales (fact), Products, Stores, and a 'Date' table marked as a date table,
+// related to Sales[order_date]. Sales has a calculated column:
+//   Line Revenue = Sales[units] * Sales[unit_price] * (1 - Sales[discount])
+
+Total Revenue = SUM ( Sales[Line Revenue] )
+
+Total Cost =
+SUMX ( Sales, Sales[units] * RELATED ( Products[unit_cost] ) )
+
+Gross Margin % =
+DIVIDE ( [Total Revenue] - [Total Cost], [Total Revenue] )
+
+Revenue LY =
+CALCULATE ( [Total Revenue], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+Revenue YoY % = DIVIDE ( [Total Revenue] - [Revenue LY], [Revenue LY] )
+
+Orders = DISTINCTCOUNT ( Sales[order_id] )
+
+Average Order Value = DIVIDE ( [Total Revenue], [Orders] )

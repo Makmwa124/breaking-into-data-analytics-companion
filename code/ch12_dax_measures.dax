@@ -1,0 +1,16 @@
+// Chapter 12: DAX measures for the Riverbend operations dashboard
+// Table: Appointments (one row per appointment), related to a marked 'Date' table.
+
+Total Appointments = COUNTROWS ( Appointments )
+
+No-shows = SUM ( Appointments[no_show] )
+
+No-show Rate = DIVIDE ( [No-shows], [Total Appointments] )
+
+Median Wait (days) = MEDIAN ( Appointments[wait_days] )
+
+Long Wait % =
+DIVIDE (
+    CALCULATE ( [Total Appointments], Appointments[wait_days] > 14 ),
+    [Total Appointments]
+)
