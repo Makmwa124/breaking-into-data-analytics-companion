@@ -37,7 +37,8 @@ Tested with Python 3.13 and pandas 3.0 (pandas 2.x works too; one printed data t
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon. The PDF bundle with a printable cheat sheet is on Gumroad at [mathewkariuki.gumroad.com](https://mathewkariuki.gumroad.com).
+- **Paperback:** [Amazon.com](https://www.amazon.com/dp/B0HP73JZKM) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HP73JZKM)
+- **Kindle:** [Amazon.com](https://www.amazon.com/dp/B0HP7DGWY5) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HP7DGWY5)
 
 ## About
 
