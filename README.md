@@ -45,3 +45,15 @@ Tested with Python 3.13 and pandas 3.0 (pandas 2.x works too; one printed data t
 Bramblewood Supplies, Quokka Fitness, Riverbend Community Health and every person named in the examples are fictional, and the data was generated for teaching. These files are free to use for learning, including in your own portfolio projects (please change the question so the work is yours). The book is © 2026 Mathew Kariuki. All rights reserved.
 
 Spotted a problem with an example or the data? Please open an issue.
+
+
+## Free lessons that go with this book
+
+Practise the skills from the book with free video lessons, notebooks and real datasets on [Mathew K Analytics](https://www.mathewkanalytics.com/):
+
+- [Data analyst learning path](https://www.mathewkanalytics.com/paths/data-analyst/)
+- [Data Analytics Zero to Hero course](https://www.mathewkanalytics.com/series/data-analytics-zero-to-hero/)
+- [Real-World Data Analytics projects](https://www.mathewkanalytics.com/series/real-world-data-analytics/)
+- [Data analyst capstone project](https://www.mathewkanalytics.com/lessons/python-for-data-analysts/006-data-analyst-capstone/)
+- [Free practice datasets](https://www.mathewkanalytics.com/datasets/)
+- [Free cheat sheets](https://www.mathewkanalytics.com/cheat-sheets/)
